@@ -1,0 +1,37 @@
+name: 🐛 Reportar Juego Caído o Error
+description: Si un juego tiene pantalla negra, no carga el sonido o el enlace está caído, repórtalo aquí.
+title: "[Reporte]: Juego Caído - "
+labels: ["bug", "juego-caido"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Lamentamos que hayas tenido problemas al jugar. Por favor describe el fallo para arreglarlo o sustituir el servidor.
+  - type: input
+    id: game_name
+    attributes:
+      label: Nombre del Juego Afectado
+      description: Título exacto del juego en RetroCloud.
+      placeholder: "Ej: Super Mario 64"
+    validations:
+      required: true
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Tipo de Problema
+      options:
+        - "Pantalla negra (No carga nada)"
+        - "Error 404 / Enlace caído"
+        - "Sin sonido o volumen bloqueado"
+        - "Los controles no responden"
+        - "Se cuelga o va muy lento (lag)"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Detalles adicionales
+      description: ¿En qué navegador o dispositivo juegas? (Chrome, Firefox, Safari, Móvil, PC).
+      placeholder: "Estaba jugando en Chrome en Windows 11 y la pantalla se queda cargando..."
+    validations:
+      required: false

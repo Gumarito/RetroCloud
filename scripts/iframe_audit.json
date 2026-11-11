@@ -1,0 +1,653 @@
+{
+  "canBeIframe": [
+    {
+      "id": "naruto-shippuden-ultimate-ninja-5",
+      "title": "Naruto Shippuden: Ultimate Ninja 5",
+      "url": "https://narutoshippuden5.online/"
+    },
+    {
+      "id": "burnout-3-takedown",
+      "title": "Burnout 3: Takedown",
+      "url": "https://burnout3.online/"
+    },
+    {
+      "id": "simpsons-hit-and-run",
+      "title": "The Simpsons: Hit & Run (WASM)",
+      "url": "https://shar-wasm.cjoseph.workers.dev/?skipmovie"
+    },
+    {
+      "id": "skate-3",
+      "title": "Skate 3 (Fan Made Web)",
+      "url": "https://skate.aaddpp.lol/"
+    },
+    {
+      "id": "subway-surfers",
+      "title": "Subway Surfers (Web Edition)",
+      "url": "https://subwaysurfers.online/"
+    },
+    {
+      "id": "crash-nitro-kart",
+      "title": "Crash Nitro Kart",
+      "url": "https://crashnitrokart.online/"
+    },
+    {
+      "id": "ncaa-football-10",
+      "title": "NCAA Football 10 (PSP Recomp)",
+      "url": "https://awest813.github.io/NCAA-10-PSP-Recomp/"
+    },
+    {
+      "id": "tony-hawk-s-pro-skater-3",
+      "title": "Tony Hawk's Pro Skater 3",
+      "url": "https://tonyhawkpro3.online/"
+    },
+    {
+      "id": "wwii-gi",
+      "title": "WWII GI",
+      "url": "https://rgc.zone/ports/ww2giweb/run.html"
+    }
+  ],
+  "blocked": [
+    {
+      "id": "minecraft-1-8-8",
+      "title": "Minecraft 1.8.8 (EaglercraftX)",
+      "url": "https://wasmarcade.com/minecraft",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "american-mcgee-s-alice",
+      "title": "American McGee’s Alice",
+      "url": "https://github.com/yselimarslan98-dot/alice-web",
+      "xfo": "deny"
+    },
+    {
+      "id": "counter-strike-2019",
+      "title": "Counter Strike 2019",
+      "url": "https://webstrike.me"
+    },
+    {
+      "id": "crash-bash-online",
+      "title": "Crash Bash Online",
+      "url": "https://crashbash.app/",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "diablo-ii-lord-of-destruction",
+      "title": "Diablo II: Lord of Destruction (D2-Web)",
+      "url": "https://diablo2.virtastic.app/",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "dragon-ball-z-budokai-tenkaichi-3",
+      "title": "Dragon Ball Z: Budokai Tenkaichi 3",
+      "url": "https://dragonballbt3.online/",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "dokdo",
+      "title": "DOKDO (restoration)",
+      "url": "https://dokdo.online"
+    },
+    {
+      "id": "deltarune-chapters-1-4",
+      "title": "Deltarune Chapters 1-4",
+      "url": "https://aukak.itch.io/deltarune"
+    },
+    {
+      "id": "createrria",
+      "title": "Createrria",
+      "url": "https://nomadic-ua.itch.io/createrria"
+    },
+    {
+      "id": "gold-miner-special-edition",
+      "title": "Gold Miner Special Edition",
+      "url": "https://wasmarcade.app/play/gold-miner",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "the-elder-scrolls-iii-morrowind",
+      "title": "The Elder Scrolls III: Morrowind (OpenMW)",
+      "url": "https://morrowind.virtastic.app/",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "fifa-street-2",
+      "title": "FIFA Street 2",
+      "url": "https://fifastreet2.fun/",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "gta-3",
+      "title": "GTA 3 (3)",
+      "url": "https://wasmarcade.com/gta3",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "fifa-14",
+      "title": "FIFA 14 (PSP)",
+      "url": "https://fifa14.online/",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "fifa-10",
+      "title": "FIFA 10 (PSP)",
+      "url": "https://fifa10.website/",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "kingdom-rush",
+      "title": "Kingdom Rush (Flash Edition)",
+      "url": "https://wasmarcade.app/play/kingdom-rush",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "magic-tower-50-floors",
+      "title": "Magic Tower: 50 Floors",
+      "url": "https://wasmarcade.app/play/magic-tower",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "luanti",
+      "title": "Luanti (Minetest)",
+      "url": "https://wasmga.me/games/luanti",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "metal-gear-solid",
+      "title": "Metal Gear Solid (Shadow Moses Web)",
+      "url": "https://mgs.ravenlight.net/",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "midnight-club-3-dub-edition",
+      "title": "Midnight Club 3: DUB Edition",
+      "url": "https://midnighhtclub3.online/",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "master-of-defence",
+      "title": "Master of Defence",
+      "url": "https://nomadic-ua.itch.io/master-of-defence"
+    },
+    {
+      "id": "luigi-s-picture-poker",
+      "title": "Luigi's Picture Poker",
+      "url": "https://marcy4000.itch.io/luigis-picture-poker"
+    },
+    {
+      "id": "nhl-94",
+      "title": "NHL '94",
+      "url": "https://kingof94.web.app/",
+      "xfo": "DENY"
+    },
+    {
+      "id": "nacht-der-untoten",
+      "title": "Nacht der Untoten",
+      "url": "https://zombies.bitcoinsapi.com/",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "nfl-street-2",
+      "title": "NFL Street 2 (NIL Street)",
+      "url": "https://nilstreet.playthecombine.com/",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "postal-2",
+      "title": "POSTAL 2 (KahnStation)",
+      "url": "https://kahn.lol/gopostal",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "need-for-speed-underground-2",
+      "title": "Need for Speed: Underground 2",
+      "url": "https://nfsu2.xyz/",
+      "xfo": "DENY"
+    },
+    {
+      "id": "naruto-shippuden-ultimate-ninja-impact",
+      "title": "Naruto Shippuden: Ultimate Ninja Impact",
+      "url": "https://narutoimpact.online/",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "pro-evolution-soccer-2014",
+      "title": "Pro Evolution Soccer 2014 (PSP)",
+      "url": "https://pes14.online/",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "raft-wars-2",
+      "title": "Raft Wars 2",
+      "url": "https://wasmarcade.app/play/raft-wars-2",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "silkroad-online",
+      "title": "Silkroad Online (OpenSRO)",
+      "url": "https://opensro.online/",
+      "xfo": "DENY"
+    },
+    {
+      "id": "project-i-g-i-i-m-going-in",
+      "title": "Project I.G.I.: I'm Going In",
+      "url": "https://playigi.com/game/",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "skate-rust",
+      "title": "Skate × Rust (Global Terror)",
+      "url": "https://global-terror.net/",
+      "xfo": "DENY"
+    },
+    {
+      "id": "space-station-13",
+      "title": "Space Station 13 (ss13.live)",
+      "url": "https://ss13.live",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "resident-evil-outbreak-file-1-2",
+      "title": "Resident Evil Outbreak File #1 & #2 (Outbreak Web)",
+      "url": "https://outbreakweb.com/",
+      "xfo": "DENY"
+    },
+    {
+      "id": "socom-ii-u-s-navy-seals",
+      "title": "SOCOM II: U.S. Navy SEALs (SOCOM Legacy)",
+      "url": "https://socomlegacy.com/",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "super-smash-bros",
+      "title": "Super Smash Bros. (smash.fun)",
+      "url": "https://smash.fun/",
+      "xfo": "DENY"
+    },
+    {
+      "id": "stick-war",
+      "title": "Stick War",
+      "url": "https://wasmarcade.app/play/stick-war",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "wasm-arcade",
+      "title": "WASM Arcade",
+      "url": "https://wasmarcade.com/",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "tremulous",
+      "title": "Tremulous",
+      "url": "https://webnova360.com/play-tremulous/",
+      "xfo": "DENY"
+    },
+    {
+      "id": "xiao-xiao-4-bar-shootout",
+      "title": "Xiao Xiao 4: Bar Shootout",
+      "url": "https://wasmarcade.app/play/xiao-xiao-4",
+      "xfo": "SAMEORIGIN"
+    },
+    {
+      "id": "wwe-smackdown-vs-raw-2011",
+      "title": "WWE SmackDown vs. Raw 2011",
+      "url": "https://wwe2011.online/",
+      "xfo": "SAMEORIGIN"
+    }
+  ],
+  "dead": [
+    {
+      "id": "amanda-the-adventurer",
+      "title": "Amanda The Adventurer",
+      "url": "https://gn-math.github.io/web-port/amanda-the-adventurer/",
+      "status": 404
+    },
+    {
+      "id": "undertale",
+      "title": "Undertale",
+      "url": "https://gn-math.github.io/web-port/undertale/",
+      "status": 404
+    },
+    {
+      "id": "andy-s-apple-farm",
+      "title": "Andy's Apple Farm",
+      "url": "https://gn-math.github.io/web-port/andys-apple-farm/",
+      "status": 404
+    },
+    {
+      "id": "bloodmoney",
+      "title": "BLOODMONEY!",
+      "url": "https://gn-math.github.io/web-port/bloodmoney/",
+      "status": 404
+    },
+    {
+      "id": "buckshot-roulette",
+      "title": "Buckshot Roulette",
+      "url": "https://gn-math.github.io/web-port/buckshot-roulette/",
+      "status": 404
+    },
+    {
+      "id": "bergentruck-201x",
+      "title": "BERGENTRUCK 201x",
+      "url": "https://gn-math.github.io/web-port/bergentruck/",
+      "status": 404
+    },
+    {
+      "id": "class-of-09",
+      "title": "Class of '09",
+      "url": "https://gn-math.github.io/web-port/class-of-09/",
+      "status": 404
+    },
+    {
+      "id": "cut-the-rope",
+      "title": "Cut the Rope (H5DX)",
+      "url": "https://yell0wsuit.github.io/cuttherope-h5dx/index.html",
+      "status": 404
+    },
+    {
+      "id": "dead-plate",
+      "title": "Dead Plate",
+      "url": "https://gn-math.github.io/web-port/dead-plate/",
+      "status": 404
+    },
+    {
+      "id": "deadseat",
+      "title": "Deadseat",
+      "url": "https://gn-math.github.io/web-port/deadseat/",
+      "status": 404
+    },
+    {
+      "id": "deltarune",
+      "title": "Deltarune",
+      "url": "https://gn-math.github.io/web-port/deltatraveler/",
+      "status": 404
+    },
+    {
+      "id": "the-deadseat",
+      "title": "The Deadseat",
+      "url": "https://gn-math.github.io/web-port/deadseat/",
+      "status": 404
+    },
+    {
+      "id": "do-not-take-this-cat-home",
+      "title": "Do NOT Take This Cat Home",
+      "url": "https://gn-math.github.io/web-port/donottakethiscathome/",
+      "status": 404
+    },
+    {
+      "id": "cyberpunk-2077",
+      "title": "Cyberpunk 2077",
+      "url": "https://cyberpunk2077.lol/",
+      "status": 402
+    },
+    {
+      "id": "counter-strike-2",
+      "title": "Counter-Strike 2 (cs2go, Three.js)",
+      "url": "https://cs2go.3kh0.net",
+      "status": 429
+    },
+    {
+      "id": "fifa-12",
+      "title": "FIFA 12",
+      "url": "https://fifa12.online/",
+      "error": "getaddrinfo ENOTFOUND fifa12.online"
+    },
+    {
+      "id": "feed-grow-fish",
+      "title": "Feed & Grow Fish",
+      "url": "https://reeyukifish.pages.dev/",
+      "error": "getaddrinfo ENOTFOUND reeyukifish.pages.dev"
+    },
+    {
+      "id": "fears-to-fathom",
+      "title": "Fears To Fathom",
+      "url": "https://gn-math.github.io/web-port/fears-to-fathom/",
+      "status": 404
+    },
+    {
+      "id": "fnaf",
+      "title": "FNAF",
+      "url": "https://gn-math.github.io/web-port/fnaf/",
+      "status": 404
+    },
+    {
+      "id": "getting-over-it",
+      "title": "Getting Over It",
+      "url": "https://gn-math.github.io/web-port/getting-over-it/",
+      "status": 404
+    },
+    {
+      "id": "happy-sheepies",
+      "title": "Happy Sheepies",
+      "url": "https://gn-math.github.io/web-port/happy-sheepies/",
+      "status": 404
+    },
+    {
+      "id": "half-life-2",
+      "title": "Half Life 2",
+      "url": "https://hl2.slqnt.dev/",
+      "status": 404
+    },
+    {
+      "id": "dungeon-keeper",
+      "title": "Dungeon Keeper",
+      "url": "https://dk-browser.tiiny.site/",
+      "status": 404
+    },
+    {
+      "id": "flatout-2",
+      "title": "FlatOut 2 (dezm0n web port)",
+      "url": "https://itch.io/event/46481004",
+      "status": 404
+    },
+    {
+      "id": "koi-flixel",
+      "title": "koi/_flixel",
+      "url": "https://oldgrounds.xyz/",
+      "error": "getaddrinfo ENOTFOUND oldgrounds.xyz"
+    },
+    {
+      "id": "hotline-miami",
+      "title": "Hotline Miami",
+      "url": "https://gn-math.github.io/web-port/hotline-miami/",
+      "status": 404
+    },
+    {
+      "id": "jelly-drift",
+      "title": "Jelly Drift",
+      "url": "https://gn-math.github.io/web-port/jelly-drift/",
+      "status": 404
+    },
+    {
+      "id": "lacey-s-flash-games",
+      "title": "Lacey's Flash Games",
+      "url": "https://gn-math.github.io/web-port/laceys-flash-games/",
+      "status": 404
+    },
+    {
+      "id": "kindergarten-1-2",
+      "title": "Kindergarten 1 & 2",
+      "url": "https://gn-math.github.io/web-port/kindergarten/",
+      "status": 404
+    },
+    {
+      "id": "human-expenditure-program",
+      "title": "Human Expenditure Program",
+      "url": "https://gn-math.github.io/web-port/human-expenditure-program/",
+      "status": 404
+    },
+    {
+      "id": "karlson",
+      "title": "Karlson",
+      "url": "https://gn-math.github.io/web-port/karlson/",
+      "status": 404
+    },
+    {
+      "id": "the-man-from-the-window",
+      "title": "The Man From the Window",
+      "url": "https://gn-math.github.io/web-port/the-man-in-the-window/",
+      "status": 404
+    },
+    {
+      "id": "minesweeper-plus",
+      "title": "Minesweeper Plus",
+      "url": "https://gn-math.github.io/web-port/minesweeperplus/",
+      "status": 404
+    },
+    {
+      "id": "milkman-karlson",
+      "title": "Milkman Karlson",
+      "url": "https://gn-math.github.io/web-port/milkman-karlson/",
+      "status": 404
+    },
+    {
+      "id": "people-playground",
+      "title": "People Playground",
+      "url": "https://gn-math.github.io/web-port/people-playground/",
+      "status": 404
+    },
+    {
+      "id": "pizza-tower",
+      "title": "Pizza Tower",
+      "url": "https://gn-math.github.io/web-port/pizza-tower/",
+      "status": 404
+    },
+    {
+      "id": "omori",
+      "title": "OMORI",
+      "url": "https://gn-math.github.io/web-port/omori-fixed/",
+      "status": 404
+    },
+    {
+      "id": "pepsiman",
+      "title": "Pepsiman",
+      "url": "https://pepsiman.ol.mr/",
+      "status": 403
+    },
+    {
+      "id": "phineas-and-ferb-in-the-transport-inators-of-doooom",
+      "title": "Phineas and Ferb in the Transport-inators of Doooom",
+      "url": "https://stelight.games/play/webports/stellite.games/stellite/doom/index.html",
+      "timeout": true
+    },
+    {
+      "id": "raft",
+      "title": "RAFT",
+      "url": "https://gn-math.github.io/web-port/raft/",
+      "status": 404
+    },
+    {
+      "id": "schoolboy-runaway",
+      "title": "Schoolboy Runaway",
+      "url": "https://gn-math.github.io/web-port/schoolboy-runaway/",
+      "status": 404
+    },
+    {
+      "id": "r-e-p-o",
+      "title": "R.E.P.O",
+      "url": "https://gn-math.github.io/web-port/repo/",
+      "status": 404
+    },
+    {
+      "id": "speed-stars",
+      "title": "Speed Stars",
+      "url": "https://gn-math.github.io/web-port/speed-stars/",
+      "status": 404
+    },
+    {
+      "id": "slender-the-eight-pages",
+      "title": "Slender: The Eight Pages",
+      "url": "https://gn-math.github.io/web-port/slender/",
+      "status": 404
+    },
+    {
+      "id": "sonic-robo-blast-2",
+      "title": "Sonic Robo Blast 2",
+      "url": "https://afd2025.srb2.org/",
+      "status": 403
+    },
+    {
+      "id": "promises-to-keep",
+      "title": "Promises to Keep",
+      "url": "https://gitea.mcalec.dev/mcalec/ptk",
+      "status": 502
+    },
+    {
+      "id": "rain-world",
+      "title": "Rain World",
+      "url": "https://stelight.games/play/webports/stellite.games/stellite/rain-world/",
+      "timeout": true
+    },
+    {
+      "id": "undertale-yellow",
+      "title": "Undertale Yellow",
+      "url": "https://gn-math.github.io/web-port/undertale-yellow/",
+      "status": 404
+    },
+    {
+      "id": "trombone-champ",
+      "title": "Trombone Champ",
+      "url": "https://wasm.rip/files/tchamp/index.html",
+      "status": 404
+    },
+    {
+      "id": "ultrakill-prelude",
+      "title": "Ultrakill Prelude",
+      "url": "https://gn-math.github.io/web-port/ultrakill/",
+      "status": 404
+    },
+    {
+      "id": "that-s-not-my-neighbor",
+      "title": "That's Not My Neighbor",
+      "url": "https://gn-math.github.io/web-port/thats-not-my-neighbor/",
+      "status": 404
+    },
+    {
+      "id": "tattletail",
+      "title": "Tattletail",
+      "url": "https://gn-math.github.io/web-port/tattletail/",
+      "status": 404
+    },
+    {
+      "id": "webfishing",
+      "title": "Webfishing",
+      "url": "https://gn-math.github.io/web-port/web-fishing/",
+      "status": 404
+    },
+    {
+      "id": "witch-s-heart",
+      "title": "Witch's Heart",
+      "url": "https://gn-math.github.io/web-port/witch-heart/",
+      "status": 404
+    },
+    {
+      "id": "super-mario-64-multiplayer",
+      "title": "Super Mario 64 Multiplayer",
+      "url": "https://olivers.tools/play/",
+      "status": 403
+    },
+    {
+      "id": "tekken-dark-resurrection",
+      "title": "Tekken: Dark Resurrection",
+      "url": "https://tekkendr.live/",
+      "error": "connect ECONNREFUSED 66.22.16.138:443"
+    },
+    {
+      "id": "vvvvvv",
+      "title": "VVVVVV",
+      "url": "https://stelight.games/play/webports/stellite.games/stellite/vvvvvv/",
+      "timeout": true
+    },
+    {
+      "id": "yume-nikki",
+      "title": "Yume Nikki",
+      "url": "https://gn-math.github.io/web-port/yume-nikki/",
+      "status": 404
+    },
+    {
+      "id": "yandere-simulator",
+      "title": "Yandere Simulator",
+      "url": "https://gn-math.github.io/web-port/yandere-simulator/",
+      "status": 404
+    }
+  ]
+}

@@ -1,0 +1,3529 @@
+[
+  {
+    "id": "undertale",
+    "title": "Undertale",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/header.jpg",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/undertale/",
+    "mirrors": [
+      {
+        "name": "Undertale - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/undertale/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Terror"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1849,
+    "dislikes": 85,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:32.651Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "amanda-the-adventurer",
+    "title": "Amanda The Adventurer",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2166060/header.jpg",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/amanda-the-adventurer/",
+    "mirrors": [
+      {
+        "name": "Amanda The Adventurer - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/amanda-the-adventurer/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Terror"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1703,
+    "dislikes": 88,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:32.823Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "andy-s-apple-farm",
+    "title": "Andy's Apple Farm",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1810960/library_600x900.jpg",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/andys-apple-farm/",
+    "mirrors": [
+      {
+        "name": "Andy's Apple Farm - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/andys-apple-farm/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1985,
+    "dislikes": 96,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:32.993Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "buckshot-roulette",
+    "title": "Buckshot Roulette",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/header.jpg",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/buckshot-roulette/",
+    "mirrors": [
+      {
+        "name": "Buckshot Roulette - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/buckshot-roulette/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Terror"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1985,
+    "dislikes": 96,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:33.160Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "class-of-09",
+    "title": "Class of '09",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1443200/header.jpg",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/class-of-09/",
+    "mirrors": [
+      {
+        "name": "Class of '09 - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/class-of-09/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1883,
+    "dislikes": 75,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:33.331Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "counter-strike-2",
+    "title": "Counter-Strike 2 (cs2go, Three.js)",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
+    "launchMode": "external",
+    "url": "https://cs2go.3kh0.net",
+    "mirrors": [
+      {
+        "name": "Counter-Strike 2 (cs2go, Three.js) - cs2go.3kh0.net",
+        "url": "https://cs2go.3kh0.net"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "FPS",
+      "Disparos"
+    ],
+    "controls": {
+      "Moverse": "W, A, S, D",
+      "Apuntar": "Ratón (Mouse)",
+      "Disparar": "Click Izquierdo",
+      "Saltar": "Espacio"
+    },
+    "likes": 1968,
+    "dislikes": 89,
+    "lastAuditCode": 429,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:33.640Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 429: Server error"
+  },
+  {
+    "id": "cyberpunk-2077",
+    "title": "Cyberpunk 2077",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e104809f1370b37190ab346ff28f2dbf5037fed6/capsule_231x87_alt_assets_9.jpg?t=1792682505",
+    "launchMode": "external",
+    "url": "https://cyberpunk2077.lol/",
+    "mirrors": [
+      {
+        "name": "Cyberpunk 2077 - cyberpunk2077.lol",
+        "url": "https://cyberpunk2077.lol/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1934,
+    "dislikes": 98,
+    "lastAuditCode": 402,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:33.948Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 402: Server error"
+  },
+  {
+    "id": "deadseat",
+    "title": "Deadseat",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3667230/3195b83ae0f25071fa848fc731accd51fd3b6b62/capsule_231x87.jpg?t=1752886112",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/deadseat/",
+    "mirrors": [
+      {
+        "name": "Deadseat - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/deadseat/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1832,
+    "dislikes": 77,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:34.109Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "the-deadseat",
+    "title": "The Deadseat",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3667230/3195b83ae0f25071fa848fc731accd51fd3b6b62/capsule_231x87.jpg?t=1752886112",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/deadseat/",
+    "mirrors": [
+      {
+        "name": "The Deadseat - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/deadseat/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1900,
+    "dislikes": 83,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:34.215Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "deltarune",
+    "title": "Deltarune",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/capsule_231x87.jpg?t=1782314340",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/deltatraveler/",
+    "mirrors": [
+      {
+        "name": "Deltarune - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/deltatraveler/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1849,
+    "dislikes": 85,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:34.387Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "dungeon-keeper",
+    "title": "Dungeon Keeper",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616460/library_600x900.jpg",
+    "launchMode": "external",
+    "url": "https://dk-browser.tiiny.site/",
+    "mirrors": [
+      {
+        "name": "Dungeon Keeper - dk-browser.tiiny.site",
+        "url": "https://dk-browser.tiiny.site/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1934,
+    "dislikes": 98,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:35.367Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "fears-to-fathom",
+    "title": "Fears To Fathom",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/de44de8229ad446bab4d5d732993b446d2b50347/capsule_231x87.jpg?t=1781141362",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/fears-to-fathom/",
+    "mirrors": [
+      {
+        "name": "Fears To Fathom - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/fears-to-fathom/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1951,
+    "dislikes": 81,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:35.536Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "feed-grow-fish",
+    "title": "Feed & Grow Fish",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/capsule_231x87.jpg?t=1615737978",
+    "launchMode": "external",
+    "url": "https://reeyukifish.pages.dev/",
+    "mirrors": [
+      {
+        "name": "Feed & Grow Fish - reeyukifish.pages.dev",
+        "url": "https://reeyukifish.pages.dev/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1934,
+    "dislikes": 98,
+    "lastAuditCode": 500,
+    "auditDate": "2026-11-10T00:22:35.622Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 500: getaddrinfo ENOTFOUND reeyukifish.pages.dev"
+  },
+  {
+    "id": "flatout-2",
+    "title": "FlatOut 2 (dezm0n web port)",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990/header.jpg",
+    "launchMode": "external",
+    "url": "https://itch.io/event/46481004",
+    "mirrors": [
+      {
+        "name": "FlatOut 2 (dezm0n web port) - itch.io",
+        "url": "https://itch.io/event/46481004"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1849,
+    "dislikes": 85,
+    "lastAuditCode": 404,
+    "canIframe": false,
+    "auditDate": "2026-11-10T00:22:36.585Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "getting-over-it",
+    "title": "Getting Over It",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240720/library_600x900.jpg",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/getting-over-it/",
+    "mirrors": [
+      {
+        "name": "Getting Over It - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/getting-over-it/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1951,
+    "dislikes": 81,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:36.762Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "half-life-2",
+    "title": "Half Life 2",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/header.jpg",
+    "launchMode": "external",
+    "url": "https://hl2.slqnt.dev/",
+    "mirrors": [
+      {
+        "name": "Half Life 2 - hl2.slqnt.dev",
+        "url": "https://hl2.slqnt.dev/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1883,
+    "dislikes": 75,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:37.459Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "happy-sheepies",
+    "title": "Happy Sheepies",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860450/1e1cb13817bbc3196c206f7c2cc61893e24ebd74/capsule_231x87.jpg?t=1791335733",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/happy-sheepies/",
+    "mirrors": [
+      {
+        "name": "Happy Sheepies - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/happy-sheepies/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1934,
+    "dislikes": 98,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:37.625Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "hotline-miami",
+    "title": "Hotline Miami",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/capsule_231x87.jpg?t=1785434922",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/hotline-miami/",
+    "mirrors": [
+      {
+        "name": "Hotline Miami - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/hotline-miami/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1917,
+    "dislikes": 91,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:37.785Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "karlson",
+    "title": "Karlson",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1228610/capsule_231x87.jpg?t=1649362618",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/karlson/",
+    "mirrors": [
+      {
+        "name": "Karlson - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/karlson/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1815,
+    "dislikes": 95,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:37.942Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "lacey-s-flash-games",
+    "title": "Lacey's Flash Games",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459340/ec041afee0a968355562ff321c045c5f13c1bd23/capsule_231x87.jpg?t=1793652498",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/laceys-flash-games/",
+    "mirrors": [
+      {
+        "name": "Lacey's Flash Games - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/laceys-flash-games/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2019,
+    "dislikes": 87,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:38.102Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "omori",
+    "title": "OMORI",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/capsule_231x87.jpg?t=1671584768",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/omori-fixed/",
+    "mirrors": [
+      {
+        "name": "OMORI - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/omori-fixed/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1781,
+    "dislikes": 79,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:38.264Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "people-playground",
+    "title": "People Playground",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118200/header.jpg",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/people-playground/",
+    "mirrors": [
+      {
+        "name": "People Playground - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/people-playground/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1985,
+    "dislikes": 96,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:38.424Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "pizza-tower",
+    "title": "Pizza Tower",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/capsule_231x87.jpg?t=1732516978",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/pizza-tower/",
+    "mirrors": [
+      {
+        "name": "Pizza Tower - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/pizza-tower/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1883,
+    "dislikes": 75,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:38.590Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "r-e-p-o",
+    "title": "R.E.P.O",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/be0c8d662bb4c8749736fd8fe336bc5d27bb3618/capsule_231x87_alt_assets_3.jpg?t=1793278962",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/repo/",
+    "mirrors": [
+      {
+        "name": "R.E.P.O - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/repo/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1815,
+    "dislikes": 95,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:38.752Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "raft",
+    "title": "RAFT",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/capsule_231x87.jpg?t=1727184011",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/raft/",
+    "mirrors": [
+      {
+        "name": "RAFT - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/raft/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1764,
+    "dislikes": 72,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:38.915Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "schoolboy-runaway",
+    "title": "Schoolboy Runaway",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3359320/e8aa6de108c605346ee3e3c31472056116a25be1/capsule_231x87.jpg?t=1733726446",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/schoolboy-runaway/",
+    "mirrors": [
+      {
+        "name": "Schoolboy Runaway - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/schoolboy-runaway/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1985,
+    "dislikes": 96,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:39.932Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "speed-stars",
+    "title": "Speed Stars",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1482700/library_600x900.jpg",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/speed-stars/",
+    "mirrors": [
+      {
+        "name": "Speed Stars - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/speed-stars/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1883,
+    "dislikes": 75,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:40.091Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "super-mario-64-multiplayer",
+    "title": "Super Mario 64 Multiplayer",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Super%20Mario%2064%20(USA).png",
+    "launchMode": "external",
+    "url": "https://olivers.tools/play/",
+    "mirrors": [
+      {
+        "name": "Super Mario 64 Multiplayer - olivers.tools",
+        "url": "https://olivers.tools/play/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Plataformas",
+      "Aventura"
+    ],
+    "controls": {
+      "Moverse": "Flechas / WASD",
+      "Saltar / Acción": "Espacio / Z",
+      "Especial / Dash": "X / Shift"
+    },
+    "likes": 1788,
+    "dislikes": 77,
+    "lastAuditCode": 403,
+    "canIframe": false,
+    "auditDate": "2026-11-10T00:22:40.414Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 403: Server error"
+  },
+  {
+    "id": "tekken-dark-resurrection",
+    "title": "Tekken: Dark Resurrection",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/master/Named_Boxarts/Tekken%20-%20Dark%20Resurrection%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+    "launchMode": "external",
+    "url": "https://tekkendr.live/",
+    "mirrors": [
+      {
+        "name": "Tekken: Dark Resurrection - tekkendr.live",
+        "url": "https://tekkendr.live/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1754,
+    "dislikes": 86,
+    "lastAuditCode": 500,
+    "auditDate": "2026-11-10T00:22:43.038Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 500: connect ECONNREFUSED 66.22.16.138:443"
+  },
+  {
+    "id": "tattletail",
+    "title": "Tattletail",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568090/capsule_231x87.jpg?t=1572988418",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/tattletail/",
+    "mirrors": [
+      {
+        "name": "Tattletail - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/tattletail/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1866,
+    "dislikes": 93,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:43.199Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "that-s-not-my-neighbor",
+    "title": "That's Not My Neighbor",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431040/library_600x900.jpg",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/thats-not-my-neighbor/",
+    "mirrors": [
+      {
+        "name": "That's Not My Neighbor - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/thats-not-my-neighbor/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1720,
+    "dislikes": 71,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:43.356Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "trombone-champ",
+    "title": "Trombone Champ",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1059990/capsule_231x87.jpg?t=1789361594",
+    "launchMode": "external",
+    "url": "https://wasm.rip/files/tchamp/index.html",
+    "mirrors": [
+      {
+        "name": "Trombone Champ - wasm.rip",
+        "url": "https://wasm.rip/files/tchamp/index.html"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1934,
+    "dislikes": 98,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:43.607Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "vvvvvv",
+    "title": "VVVVVV",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70310/header.jpg",
+    "launchMode": "external",
+    "url": "https://stelight.games/play/webports/stellite.games/stellite/vvvvvv/",
+    "mirrors": [
+      {
+        "name": "VVVVVV - stelight.games",
+        "url": "https://stelight.games/play/webports/stellite.games/stellite/vvvvvv/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1798,
+    "dislikes": 87,
+    "lastAuditCode": 408,
+    "auditDate": "2026-11-10T00:22:49.684Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 408: Timeout 6s"
+  },
+  {
+    "id": "webfishing",
+    "title": "Webfishing",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/library_600x900.jpg",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/web-fishing/",
+    "mirrors": [
+      {
+        "name": "Webfishing - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/web-fishing/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1866,
+    "dislikes": 93,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:49.845Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "witch-s-heart",
+    "title": "Witch's Heart",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973890/capsule_231x87.jpg?t=1675433931",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/witch-heart/",
+    "mirrors": [
+      {
+        "name": "Witch's Heart - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/witch-heart/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1917,
+    "dislikes": 91,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:50.011Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "yume-nikki",
+    "title": "Yume Nikki",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650700/capsule_231x87.jpg?t=1779843132",
+    "launchMode": "external",
+    "url": "https://gn-math.github.io/web-port/yume-nikki/",
+    "mirrors": [
+      {
+        "name": "Yume Nikki - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/yume-nikki/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1866,
+    "dislikes": 93,
+    "lastAuditCode": 404,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:50.179Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 404: Server error"
+  },
+  {
+    "id": "cuphead",
+    "title": "Cuphead",
+    "category": "Plataformas",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg",
+    "launchMode": "iframe",
+    "url": "./games/cuphead/",
+    "mirrors": [
+      {
+        "name": "Cuphead - gn-math.github.io",
+        "url": "https://gn-math.github.io/web-port/cuphead/"
+      },
+      {
+        "name": "Cuphead (4) - wasm.rip",
+        "url": "https://wasm.rip/files/cuphead/index.html"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Plataformas",
+      "Aventura"
+    ],
+    "controls": {
+      "Moverse": "Flechas / WASD",
+      "Saltar / Acción": "Espacio / Z",
+      "Especial / Dash": "X / Shift"
+    },
+    "likes": 1815,
+    "dislikes": 95,
+    "note": "Cargador limpio sin ventanas emergentes de terceros.",
+    "archivedReason": "Build Unity WebGL de 1.3GB no viable en navegador web por cuotas de GitHub raw",
+    "lastAuditCode": 400,
+    "auditDate": "2026-11-10T00:23:02.404Z",
+    "auditStatus": "DEAD",
+    "auditReason": "HTTP 400: Invalid URL"
+  },
+  {
+    "id": "gta-vice-city",
+    "title": "GTA: Vice City",
+    "featured": true,
+    "year": 2002,
+    "developer": "Rockstar North",
+    "summary": "Ambientado en una versión ficticia de Miami en 1986, sigue a Tommy Vercetti mientras construye un imperio criminal. Su mundo abierto y su marcada estética ochentera lo consolidaron como un clásico.",
+    "metadataSource": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City",
+    "category": "Sandbox",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12120/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://joncodeofficial.github.io/gta-vice-city-wasm/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://joncodeofficial.github.io/gta-vice-city-wasm/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://gtavc.projetoescola.com/",
+        "status": "online"
+      }
+    ],
+    "status": "maintenance",
+    "tags": [
+      "Web Native",
+      "Clásico",
+      "Mundo Abierto"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2357,
+    "dislikes": 80,
+    "saga": "gta",
+    "auditReason": "Pide al usuario importar archivos del juego de PC",
+    "auditStatus": "DEAD",
+    "auditDate": "2026-11-10T01:12:36.217Z"
+  },
+  {
+    "id": "tekken-4",
+    "title": "Tekken 4",
+    "category": "Lucha",
+    "collection": "ports",
+    "image": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_2/master/Named_Boxarts/Tekken%204%20(USA).png",
+    "launchMode": "external",
+    "url": "https://tekken4.online/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://tekken4.online/",
+        "status": "online"
+      }
+    ],
+    "status": "maintenance",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1832,
+    "dislikes": 77,
+    "saga": "tekken",
+    "auditReason": "Dominio externo tekken4.online caído (403/timeout)",
+    "auditStatus": "DEAD",
+    "auditDate": "2026-11-10T01:12:36.222Z"
+  },
+  {
+    "id": "tekken-5",
+    "title": "Tekken 5",
+    "featured": true,
+    "year": 2004,
+    "developer": "Namco",
+    "summary": "Debutó en arcades en 2004 y llegó a PlayStation 2 en 2005, con nuevos luchadores y combates en escenarios tridimensionales. Su edición doméstica celebró el décimo aniversario de la serie e incluyó varios Tekken anteriores.",
+    "metadataSource": "https://en.wikipedia.org/wiki/Tekken_5",
+    "category": "Lucha",
+    "collection": "ports",
+    "image": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_2/master/Named_Boxarts/Tekken%205%20(USA).png",
+    "launchMode": "external",
+    "url": "https://tekken5.online/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://tekken5.online/",
+        "status": "online"
+      }
+    ],
+    "status": "maintenance",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2184,
+    "dislikes": 70,
+    "saga": "tekken",
+    "auditReason": "Dominio externo tekken5.online caído (403/timeout)",
+    "auditStatus": "DEAD",
+    "auditDate": "2026-11-10T01:12:36.222Z"
+  },
+  {
+    "id": "tekken-5-dark-resurrection",
+    "title": "Tekken 5: Dark Resurrection",
+    "category": "Lucha",
+    "collection": "ports",
+    "image": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/master/Named_Boxarts/Tekken%20-%20Dark%20Resurrection%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+    "launchMode": "iframe",
+    "url": "https://tkdr-recomp.pages.dev/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://tkdr-recomp.pages.dev/",
+        "status": "online"
+      }
+    ],
+    "status": "maintenance",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1788,
+    "dislikes": 77,
+    "saga": "tekken",
+    "auditReason": "Requiere descarga de 1GB de assets pesados",
+    "auditStatus": "DEAD",
+    "auditDate": "2026-11-10T01:12:36.222Z"
+  },
+  {
+    "id": "grand-theft-auto-iii",
+    "title": "Grand Theft Auto III",
+    "category": "Sandbox",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546970/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/gta3/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/gta3/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "maintenance",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2036,
+    "dislikes": 94,
+    "saga": "gta",
+    "auditReason": "wasm.rip se queda al 0% (CDN externo caído)",
+    "auditStatus": "DEAD",
+    "auditDate": "2026-11-10T01:12:36.222Z"
+  },
+  {
+    "id": "grand-theft-auto-vice-city",
+    "title": "Grand Theft Auto: Vice City",
+    "category": "Sandbox",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546990/header.jpg",
+    "launchMode": "external",
+    "url": "https://vc.quenq.com/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://vc.quenq.com/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://revc.wasm.ltd/",
+        "status": "online"
+      }
+    ],
+    "status": "maintenance",
+    "tags": [
+      "Web Native",
+      "Clásico",
+      "Mundo Abierto"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1788,
+    "dislikes": 77,
+    "saga": "gta",
+    "auditReason": "Pide importar archivos o servidor caído",
+    "auditStatus": "DEAD",
+    "auditDate": "2026-11-10T01:12:36.222Z"
+  },
+  {
+    "id": "wasm-rip",
+    "title": "wasm.rip",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088440/b48f25a9e6e2bf036836e3b4e9249acf2dc0214d/capsule_231x87_alt_assets_1.jpg?t=1793726040",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1832,
+    "dislikes": 77,
+    "quarantinedAt": "2026-11-10T03:37:15.472Z",
+    "quarantineReason": "Portal website falso juego"
+  },
+  {
+    "id": "20-minutes-till-dawn",
+    "title": "20 Minutes Till Dawn",
+    "category": "Disparos",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966900/header.jpg",
+    "url": "https://gn-math.dev/?id=819",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=819",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "antonblast",
+    "title": "Antonblast",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1887400/header.jpg",
+    "url": "https://gn-math.dev/?id=711",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=711",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "buster-jam",
+    "title": "Buster Jam",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399240/cf6de1141c8d794b8af617a1dab0ee91eeab9e4c/capsule_231x87.jpg?t=1780504709",
+    "url": "https://gn-math.dev/?id=646",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=646",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "christmas-massacre",
+    "title": "Christmas Massacre",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1840490/capsule_231x87.jpg?t=1671911494",
+    "url": "https://gn-math.dev/?id=734",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=734",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "cruelty-squad",
+    "title": "Cruelty Squad",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388770/capsule_231x87.jpg?t=1740330233",
+    "url": "https://gn-math.dev/?id=825",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=825",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "dice-a-million",
+    "title": "Dice a Million",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430340/9f2a291a8b5aa890f50245df3ac39dc2d294dfb9/capsule_231x87_alt_assets_0.jpg?t=1794156918",
+    "url": "https://gn-math.dev/?id=759",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=759",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "a-difficult-game-about-climbing",
+    "title": "A Difficult Game About Climbing",
+    "category": "Plataformas",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2497920/35d0e84da587aa10322f0347c8f5634b0d39d587/capsule_231x87.jpg?t=1766018522",
+    "url": "https://gn-math.dev/?id=672",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=672",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "duck-life-8",
+    "title": "Duck Life 8",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321270/capsule_231x87.jpg?t=1793733389",
+    "url": "https://gn-math.dev/?id=695",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=695",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "endoparasitic",
+    "title": "Endoparasitic",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124780/capsule_231x87.jpg?t=1786632968",
+    "url": "https://gn-math.dev/?id=286",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=286",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "endoparasitic-2",
+    "title": "Endoparasitic 2",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990640/capsule_231x87.jpg?t=1768598900",
+    "url": "https://gn-math.dev/?id=724",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=724",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "fallout",
+    "title": "Fallout",
+    "category": "Puzzle",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/header.jpg",
+    "url": "https://gn-math.dev/?id=585",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Estrategia"
+    ],
+    "controls": {
+      "Acción": "Click Ratón (Mouse)",
+      "Seleccionar": "Click Izquierdo",
+      "Menú / Cancelar": "Click Derecho / ESC"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=585",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "fear-hunger",
+    "title": "Fear & Hunger",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_231x87.jpg?t=1621853752",
+    "url": "https://gn-math.dev/?id=706",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=706",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "fear-hunger-2-termina",
+    "title": "Fear & Hunger 2: Termina",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2171440/capsule_231x87.jpg?t=1670614736",
+    "url": "https://gn-math.dev/?id=794",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=794",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "fears-to-fathom-home-alone",
+    "title": "Fears to Fathom: Home Alone",
+    "category": "Terror",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671340/capsule_231x87.jpg?t=1761626927",
+    "url": "https://gn-math.dev/?id=460",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=460",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "fih",
+    "title": "Fih",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303380/5ba8773e708f339659890ff033a63a7f8720beea/capsule_231x87.jpg?t=1791709921",
+    "url": "https://gn-math.dev/?id=797",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=797",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "fish",
+    "title": "FISH",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221990/2c7bafdc90acf46b2d17cc6c1135546063e527d3/capsule_231x87.jpg?t=1789401717",
+    "url": "https://gn-math.dev/?id=761",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=761",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "five-nights-at-freddy-s-sister-location",
+    "title": "Five Nights at Freddy's: Sister Location",
+    "category": "Terror",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/506610/header.jpg",
+    "url": "https://gn-math.dev/?id=185",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Terror"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=185",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "getting-over-it-with-bennett-foddy",
+    "title": "Getting Over It with Bennett Foddy",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240720/header.jpg",
+    "url": "https://gn-math.dev/?id=557",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=557",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "gorilla-tag",
+    "title": "Gorilla Tag",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533390/header.jpg",
+    "url": "https://gn-math.dev/?id=668",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=668",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "granny",
+    "title": "Granny",
+    "category": "Terror",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962400/capsule_231x87.jpg?t=1687541775",
+    "url": "https://gn-math.dev/?id=90",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=90",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "half-life-opposing-force",
+    "title": "Half Life: Opposing Force",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/header.jpg",
+    "url": "https://gn-math.dev/?id=693",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=693",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "hollow-knight",
+    "title": "Hollow Knight",
+    "category": "Aventura",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
+    "url": "https://gn-math.dev/?id=468",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=468",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "hollow-knight-silksong",
+    "title": "Hollow Knight: Silksong",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/header.jpg",
+    "url": "https://gn-math.dev/?id=771",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=771",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "in-stars-and-time",
+    "title": "In Stars and Time",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/library_600x900.jpg",
+    "url": "https://gn-math.dev/?id=667",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=667",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "iron-lung",
+    "title": "Iron Lung",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846170/capsule_231x87.jpg?t=1791916490",
+    "url": "https://gn-math.dev/?id=705",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=705",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "just-shapes-beats",
+    "title": "Just Shapes & Beats",
+    "category": "Carreras",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/531510/capsule_231x87.jpg?t=1738790023",
+    "url": "https://gn-math.dev/?id=826",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Velocidad",
+      "Deportes"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=826",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "kindergarten",
+    "title": "Kindergarten",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578590/header.jpg",
+    "url": "https://gn-math.dev/?id=445",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=445",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "kindergarten-2",
+    "title": "Kindergarten 2",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067850/capsule_231x87.jpg?t=1780630431",
+    "url": "https://gn-math.dev/?id=446",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=446",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "kindergarten-3",
+    "title": "Kindergarten 3",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695570/e7745704c77dc5e778cc747cac221eae4d01147d/capsule_231x87.jpg?t=1780630294",
+    "url": "https://gn-math.dev/?id=501",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=501",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "look-outside",
+    "title": "Look Outside",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/e0dae146ff3f347de7f3d26d3cc59977a675cfd9/capsule_231x87.jpg?t=1789016414",
+    "url": "https://gn-math.dev/?id=649",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=649",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "midnight-shift",
+    "title": "Midnight Shift",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395260/library_600x900.jpg",
+    "url": "https://gn-math.dev/?id=658",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=658",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "milk-inside-a-bag-of-milk-inside-a-bag-of-milk",
+    "title": "Milk inside a bag of milk inside a bag of milk",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1392820/capsule_231x87.jpg?t=1776855908",
+    "url": "https://gn-math.dev/?id=650",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=650",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "milk-outside-a-bag-of-milk-outside-a-bag-of-milk",
+    "title": "Milk outside a bag of milk outside a bag of milk",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604000/capsule_231x87.jpg?t=1658165566",
+    "url": "https://gn-math.dev/?id=651",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=651",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "mindwave",
+    "title": "Mindwave",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2741670/a28d18e0aff9066607e60d17c42a5d5fba757bfd/capsule_231x87.jpg?t=1766950347",
+    "url": "https://gn-math.dev/?id=648",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=648",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "minecraft-pocket-edition",
+    "title": "Minecraft Pocket Edition",
+    "category": "Sandbox",
+    "image": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Wii_U/master/Named_Boxarts/Minecraft%20-%20Wii%20U%20Edition%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CZh%2CKo%2CRu)%20(Rev%201).png",
+    "url": "https://gn-math.dev/?id=754",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": true,
+    "tags": [
+      "Web Native",
+      "Clásico",
+      "Táctil",
+      "mobile-ready"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=754",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "needy-streamer-overload",
+    "title": "Needy Streamer Overload",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451940/capsule_231x87.jpg?t=1762834234",
+    "url": "https://gn-math.dev/?id=708",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=708",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "nubby-s-number-factory",
+    "title": "Nubby's Number Factory",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191030/4fa980fbcdc2f4af7cae50a9f3cded31dd4ba97f/capsule_231x87.jpg?t=1788467985",
+    "url": "https://gn-math.dev/?id=517",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=517",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "oneshot",
+    "title": "Oneshot (Legacy)",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/capsule_231x87.jpg?t=1785326211",
+    "url": "https://gn-math.dev/?id=622",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=622",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "overburden",
+    "title": "Overburden",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690560/header.jpg",
+    "url": "https://gn-math.dev/?id=760",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=760",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "peaks-of-yore",
+    "title": "Peaks of Yore",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/library_600x900.jpg",
+    "url": "https://gn-math.dev/?id=717",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=717",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "plants-vs-zombies-goty-edition",
+    "title": "Plants vs Zombies: GOTY Edition",
+    "category": "Terror",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590/header.jpg",
+    "url": "https://gn-math.dev/?id=842",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": true,
+    "tags": [
+      "Web Native",
+      "Clásico",
+      "Táctil",
+      "mobile-ready"
+    ],
+    "controls": {
+      "Acción": "Click Ratón (Mouse)",
+      "Seleccionar": "Click Izquierdo",
+      "Menú / Cancelar": "Click Derecho / ESC"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=842",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "power-hover",
+    "title": "Power Hover",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559960/capsule_231x87.jpg?t=1668158457",
+    "url": "https://gn-math.dev/?id=743",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=743",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "re-run",
+    "title": "RE:RUN",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4505100/0d752bd9bb356a6f752d5ef3378b44c3ea90528a/capsule_231x87.jpg?t=1775782125",
+    "url": "https://gn-math.dev/?id=260",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=260",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "s-p-l-i-t",
+    "title": "S.P.L.I.T",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3684610/5482b630dafc7319936b093e333977d8e614e210/capsule_231x87.jpg?t=1759221319",
+    "url": "https://gn-math.dev/?id=839",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=839",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "shift-at-midnight",
+    "title": "Shift at Midnight",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/19c9e6ec567f975b0b4462b8c84c1a38c74adf0d/capsule_231x87.jpg?t=1793103951",
+    "url": "https://gn-math.dev/?id=721",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=721",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "slime-rancher",
+    "title": "Slime Rancher",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/capsule_231x87.jpg?t=1758651509",
+    "url": "https://gn-math.dev/?id=591",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=591",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "sonic-mania",
+    "title": "Sonic Mania",
+    "category": "Plataformas",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/header.jpg",
+    "url": "https://gn-math.dev/?id=590",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Plataformas",
+      "Aventura"
+    ],
+    "controls": {
+      "Moverse": "Flechas / WASD",
+      "Saltar / Acción": "Espacio / Z",
+      "Especial / Dash": "X / Shift"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=590",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "spaceflight-simulator",
+    "title": "Spaceflight Simulator",
+    "category": "Sandbox",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718870/header.jpg",
+    "url": "https://gn-math.dev/?id=808",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": true,
+    "tags": [
+      "Web Native",
+      "Clásico",
+      "Táctil",
+      "mobile-ready"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=808",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "stick-with-it",
+    "title": "Stick with It",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3984960/ac201777e6a955fdf6da788a5295b71ba5762c9e/capsule_231x87.jpg?t=1759839415",
+    "url": "https://gn-math.dev/?id=502",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=502",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "t",
+    "title": "t³ (T cubed)",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916700/b54319595447ecdf726ab86d88c24acab9c5790e/capsule_231x87.jpg?t=1792542505",
+    "url": "https://gn-math.dev/?id=818",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=818",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "totally-accurate-battle-simulator",
+    "title": "Totally Accurate Battle Simulator (TABS)",
+    "category": "Sandbox",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/capsule_231x87.jpg?t=1730715415",
+    "url": "https://gn-math.dev/?id=827",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=827",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "ultrapool",
+    "title": "Ultrapool",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195110/134bf8acbbdc7b63f644e363de353ddc948ebfbb/capsule_231x87.jpg?t=1788797628",
+    "url": "https://gn-math.dev/?id=757",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=757",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "untitled-goose-game",
+    "title": "Untitled Goose Game",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/capsule_231x87.jpg?t=1699052664",
+    "url": "https://gn-math.dev/?id=718",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=718",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "who-s-your-daddy",
+    "title": "Who's Your Daddy?",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427730/library_600x900.jpg",
+    "url": "https://gn-math.dev/?id=791",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=791",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "your-only-move-is-hustle",
+    "title": "Your Only Move is Hustle",
+    "category": "Acción",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2212330/capsule_231x87.jpg?t=1702425086",
+    "url": "https://gn-math.dev/?id=776",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.dev/?id=776",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T03:37:15.473Z",
+    "quarantineReason": "gn-math.dev portal de competidor con publicidad y barras ajenas"
+  },
+  {
+    "id": "beneath-a-steel-sky",
+    "title": "Beneath a Steel Sky",
+    "category": "Retro",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368340/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://scummweb.tsilva.eu/beneath-a-steel-sky/play",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://scummweb.tsilva.eu/beneath-a-steel-sky/play",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2019,
+    "dislikes": 87,
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Enlace a portal agregador con lista de juegos (scummweb.tsilva.eu)",
+    "originalUrl": "https://scummweb.tsilva.eu/beneath-a-steel-sky/play"
+  },
+  {
+    "id": "doom-3",
+    "title": "Doom 3",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208200/header.jpg",
+    "launchMode": "external",
+    "url": "https://recompiledgames.com/doom-3-recompiled",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://recompiledgames.com/doom-3-recompiled",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "FPS",
+      "Disparos"
+    ],
+    "controls": {
+      "Moverse": "W, A, S, D",
+      "Apuntar": "Ratón (Mouse)",
+      "Disparar": "Click Izquierdo",
+      "Saltar": "Espacio"
+    },
+    "likes": 1798,
+    "dislikes": 87,
+    "saga": "doom",
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Redirige 301 al directorio raíz de competidor (recompiledgames.com)",
+    "originalUrl": "https://recompiledgames.com/doom-3-recompiled"
+  },
+  {
+    "id": "drascula-the-vampire-strikes-back",
+    "title": "Drascula: The Vampire Strikes Back",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1038430/capsule_231x87.jpg?t=1674153563",
+    "launchMode": "iframe",
+    "url": "https://scummweb.tsilva.eu/drascula-the-vampire-strikes-back",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://scummweb.tsilva.eu/drascula-the-vampire-strikes-back",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1907,
+    "dislikes": 80,
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Enlace a portal agregador con lista de juegos (scummweb.tsilva.eu)",
+    "originalUrl": "https://scummweb.tsilva.eu/drascula-the-vampire-strikes-back"
+  },
+  {
+    "id": "dude-simulator",
+    "title": "Dude Simulator",
+    "category": "Sandbox",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654990/capsule_231x87.jpg?t=1714243975",
+    "launchMode": "iframe",
+    "url": "https://dude-simulator-webgl.netlify.app/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://dude-simulator-webgl.netlify.app/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1934,
+    "dislikes": 98,
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Servidor caído (HTTP 503 Netlify)",
+    "originalUrl": "https://dude-simulator-webgl.netlify.app/"
+  },
+  {
+    "id": "dude-simulator-2",
+    "title": "Dude Simulator 2",
+    "category": "Sandbox",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/825310/capsule_231x87.jpg?t=1714417919",
+    "launchMode": "iframe",
+    "url": "https://dude-sim-2-webgl-ported-by-carteryes.netlify.app/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://dude-sim-2-webgl-ported-by-carteryes.netlify.app/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1968,
+    "dislikes": 89,
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Servidor caído (HTTP 503 Netlify)",
+    "originalUrl": "https://dude-sim-2-webgl-ported-by-carteryes.netlify.app/"
+  },
+  {
+    "id": "flight-of-the-amazon-queen",
+    "title": "Flight of the Amazon Queen",
+    "category": "Retro",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105460/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://scummweb.tsilva.eu/#game-flight-of-the-amazon-queen",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://scummweb.tsilva.eu/#game-flight-of-the-amazon-queen",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1788,
+    "dislikes": 77,
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Redirige al portal de juegos scummweb.tsilva.eu/",
+    "originalUrl": "https://scummweb.tsilva.eu/#game-flight-of-the-amazon-queen"
+  },
+  {
+    "id": "gta-3",
+    "title": "Grand Theft Auto III",
+    "category": "Sandbox",
+    "collection": "ports",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/GTA3boxcover.jpg/220px-GTA3boxcover.jpg",
+    "launchMode": "external",
+    "url": "https://wasmarcade.com/gta3",
+    "mirrors": [
+      {
+        "name": "Servidor Comunitario Aislado (WebPort)",
+        "url": "https://wasmarcade.com/gta3",
+        "status": "online"
+      }
+    ],
+    "status": "online",
+    "tags": [
+      "Emulador 3D",
+      "Clásico",
+      "Mundo Abierto"
+    ],
+    "controls": {
+      "standardControls": "WASD para moverse · Botón Izq para disparar · Espacio freno de mano · F entrar a vehículo"
+    },
+    "likes": 1781,
+    "dislikes": 79,
+    "saga": "gta",
+    "note": "⚡ Port WebAssembly de Alta Fidelidad (~860 MB de datos). La primera descarga puede tomar entre 1 y 3 minutos en inicializar texturas y audio en la memoria RAM. Recomendado en PC y Wi-Fi de alta velocidad.",
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Contenedor externo con 93 enlaces y cabecera de juegos competidores (wasmarcade.com)",
+    "originalUrl": "https://wasmarcade.com/gta3"
+  },
+  {
+    "id": "kingdom-rush",
+    "title": "Kingdom Rush",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246420/header.jpg",
+    "launchMode": "external",
+    "url": "https://wasmarcade.app/play/kingdom-rush",
+    "mirrors": [
+      {
+        "name": "Servidor Comunitario Aislado (WebPort)",
+        "url": "https://wasmarcade.app/play/kingdom-rush",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1900,
+    "dislikes": 83,
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Agregador de juegos con catálogo externo (wasmarcade.app)",
+    "originalUrl": "https://wasmarcade.app/play/kingdom-rush"
+  },
+  {
+    "id": "luigi-s-picture-poker",
+    "title": "Luigi's Picture Poker",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://img.itch.zone/aW1nLzE4NDQ4NTgxLnBuZw==/original/rfPlAn.png",
+    "launchMode": "external",
+    "url": "https://marcy4000.itch.io/luigis-picture-poker",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://marcy4000.itch.io/luigis-picture-poker",
+        "status": "online"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1703,
+    "dislikes": 88,
+    "saga": "mario",
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Bloqueado por límites de itch.io (HTTP 429)",
+    "originalUrl": "https://marcy4000.itch.io/luigis-picture-poker"
+  },
+  {
+    "id": "phantasy-star-online",
+    "title": "Phantasy Star Online (PSO Reborn)",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056640/5f121bd97e7bce64f942bfc2db87594536113c4b/capsule_231x87.jpg?t=1789697731",
+    "launchMode": "iframe",
+    "url": "https://recompiledgames.com/phantasy-star-online-recompiled",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://recompiledgames.com/phantasy-star-online-recompiled",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2036,
+    "dislikes": 94,
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Redirige 301 al directorio raíz de competidor (recompiledgames.com)",
+    "originalUrl": "https://recompiledgames.com/phantasy-star-online-recompiled"
+  },
+  {
+    "id": "raft-wars-2",
+    "title": "Raft Wars 2",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://wasmarcade.app/covers/raft-wars-2.webp",
+    "launchMode": "external",
+    "url": "https://wasmarcade.app/play/raft-wars-2",
+    "mirrors": [
+      {
+        "name": "Servidor Comunitario Aislado (WebPort)",
+        "url": "https://wasmarcade.app/play/raft-wars-2",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1883,
+    "dislikes": 75,
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Agregador de juegos con catálogo externo (wasmarcade.app)",
+    "originalUrl": "https://wasmarcade.app/play/raft-wars-2"
+  },
+  {
+    "id": "runescape-classic",
+    "title": "RuneScape Classic",
+    "category": "Plataformas",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1397370/capsule_231x87.jpg?t=1633360475",
+    "launchMode": "iframe",
+    "url": "https://runescapeclassic.gold/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://runescapeclassic.gold/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1985,
+    "dislikes": 96,
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Servidor caído / Error DNS (runescapeclassic.gold)",
+    "originalUrl": "https://runescapeclassic.gold/"
+  },
+  {
+    "id": "stick-war",
+    "title": "Stick War",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/815360/header.jpg",
+    "launchMode": "external",
+    "url": "https://wasmarcade.app/play/stick-war",
+    "mirrors": [
+      {
+        "name": "Servidor Comunitario Aislado (WebPort)",
+        "url": "https://wasmarcade.app/play/stick-war",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "tags": [
+      "Emulador 3D",
+      "Clásico",
+      "Táctil",
+      "mobile-ready"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "mobileReady": true,
+    "touchControlMode": "touch-native",
+    "likes": 1849,
+    "dislikes": 85,
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Agregador de juegos con catálogo externo (wasmarcade.app)",
+    "originalUrl": "https://wasmarcade.app/play/stick-war"
+  },
+  {
+    "id": "terraria",
+    "title": "Terraria",
+    "category": "Sandbox",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
+    "launchMode": "external",
+    "url": "https://playterraria.lol/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://playterraria.lol/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1832,
+    "dislikes": 77,
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Servidor fuera de servicio (HTTP 402 Payment Required)",
+    "originalUrl": "https://playterraria.lol/"
+  },
+  {
+    "id": "wadcmd",
+    "title": "WadCMD",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://wadcmd.com/launch.png",
+    "launchMode": "iframe",
+    "url": "https://wadcmd.com/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wadcmd.com/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1798,
+    "dislikes": 87,
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Página principal de WAD Commander sin juego directo",
+    "originalUrl": "https://wadcmd.com/"
+  },
+  {
+    "id": "wolfenstein-3d",
+    "title": "Wolfenstein 3D (HTML5, lazarv)",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2270/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://wolf3d.wadcmd.com/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wolf3d.wadcmd.com/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "FPS",
+      "Disparos"
+    ],
+    "controls": {
+      "Moverse": "W, A, S, D",
+      "Apuntar": "Ratón (Mouse)",
+      "Disparar": "Click Izquierdo",
+      "Saltar": "Espacio"
+    },
+    "likes": 1934,
+    "dislikes": 98,
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Redirige a la página principal de WAD Commander (wadcmd.com)",
+    "originalUrl": "https://wolf3d.wadcmd.com/"
+  },
+  {
+    "id": "xiao-xiao-4-bar-shootout",
+    "title": "Xiao Xiao 4: Bar Shootout",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://wasmarcade.app/covers/xiao-xiao-4.webp",
+    "launchMode": "external",
+    "url": "https://wasmarcade.app/play/xiao-xiao-4",
+    "mirrors": [
+      {
+        "name": "Servidor Comunitario Aislado (WebPort)",
+        "url": "https://wasmarcade.app/play/xiao-xiao-4",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1754,
+    "dislikes": 86,
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Agregador de juegos con catálogo externo (wasmarcade.app)",
+    "originalUrl": "https://wasmarcade.app/play/xiao-xiao-4"
+  },
+  {
+    "id": "xrick",
+    "title": "xrick",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227465/capsule_231x87.jpg?t=1678467158",
+    "launchMode": "iframe",
+    "url": "https://www.xrick.net/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://www.xrick.net/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1781,
+    "dislikes": 79,
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Redirige a página informativa con 27 enlaces externos (rick-dangerous.org)",
+    "originalUrl": "https://www.xrick.net/"
+  },
+  {
+    "id": "dos-zone",
+    "title": "Dos.Zone",
+    "category": "Retro",
+    "image": "https://dos.zone/images/containers/assets/seo_image.jpg/305f8ab86e22fdd50cb3762298d95219.webp",
+    "url": "https://dos.zone",
+    "launchMode": "external",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "DOS Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://dos.zone",
+        "status": "online"
+      }
+    ],
+    "quarantinedAt": "2026-11-10T05:15:00.000Z",
+    "quarantineReason": "Directorio/portal masivo externo de 241 juegos (dos.zone)",
+    "originalUrl": "https://dos.zone"
+  }
+]

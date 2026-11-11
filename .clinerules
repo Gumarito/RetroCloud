@@ -1,0 +1,9 @@
+# Proyecto: RetroCloud (Portal de Juegos)
+
+Stack: HTML5, Tailwind CSS (vía CDN) y JavaScript puro.
+
+Diseño: Obligatorio modo oscuro (Dark Mode), interfaz tipo plataforma de streaming, minimalista y rápida.
+
+Internacionalización: No codificar texto duro en el HTML. Todo debe pasar por un diccionario JSON interno (es, en, ja, fr, zh, hi).
+
+Legal: Nunca alojar archivos .exe, .iso o ROMs. Todo se ejecuta vía <iframe> conectando a repositorios WebAssembly públicos

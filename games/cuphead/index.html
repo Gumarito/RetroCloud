@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Cuphead (RetroCloud Web Port)</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body {
+      width: 100%;
+      height: 100%;
+      background: #090d16;
+      overflow: hidden;
+      font-family: system-ui, -apple-system, sans-serif;
+      color: #f1f5f9;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    #unity-canvas {
+      width: 100vw;
+      height: 100vh;
+      display: block;
+      outline: none;
+    }
+    #loading-overlay {
+      position: fixed;
+      inset: 0;
+      background: radial-gradient(circle at center, #1e1b4b 0%, #090d16 100%);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: 50;
+      transition: opacity 0.5s ease;
+    }
+    .logo-text {
+      font-size: 28px;
+      font-weight: 900;
+      letter-spacing: 2px;
+      color: #fbbf24;
+      text-transform: uppercase;
+      margin-bottom: 24px;
+      text-shadow: 0 4px 12px rgba(251, 191, 36, 0.3);
+    }
+    .progress-bar-container {
+      width: 280px;
+      height: 8px;
+      background: #1f2937;
+      border-radius: 9999px;
+      overflow: hidden;
+      border: 1px solid #374151;
+      margin-bottom: 12px;
+    }
+    .progress-bar {
+      height: 100%;
+      width: 0%;
+      background: linear-gradient(90deg, #6366f1, #a855f7);
+      transition: width 0.3s ease;
+      border-radius: 9999px;
+    }
+    #loading-text {
+      font-size: 13px;
+      font-weight: 600;
+      color: #94a3b8;
+    }
+  </style>
+</head>
+<body>
+  <div id="loading-overlay">
+    <div class="logo-text">CUPHEAD</div>
+    <div class="progress-bar-container">
+      <div id="progress-bar" class="progress-bar"></div>
+    </div>
+    <div id="loading-text">Cargando motor de juego... 0%</div>
+  </div>
+
+  <canvas id="unity-canvas" tabindex="0"></canvas>
+
+  <script>
+    // Suppress any stray window.alert
+    window.alert = function(msg) { console.warn('[Cuphead Web] Suppressed alert:', msg); };
+
+    const cv = document.getElementById("unity-canvas");
+    const overlay = document.getElementById("loading-overlay");
+    const pBar = document.getElementById("progress-bar");
+    const pText = document.getElementById("loading-text");
+
+    const base = "https://raw.githubusercontent.com/woahhcrackers/CupheadWeb/main/Build/";
+    const name = "Cuphead";
+
+    function setProgress(pct, statusText) {
+      if (pBar) pBar.style.width = Math.min(100, Math.max(0, pct)) + "%";
+      if (pText) pText.innerText = (statusText || 'Cargando recursos...') + ' ' + Math.round(pct) + '%';
+    }
+
+    const ex = async u => {
+      try { return (await fetch(u, { method: "HEAD" })).ok; } catch { return false; }
+    };
+
+    const parts = async ext => {
+      const out = [];
+      for (let i = 1; i < 100; i++) {
+        const p = `${base}${name}.${ext}.${String(i).padStart(3, "0")}`;
+        const r = await fetch(p, { method: "HEAD" });
+        if (r.status !== 200) break;
+        out.push(p);
+      }
+      return out;
+    };
+
+    const merge = async (urls, label) => {
+      let loaded = 0;
+      const bufs = await Promise.all(urls.map(async u => {
+        const res = await fetch(u);
+        const buf = await res.arrayBuffer();
+        loaded++;
+        setProgress((loaded / urls.length) * 50, label);
+        return buf;
+      }));
+      return URL.createObjectURL(new Blob(bufs));
+    };
+
+    (async () => {
+      try {
+        setProgress(10, 'Descargando datos...');
+        let data = `${base}${name}.data`;
+        if (!(await ex(data))) data = await merge(await parts("data"), 'Cargando assets...');
+
+        setProgress(60, 'Descargando código WebAssembly...');
+        let wasm = `${base}${name}.wasm`;
+        if (!(await ex(wasm))) wasm = await merge(await parts("wasm"), 'Compilando WASM...');
+
+        setProgress(85, 'Inicializando motor Unity...');
+        const sc = document.createElement("script");
+        sc.src = `${base}${name}.loader.js`;
+
+        sc.onload = () => {
+          if (typeof createUnityInstance !== 'function') {
+            console.error('createUnityInstance not found');
+            return;
+          }
+          createUnityInstance(cv, {
+            dataUrl: data,
+            frameworkUrl: `${base}${name}.framework.js`,
+            codeUrl: wasm,
+            streamingAssetsUrl: "StreamingAssets",
+            companyName: "Studio MDHR",
+            productName: name,
+            productVersion: "1.0"
+          }, (progress) => {
+            setProgress(85 + (progress * 15), 'Finalizando...');
+          }).then(() => {
+            if (overlay) {
+              overlay.style.opacity = '0';
+              setTimeout(() => overlay.remove(), 400);
+            }
+            cv.focus();
+          }).catch(err => {
+            console.error('Error al iniciar Cuphead:', err);
+            if (pText) pText.innerText = 'Error al cargar Cuphead. Recarga la página.';
+          });
+        };
+        document.body.appendChild(sc);
+      } catch (e) {
+        console.error('Error cargando Cuphead:', e);
+        if (pText) pText.innerText = 'No se pudo conectar al servidor de Cuphead.';
+      }
+    })();
+  </script>
+</body>
+</html>

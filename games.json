@@ -1,0 +1,4609 @@
+[
+  {
+    "id": "kerbal-space-program",
+    "title": "Kerbal Space Program (KSP Web)",
+    "category": "Simulación",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://ksp.ishotupa.school",
+    "status": "online",
+    "featured": true,
+    "tags": [
+      "Web Native",
+      "Simulación",
+      "Espacio",
+      "PC Clásico"
+    ],
+    "controls": {
+      "Aceleración": "Shift (Subir) / Ctrl (Bajar)",
+      "Orientación": "WASD / Q y E (Roll)",
+      "Activar Etapa": "Barra Espaciadora",
+      "Mapa Orbital": "Tecla M"
+    },
+    "summary": "Simulador aeroespacial completo en WebAssembly. Construye naves, cohetes y sondas con física orbital real y soporte para mods vía CKAN integrado.",
+    "note": "🚀 Incluye gestor de mods CKAN integrado. Puedes instalar piezas adicionales o lanzar directamente el juego base.",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (CKAN Web Edition)",
+        "url": "https://ksp.ishotupa.school",
+        "status": "online"
+      }
+    ]
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "category": "Plataformas",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3305070/header.jpg",
+    "url": "https://ellisonleao.github.io/clumsy-bird/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://ellisonleao.github.io/clumsy-bird/",
+        "status": "online"
+      }
+    ],
+    "launchMode": "iframe",
+    "mobileReady": true,
+    "touchControlMode": "touch-native",
+    "orientation": "portrait",
+    "tags": [
+      "Viral",
+      "Arcade",
+      "Táctil",
+      "mobile-ready",
+      "Popular"
+    ],
+    "controls": {
+      "Toque en Pantalla": "Aletear / Saltar",
+      "Barra Espaciadora": "Aletear / Saltar"
+    },
+    "likes": 1883,
+    "dislikes": 75,
+    "status": "online"
+  },
+  {
+    "id": "minecraft-1-8-8",
+    "title": "Minecraft 1.8.8",
+    "featured": true,
+    "year": 2011,
+    "developer": "Mojang Studios",
+    "summary": "Lanzado oficialmente en 2011 por Mojang, popularizó la construcción y exploración en mundos generados por bloques. Su libertad creativa y su comunidad de mods lo convirtieron en uno de los sandbox más influyentes.",
+    "metadataSource": "https://en.wikipedia.org/wiki/Minecraft",
+    "category": "Sandbox",
+    "collection": "ports",
+    "image": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Wii_U/master/Named_Boxarts/Minecraft%20-%20Wii%20U%20Edition%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CZh%2CKo%2CRu)%20(Rev%201).png",
+    "launchMode": "iframe",
+    "url": "./games/minecraft-1-8-8/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "./games/minecraft-1-8-8/",
+        "status": "online"
+      }
+    ],
+    "status": "online",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2039,
+    "dislikes": 80
+  },
+  {
+    "id": "simpsons-hit-and-run",
+    "title": "The Simpsons: Hit & Run",
+    "category": "Plataformas",
+    "collection": "ports",
+    "image": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_2/master/Named_Boxarts/Simpsons%2C%20The%20-%20Hit%20_%20Run%20(USA).png",
+    "launchMode": "external",
+    "url": "https://shar-wasm.cjoseph.workers.dev/?skipmovie",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://shar-wasm.cjoseph.workers.dev/?skipmovie",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://vheissu.github.io/hit-and-run-web/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 3 (Alternativo)",
+        "url": "https://rgc.zone/ports/simphnr/index.html",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 4 (Alternativo)",
+        "url": "http://shar-wasm.cjoseph.workers.dev/?skipmovie",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 5 (Alternativo)",
+        "url": "https://shar-wasm.cjoseph.workers.dev/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 6 (Alternativo)",
+        "url": "https://shar.harshvirdhaliwal.com/",
+        "status": "online"
+      }
+    ],
+    "pinned": true,
+    "tags": [
+      "Emulador 3D",
+      "Clásico",
+      "Mundo Abierto"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "status": "online",
+    "likes": 2036,
+    "dislikes": 94
+  },
+  {
+    "id": "super-mario-64",
+    "title": "Super Mario 64",
+    "featured": true,
+    "year": 1996,
+    "developer": "Nintendo Entertainment Analysis & Development",
+    "summary": "Fue el primer juego de Super Mario con gráficos 3D y llevó la serie a un amplio mundo explorable. Su movimiento libre y diseño de niveles influyeron profundamente en los juegos de plataformas tridimensionales.",
+    "metadataSource": "https://en.wikipedia.org/wiki/Super_Mario_64",
+    "category": "Plataformas",
+    "collection": "ports",
+    "image": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_64/master/Named_Boxarts/Super%20Mario%2064%20(USA).png",
+    "launchMode": "iframe",
+    "url": "./games/super-mario-64/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "./games/super-mario-64/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://rgc.zone/ports/sm64-main/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "online",
+    "tags": [
+      "Web Native",
+      "Plataformas",
+      "Aventura"
+    ],
+    "controls": {
+      "Moverse": "Flechas del teclado",
+      "Cámara": "W, A, S, D",
+      "Saltar": "L",
+      "Agacharse / Deslizarse": "Espacio / K",
+      "Golpe / Saltar Diálogo": "C",
+      "Start / Pausa": "Enter"
+    },
+    "likes": 2374,
+    "dislikes": 87,
+    "saga": "mario"
+  },
+  {
+    "id": "naruto-shippuden-ultimate-ninja-5",
+    "title": "Naruto Shippuden: Ultimate Ninja 5",
+    "category": "Lucha",
+    "collection": "ports",
+    "image": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_2/master/Named_Boxarts/Naruto%20Shippuden%20-%20Ultimate%20Ninja%205%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+    "launchMode": "external",
+    "url": "https://narutoshippuden5.online/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://narutoshippuden5.online/",
+        "status": "online"
+      }
+    ],
+    "status": "online",
+    "pinned": true,
+    "tags": [
+      "Emulador 3D",
+      "Lucha",
+      "Acción"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Golpe / Ataque": "J, K / Z, X",
+      "Salto": "Espacio / W"
+    },
+    "likes": 1907,
+    "dislikes": 80,
+    "saga": "naruto"
+  },
+  {
+    "id": "celeste",
+    "title": "Celeste",
+    "category": "Plataformas",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg",
+    "launchMode": "iframe",
+    "url": "./games/celeste/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://www.lexaloffle.com/bbs/widget.php?pid=celeste",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://celeste.r58playz.dev/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Plataformas",
+      "Aventura"
+    ],
+    "controls": {
+      "Moverse": "Flechas / WASD",
+      "Saltar / Acción": "Espacio / Z",
+      "Especial / Dash": "X / Shift"
+    },
+    "likes": 1815,
+    "dislikes": 95
+  },
+  {
+    "id": "half-life",
+    "title": "Half-Life",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg",
+    "launchMode": "iframe",
+    "url": "./games/half-life/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://pixelsuft.github.io/hl/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://gn-math.dev/?id=262",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "FPS",
+      "Disparos"
+    ],
+    "controls": {
+      "Moverse": "W, A, S, D",
+      "Apuntar": "Ratón (Mouse)",
+      "Disparar": "Click Izquierdo",
+      "Saltar": "Espacio"
+    },
+    "likes": 1849,
+    "dislikes": 85,
+    "saga": "half-life"
+  },
+  {
+    "id": "brutal-doom",
+    "title": "Brutal Doom",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/brutaldoom/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/brutaldoom/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "FPS",
+      "Disparos"
+    ],
+    "controls": {
+      "Moverse": "W, A, S, D",
+      "Apuntar": "Ratón (Mouse)",
+      "Disparar": "Click Izquierdo",
+      "Saltar": "Espacio"
+    },
+    "likes": 1883,
+    "dislikes": 75,
+    "saga": "doom"
+  },
+  {
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454400/header.jpg",
+    "collection": "indie",
+    "id": "cookie-clicker",
+    "url": "./games/cookie-clicker/",
+    "launchMode": "iframe",
+    "category": "Casual",
+    "tags": [
+      "Viral",
+      "Casual",
+      "Indie",
+      "Táctil",
+      "mobile-ready"
+    ],
+    "title": "Cookie Clicker",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://ozh.github.io/cookieclicker/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://orteil.dashnet.org/cookieclicker/",
+        "status": "online"
+      }
+    ],
+    "controls": {
+      "Acción": "Click Ratón (Mouse)",
+      "Seleccionar": "Click Izquierdo",
+      "Menú / Cancelar": "Click Derecho / ESC"
+    },
+    "mobileReady": true,
+    "touchControlMode": "touch-native",
+    "likes": 1934,
+    "dislikes": 98,
+    "status": "online"
+  },
+  {
+    "id": "sonic-the-hedgehog",
+    "title": "Sonic the Hedgehog (2013)",
+    "category": "Plataformas",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/71113/header.jpg",
+    "launchMode": "external",
+    "url": "https://vinmannie.github.io/Sonic-1-WASM/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://vinmannie.github.io/Sonic-1-WASM/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Plataformas",
+      "Aventura"
+    ],
+    "controls": {
+      "Moverse": "Flechas / WASD",
+      "Saltar / Acción": "Espacio / Z",
+      "Especial / Dash": "X / Shift"
+    },
+    "likes": 2002,
+    "dislikes": 79,
+    "saga": "sonic"
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash",
+    "category": "Plataformas",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322170/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://web-dashers.github.io/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://web-dashers.github.io/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://gn-math.dev/?id=785",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico",
+      "Táctil",
+      "mobile-ready"
+    ],
+    "controls": {
+      "Moverse": "Flechas / WASD",
+      "Saltar / Acción": "Espacio / Z",
+      "Especial / Dash": "X / Shift"
+    },
+    "mobileReady": true,
+    "touchControlMode": "touch-native",
+    "likes": 1917,
+    "dislikes": 91
+  },
+  {
+    "id": "plants-vs-zombies",
+    "title": "Plants vs. Zombies",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://pvz.ee/iframe.php",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/pvzweb/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Estrategia",
+      "Casual",
+      "Táctil",
+      "mobile-ready"
+    ],
+    "controls": {
+      "Acción": "Click Ratón (Mouse)",
+      "Seleccionar": "Click Izquierdo",
+      "Menú / Cancelar": "Click Derecho / ESC"
+    },
+    "mobileReady": true,
+    "touchControlMode": "touch-native",
+    "likes": 1985,
+    "dislikes": 96
+  },
+  {
+    "id": "call-of-duty-black-ops-zombies",
+    "title": "Call of Duty: Black Ops Zombies",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/header.jpg",
+    "launchMode": "external",
+    "url": "https://vel.gg/bsz",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "http://vel.gg/bo1z",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://vel.gg/bsz",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "FPS",
+      "Disparos"
+    ],
+    "controls": {
+      "Moverse": "W, A, S, D",
+      "Apuntar": "Ratón (Mouse)",
+      "Disparar": "Click Izquierdo",
+      "Saltar": "Espacio"
+    },
+    "likes": 1856,
+    "dislikes": 82,
+    "saga": "call-of-duty"
+  },
+  {
+    "id": "counter-strike-1-6",
+    "title": "Counter Strike 1.6",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/gstrike/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://csjs.live",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "W, A, S, D",
+      "Apuntar / Disparar": "Ratón (Click Izq)",
+      "Saltar": "Espacio",
+      "Comprar": "B",
+      "Recargar": "R"
+    },
+    "likes": 2002,
+    "dislikes": 79,
+    "saga": "counter-strike"
+  },
+  {
+    "id": "ages-of-conflict",
+    "title": "Ages of Conflict",
+    "category": "Puzzle",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/library_600x900.jpg",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/aoc/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/aoc/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1968,
+    "dislikes": 89
+  },
+  {
+    "id": "among-us",
+    "title": "Among Us",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/amongus/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/amongus/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1832,
+    "dislikes": 77
+  },
+  {
+    "id": "animal-crossing",
+    "title": "Animal Crossing",
+    "category": "Sandbox",
+    "collection": "ports",
+    "image": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Animal%20Crossing%20(USA).png",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/ac-webport-main/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/ac-webport-main/index.html",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://gn-math.dev/?id=828",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico",
+      "Mundo Abierto"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1951,
+    "dislikes": 81
+  },
+  {
+    "id": "arx-fatalis",
+    "title": "Arx Fatalis",
+    "category": "Aventura",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1700/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/arxweb/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/arxweb/index.html",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://wasm.continuation-labs.com/arxdemo/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1883,
+    "dislikes": 75
+  },
+  {
+    "id": "beatblock",
+    "title": "Beatblock",
+    "category": "Casual",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045200/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/beatblock/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/beatblock/index.html",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://gn-math.dev/?id=787",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1849,
+    "dislikes": 85
+  },
+  {
+    "id": "bendy-and-the-ink-machine",
+    "title": "Bendy and The Ink Machine",
+    "category": "Terror",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/622650/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/BATIM/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gn-math.github.io/web-port/bendy/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://wasm.rip/files/BATIM/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Terror"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1771,
+    "dislikes": 69
+  },
+  {
+    "id": "the-binding-of-isaac-repentance",
+    "title": "The Binding of Isaac: Repentance",
+    "category": "Aventura",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426300/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://tboi.online/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://tboi.online/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1873,
+    "dislikes": 90
+  },
+  {
+    "id": "brawlhalla",
+    "title": "Brawlhalla",
+    "category": "Lucha",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291550/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://truffled.lol/games/brawlhalla/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://truffled.lol/games/brawlhalla/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Lucha",
+      "Acción"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Golpe / Ataque": "J, K / Z, X",
+      "Salto": "Espacio / W"
+    },
+    "likes": 1866,
+    "dislikes": 93
+  },
+  {
+    "id": "brotato",
+    "title": "Brotato",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942280/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/bpac/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/bpac/index.html",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://gn-math.dev/?id=723",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1815,
+    "dislikes": 95
+  },
+  {
+    "id": "burnout-3-takedown",
+    "title": "Burnout 3: Takedown",
+    "category": "Deportes",
+    "collection": "ports",
+    "image": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_2/master/Named_Boxarts/Burnout%203%20-%20Takedown%20(USA).png",
+    "launchMode": "iframe",
+    "url": "https://burnout3.online/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://burnout3.online/",
+        "status": "online"
+      }
+    ],
+    "status": "online",
+    "pinned": true,
+    "tags": [
+      "Emulador 3D",
+      "Velocidad",
+      "Deportes"
+    ],
+    "controls": {
+      "Girar": "A, D / Flechas",
+      "Acelerar": "W / Flecha Arriba",
+      "Frenar / Truco": "S / Espacio"
+    },
+    "likes": 2002,
+    "dislikes": 79
+  },
+  {
+    "id": "caesar-ii",
+    "title": "Caesar II",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261050/capsule_231x87.jpg?t=1763649746",
+    "launchMode": "iframe",
+    "url": "https://second-impressions.github.io/caesar2-port/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://second-impressions.github.io/caesar2-port/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Estrategia"
+    ],
+    "controls": {
+      "Acción": "Click Ratón (Mouse)",
+      "Seleccionar": "Click Izquierdo",
+      "Menú / Cancelar": "Click Derecho / ESC"
+    },
+    "likes": 1849,
+    "dislikes": 85
+  },
+  {
+    "id": "call-of-duty-modern-warfare-2",
+    "title": "Call of Duty: Modern Warfare 2",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10180/header.jpg",
+    "launchMode": "external",
+    "url": "https://ovz-game-production.up.railway.app",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://ovz-game-production.up.railway.app",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "FPS",
+      "Disparos"
+    ],
+    "controls": {
+      "Moverse": "W, A, S, D",
+      "Apuntar": "Ratón (Mouse)",
+      "Disparar": "Click Izquierdo",
+      "Saltar": "Espacio"
+    },
+    "likes": 1839,
+    "dislikes": 75,
+    "saga": "call-of-duty"
+  },
+  {
+    "id": "carmageddon",
+    "title": "Carmageddon",
+    "category": "Deportes",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282010/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/carmaweb/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/carmaweb/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Velocidad",
+      "Deportes"
+    ],
+    "controls": {
+      "Girar": "A, D / Flechas",
+      "Acelerar": "W / Flecha Arriba",
+      "Frenar / Truco": "S / Espacio"
+    },
+    "likes": 1883,
+    "dislikes": 75
+  },
+  {
+    "id": "carmageddon-ii-carpocalypse-now",
+    "title": "Carmageddon II: Carpocalypse Now",
+    "category": "Deportes",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282030/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/carma2web/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/carma2web/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Velocidad",
+      "Deportes"
+    ],
+    "controls": {
+      "Girar": "A, D / Flechas",
+      "Acelerar": "W / Flecha Arriba",
+      "Frenar / Truco": "S / Espacio"
+    },
+    "likes": 1873,
+    "dislikes": 90
+  },
+  {
+    "id": "castle-crashers",
+    "title": "Castle Crashers",
+    "category": "Plataformas",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://truffled.lol/games/castle/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://truffled.lol/games/castle/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Plataformas",
+      "Aventura"
+    ],
+    "controls": {
+      "Moverse": "Flechas / WASD",
+      "Saltar / Acción": "Espacio / Z",
+      "Especial / Dash": "X / Shift"
+    },
+    "likes": 1951,
+    "dislikes": 81,
+    "saga": "crash"
+  },
+  {
+    "id": "cave-story",
+    "title": "Cave Story",
+    "category": "Aventura",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/cavestory/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/cavestory/index.html",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://midzer.de/wasm/cavestory/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Plataformas",
+      "Aventura"
+    ],
+    "controls": {
+      "Moverse": "Flechas / WASD",
+      "Saltar / Acción": "Espacio / Z",
+      "Especial / Dash": "X / Shift"
+    },
+    "likes": 1866,
+    "dislikes": 93
+  },
+  {
+    "id": "chasm-the-rift",
+    "title": "Chasm: The Rift",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2061230/capsule_231x87.jpg?t=1793094198",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/chasmweb/run.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/chasmweb/run.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1934,
+    "dislikes": 98
+  },
+  {
+    "id": "clustertruck",
+    "title": "Clustertruck",
+    "category": "Plataformas",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397950/capsule_231x87.jpg?t=1785515783",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/ClusterTruck/clustertruck.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/ClusterTruck/clustertruck.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1900,
+    "dislikes": 83
+  },
+  {
+    "id": "command-conquer-generals",
+    "title": "Command & Conquer: Generals",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2229870/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://generals.wasm.com.br/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://generals.wasm.com.br/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Estrategia"
+    ],
+    "controls": {
+      "Acción": "Click Ratón (Mouse)",
+      "Seleccionar": "Click Izquierdo",
+      "Menú / Cancelar": "Click Derecho / ESC"
+    },
+    "likes": 1754,
+    "dislikes": 86
+  },
+  {
+    "id": "command-conquer-generals-zero-hour",
+    "title": "Command & Conquer: Generals Zero Hour",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732960/capsule_231x87.jpg?t=1785902817",
+    "launchMode": "iframe",
+    "url": "https://generals.wasm.ltd",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://generals.wasm.ltd",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Estrategia"
+    ],
+    "controls": {
+      "Acción": "Click Ratón (Mouse)",
+      "Seleccionar": "Click Izquierdo",
+      "Menú / Cancelar": "Click Derecho / ESC"
+    },
+    "likes": 1924,
+    "dislikes": 88
+  },
+  {
+    "id": "command-conquer-red-alert-2",
+    "title": "Command & Conquer: Red Alert 2",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2229850/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://chronodivide.com/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://chronodivide.com/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Estrategia"
+    ],
+    "controls": {
+      "Acción": "Click Ratón (Mouse)",
+      "Seleccionar": "Click Izquierdo",
+      "Menú / Cancelar": "Click Derecho / ESC"
+    },
+    "likes": 1805,
+    "dislikes": 84
+  },
+  {
+    "id": "command-conquer-renegade",
+    "title": "Command & Conquer: Renegade",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2229890/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://open-commando.netanelgilad.workers.dev",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://open-commando.netanelgilad.workers.dev",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Estrategia"
+    ],
+    "controls": {
+      "Acción": "Click Ratón (Mouse)",
+      "Seleccionar": "Click Izquierdo",
+      "Menú / Cancelar": "Click Derecho / ESC"
+    },
+    "likes": 1754,
+    "dislikes": 86
+  },
+  {
+    "id": "commander-keen",
+    "title": "Commander Keen",
+    "category": "Plataformas",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9180/capsule_231x87.jpg?t=1782164361",
+    "launchMode": "iframe",
+    "url": "https://www.jamesfmackenzie.com/chocolatekeen/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://www.jamesfmackenzie.com/chocolatekeen/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1934,
+    "dislikes": 98
+  },
+  {
+    "id": "counter-strike",
+    "title": "Counter-Strike",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/gstrike/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/gstrike/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "FPS",
+      "Disparos"
+    ],
+    "controls": {
+      "Moverse": "W, A, S, D",
+      "Apuntar": "Ratón (Mouse)",
+      "Disparar": "Click Izquierdo",
+      "Saltar": "Espacio"
+    },
+    "likes": 1934,
+    "dislikes": 98,
+    "saga": "counter-strike"
+  },
+  {
+    "id": "crashout-crew",
+    "title": "Crashout Crew",
+    "category": "Plataformas",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583210/8c72003fa9b495893d862479f99c361ab647ded6/capsule_231x87.jpg?t=1785949243",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/cc/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/cc/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1917,
+    "dislikes": 91,
+    "saga": "crash"
+  },
+  {
+    "id": "createrria",
+    "title": "Createrria",
+    "category": "Sandbox",
+    "collection": "ports",
+    "image": "https://img.itch.zone/aW1nLzI5OTU4Nzk1LmpwZw==/original/F7KuRz.jpg",
+    "launchMode": "external",
+    "url": "https://nomadic-ua.itch.io/createrria",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://nomadic-ua.itch.io/createrria",
+        "status": "online"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1866,
+    "dislikes": 93
+  },
+  {
+    "id": "crisis-core-final-fantasy-vii",
+    "title": "Crisis Core: Final Fantasy VII",
+    "category": "Aventura",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://crisiscorefinalfantasy7.online/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://crisiscorefinalfantasy7.online/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1839,
+    "dislikes": 75
+  },
+  {
+    "id": "daggerfall",
+    "title": "Daggerfall",
+    "category": "Aventura",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812390/library_600x900.jpg",
+    "launchMode": "iframe",
+    "url": "https://daggerfalljs.dev/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://daggerfalljs.dev/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1866,
+    "dislikes": 93
+  },
+  {
+    "id": "deltarune-chapters-1-4",
+    "title": "Deltarune Chapters 1-4",
+    "category": "Aventura",
+    "collection": "ports",
+    "image": "https://img.itch.zone/aW1nLzIyNzE4MjU2LnBuZw==/original/vvXZGH.png",
+    "launchMode": "external",
+    "url": "https://aukak.itch.io/deltarune",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://aukak.itch.io/deltarune",
+        "status": "online"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1720,
+    "dislikes": 71
+  },
+  {
+    "id": "descent",
+    "title": "Descent",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/273580/capsule_231x87.jpg?t=1762282569",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/descentweb/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/descentweb/index.html",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://descent.2ar.nl/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 3 (Alternativo)",
+        "url": "https://midzer.de/wasm/descent1/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1815,
+    "dislikes": 95
+  },
+  {
+    "id": "diablo",
+    "title": "Diablo",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://d07riv.github.io/diabloweb/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://d07riv.github.io/diabloweb/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://johnimril.github.io/diablo_web/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Estrategia"
+    ],
+    "controls": {
+      "Acción": "Click Ratón (Mouse)",
+      "Seleccionar": "Click Izquierdo",
+      "Menú / Cancelar": "Click Derecho / ESC"
+    },
+    "likes": 1798,
+    "dislikes": 87
+  },
+  {
+    "id": "diddy-kong-racing",
+    "title": "Diddy Kong Racing",
+    "category": "Carreras",
+    "collection": "ports",
+    "image": "https://akratch.github.io/golden-balloon/assets/og.jpg",
+    "launchMode": "iframe",
+    "url": "https://akratch.github.io/golden-balloon/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://akratch.github.io/golden-balloon/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1985,
+    "dislikes": 96
+  },
+  {
+    "id": "dokdo",
+    "title": "DOKDO",
+    "category": "Aventura",
+    "collection": "ports",
+    "image": "https://dokdo.online/dokdo-sailing-wide.jpg",
+    "launchMode": "external",
+    "url": "https://dokdo.online",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://dokdo.online",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1781,
+    "dislikes": 79
+  },
+  {
+    "id": "doki-doki-literature-club-plus",
+    "title": "Doki Doki Literature Club Plus!",
+    "category": "Terror",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388880/68f86b3672d4c01a0b8bba990f5e9b7ef3c5e937/capsule_231x87.jpg?t=1769459840",
+    "launchMode": "iframe",
+    "url": "https://selenite.cc/resources/semag/ddlcplus/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://selenite.cc/resources/semag/ddlcplus/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1856,
+    "dislikes": 82
+  },
+  {
+    "id": "doom",
+    "title": "DOOM (1993)",
+    "featured": true,
+    "year": 1993,
+    "developer": "id Software",
+    "summary": "Lanzado en 1993 por id Software, popularizó el shooter en primera persona de ritmo rápido y niveles laberínticos. Su tecnología, diseño de combate y comunidad de modificaciones influyeron ampliamente en el género.",
+    "metadataSource": "https://en.wikipedia.org/wiki/Doom_(1993_video_game)",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/57/Doom_cover_art.jpg",
+    "launchMode": "external",
+    "url": "https://raz0red.github.io/webprboom/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://raz0red.github.io/webprboom/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://joeheyming.github.io/doom/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 3 (Alternativo)",
+        "url": "https://ustymukhman.github.io/WebDOOM/public/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "FPS",
+      "Disparos"
+    ],
+    "controls": {
+      "Moverse": "Flechas / WASD",
+      "Disparar": "Control (Ctrl) / Espacio",
+      "Abrir Puertas": "Espacio",
+      "Menú / Pausa": "ESC",
+      "Aceptar Menú": "Enter"
+    },
+    "likes": 1940,
+    "dislikes": 69,
+    "saga": "doom"
+  },
+  {
+    "id": "duke-nukem-3d",
+    "title": "Duke Nukem 3D",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434050/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://digitalcybersoft.github.io/eduke32-wasm/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://digitalcybersoft.github.io/eduke32-wasm/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://midzer.de/wasm/duke3d/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "FPS",
+      "Disparos"
+    ],
+    "controls": {
+      "Moverse": "W, A, S, D",
+      "Apuntar": "Ratón (Mouse)",
+      "Disparar": "Click Izquierdo",
+      "Saltar": "Espacio"
+    },
+    "likes": 1917,
+    "dislikes": 91
+  },
+  {
+    "id": "dune-ii",
+    "title": "Dune II",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2127791/capsule_231x87.jpg?t=1710968878",
+    "launchMode": "iframe",
+    "url": "https://dune2js.com/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://dune2js.com/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1815,
+    "dislikes": 95
+  },
+  {
+    "id": "the-elder-scrolls-iii-morrowind",
+    "title": "The Elder Scrolls III: Morrowind",
+    "category": "Aventura",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22320/library_600x900.jpg",
+    "launchMode": "external",
+    "url": "https://morrowind.virtastic.app/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://morrowind.virtastic.app/",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1873,
+    "dislikes": 90
+  },
+  {
+    "id": "f1-race",
+    "title": "F1 Race",
+    "category": "Carreras",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313330/library_600x900.jpg",
+    "launchMode": "iframe",
+    "url": "https://lab.exlmoto.ru/f1/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://lab.exlmoto.ru/f1/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1815,
+    "dislikes": 95
+  },
+  {
+    "id": "faster-than-light-demo",
+    "title": "Faster Than Light: Demo",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/9eb97114b0c5b54ddf16393f28646ff3cb813a9f/capsule_231x87.jpg?t=1748969356",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/ftldemo/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/ftldemo/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1720,
+    "dislikes": 71
+  },
+  {
+    "id": "fez",
+    "title": "FEZ",
+    "category": "Plataformas",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224760/capsule_231x87.jpg?t=1572375251",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/FEZ/fez.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/FEZ/fez.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1747,
+    "dislikes": 89
+  },
+  {
+    "id": "fifa-10",
+    "title": "FIFA 10 (PSP)",
+    "category": "Deportes",
+    "collection": "ports",
+    "image": "https://fifa10.website/og-image.png",
+    "launchMode": "external",
+    "url": "https://fifa10.website/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://fifa10.website/",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "pinned": true,
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1815,
+    "dislikes": 95
+  },
+  {
+    "id": "fifa-14",
+    "title": "FIFA 14 (PSP)",
+    "category": "Deportes",
+    "collection": "ports",
+    "image": "https://fifa14.online/og-image.png",
+    "launchMode": "external",
+    "url": "https://fifa14.online/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://fifa14.online/",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "pinned": true,
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1815,
+    "dislikes": 95
+  },
+  {
+    "id": "fifa-street-2",
+    "title": "FIFA Street 2",
+    "category": "Deportes",
+    "collection": "ports",
+    "image": "https://fifastreet2.fun/og-image.png",
+    "launchMode": "external",
+    "url": "https://fifastreet2.fun/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://fifastreet2.fun/",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1917,
+    "dislikes": 91
+  },
+  {
+    "id": "golden-sun",
+    "title": "Golden Sun",
+    "category": "Aventura",
+    "collection": "ports",
+    "image": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Golden%20Sun%20(USA%2C%20Europe).png",
+    "launchMode": "iframe",
+    "url": "https://shmargus.github.io/GSRecomp/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://shmargus.github.io/GSRecomp/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1866,
+    "dislikes": 93
+  },
+  {
+    "id": "gravity-defied",
+    "title": "Gravity Defied",
+    "category": "Carreras",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5469060/0738477b3ed07bff02546a41df3e25ba715e56d4/capsule_231x87.jpg?t=1793144014",
+    "launchMode": "iframe",
+    "url": "https://litomore.github.io/gravity-defied-web/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://litomore.github.io/gravity-defied-web/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1934,
+    "dislikes": 98
+  },
+  {
+    "id": "gta-v",
+    "title": "GTA V",
+    "category": "Sandbox",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/a318bd9affe8eee32984b18794b273c256e9b2d6/capsule_231x87.jpg?t=1781187782",
+    "launchMode": "iframe",
+    "url": "https://hammadshakeelai.github.io/gta5-web/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://hammadshakeelai.github.io/gta5-web/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://web.archive.org/web/20261006055917/https://playgta5.com/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 3 (Alternativo)",
+        "url": "https://v2.fiveplay.lol/launcher.html",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 4 (Alternativo)",
+        "url": "https://gta.caruno.wtf:8443/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico",
+      "Mundo Abierto"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1781,
+    "dislikes": 79,
+    "saga": "gta"
+  },
+  {
+    "id": "halo-combat-evolved",
+    "title": "Halo: Combat Evolved",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1064221/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://mitchellhynes.com/halo/halo.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://mitchellhynes.com/halo/halo.html",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://mitchellhynes.com/combat-lab/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 3 (Alternativo)",
+        "url": "https://opencommunityedition.com/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2019,
+    "dislikes": 87
+  },
+  {
+    "id": "happy-room",
+    "title": "Happy Room",
+    "category": "Casual",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550010/capsule_231x87.jpg?t=1755238751",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/happy-room/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/happy-room/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1866,
+    "dislikes": 93
+  },
+  {
+    "id": "helltaker",
+    "title": "Helltaker",
+    "category": "Puzzle",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289310/capsule_231x87.jpg?t=1620755466",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/Helltaker/helltaker.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/Helltaker/helltaker.html",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://gn-math.dev/?id=790",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1849,
+    "dislikes": 85
+  },
+  {
+    "id": "heroes-of-might-and-magic-ii",
+    "title": "Heroes of Might and Magic II",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4921760/279c2c2e5e7838f327017aea57b6454aa16f6d7d/capsule_231x87.jpg?t=1790180698",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/fheroes2weblast/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/fheroes2weblast/index.html",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://midzer.de/wasm/heroes2/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1822,
+    "dislikes": 92
+  },
+  {
+    "id": "hexen-ii",
+    "title": "Hexen II",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9060/capsule_231x87.jpg?t=1666381851",
+    "launchMode": "iframe",
+    "url": "https://hexenwail.github.io/hexenwail/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://hexenwail.github.io/hexenwail/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://dos.zone/hexen-2-fteqw/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1832,
+    "dislikes": 77
+  },
+  {
+    "id": "homeworld",
+    "title": "Homeworld",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205",
+    "launchMode": "iframe",
+    "url": "https://gardens-of-kadesh.gitlab.io/gardens-of-kadesh/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://gardens-of-kadesh.gitlab.io/gardens-of-kadesh/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1849,
+    "dislikes": 85
+  },
+  {
+    "id": "hot-shots-tennis",
+    "title": "Hot Shots Tennis",
+    "category": "Deportes",
+    "collection": "ports",
+    "image": "https://opentennis.dev/shots/rally-autumn.jpg",
+    "launchMode": "iframe",
+    "url": "https://opentennis.dev/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://opentennis.dev/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1968,
+    "dislikes": 89
+  },
+  {
+    "id": "how-to-fish",
+    "title": "How to Fish",
+    "category": "Casual",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/8f65bb2b78d37a9147aa79c970a51610e6955bf1/capsule_231x87.jpg?t=1792508550",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/HowToFish/HowToFish.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/HowToFish/HowToFish.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1883,
+    "dislikes": 75
+  },
+  {
+    "id": "inscryption",
+    "title": "Inscryption",
+    "category": "Terror",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/capsule_231x87.jpg?t=1777572925",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/inscryption/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/inscryption/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1883,
+    "dislikes": 75
+  },
+  {
+    "id": "legend-of-legaia",
+    "title": "Legend of Legaia",
+    "category": "Aventura",
+    "collection": "ports",
+    "image": "https://andrewaltimit.github.io/legend-of-legaia-re/img/social-card.png",
+    "launchMode": "iframe",
+    "url": "https://andrewaltimit.github.io/legend-of-legaia-re/play.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://andrewaltimit.github.io/legend-of-legaia-re/play.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1968,
+    "dislikes": 89
+  },
+  {
+    "id": "lego-island",
+    "title": "LEGO Island",
+    "category": "Aventura",
+    "collection": "ports",
+    "image": "https://isle.pizza/images/island.webp",
+    "launchMode": "iframe",
+    "url": "https://isle.pizza/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://isle.pizza/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1883,
+    "dislikes": 75
+  },
+  {
+    "id": "lego-racers",
+    "title": "LEGO Racers",
+    "category": "Carreras",
+    "collection": "ports",
+    "image": "https://legorace.rs/assets/logo.png",
+    "launchMode": "iframe",
+    "url": "https://steponit.online/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://steponit.online/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1883,
+    "dislikes": 75
+  },
+  {
+    "id": "lethal-company",
+    "title": "Lethal Company",
+    "category": "Terror",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/capsule_231x87.jpg?t=1775380053",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/lethal/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/lethal/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1934,
+    "dislikes": 98
+  },
+  {
+    "id": "limbo",
+    "title": "Limbo",
+    "category": "Plataformas",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48000/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://truffled.lol/games/limbo/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://truffled.lol/games/limbo/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1781,
+    "dislikes": 79
+  },
+  {
+    "id": "lobotomy-corporation",
+    "title": "Lobotomy Corporation",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/capsule_231x87.jpg?t=1636694188",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/lob-corp/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/lob-corp/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2036,
+    "dislikes": 94
+  },
+  {
+    "id": "lugaru",
+    "title": "Lugaru",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/25010/library_600x900.jpg",
+    "launchMode": "iframe",
+    "url": "https://loganwalkerdev.github.io/lugaru-web/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://loganwalkerdev.github.io/lugaru-web/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1798,
+    "dislikes": 87
+  },
+  {
+    "id": "magic-tower-50-floors",
+    "title": "Magic Tower: 50 Floors",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://wasmarcade.app/covers/magic-tower.webp",
+    "launchMode": "iframe",
+    "url": "https://ckcz123.github.io/mota-js/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (HTML5 OpenSource)",
+        "url": "https://ckcz123.github.io/mota-js/",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas de Dirección",
+      "Interactuar": "Enter / Espacio",
+      "Guardar / Cargar": "Tecla S (Save) / Tecla L (Load)"
+    },
+    "likes": 1703,
+    "dislikes": 88
+  },
+  {
+    "id": "master-of-defence",
+    "title": "Master of Defence",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://img.itch.zone/aW1nLzMwMTUwMTY1LmpwZWc=/original/xlmDV3.jpeg",
+    "launchMode": "external",
+    "url": "https://nomadic-ua.itch.io/master-of-defence",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://nomadic-ua.itch.io/master-of-defence",
+        "status": "online"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1985,
+    "dislikes": 96
+  },
+  {
+    "id": "metal-gear-solid",
+    "title": "Metal Gear Solid",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/header.jpg",
+    "launchMode": "external",
+    "url": "https://mgs.ravenlight.net/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://mgs.ravenlight.net/",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1968,
+    "dislikes": 89
+  },
+  {
+    "id": "minecraft-0-6-1",
+    "title": "Minecraft 0.6.1",
+    "category": "Sandbox",
+    "collection": "ports",
+    "image": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Wii_U/master/Named_Boxarts/Minecraft%20-%20Wii%20U%20Edition%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CZh%2CKo%2CRu)%20(Rev%201).png",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/minecraft061/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/minecraft061/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1951,
+    "dislikes": 81
+  },
+  {
+    "id": "minecraft-story-mode",
+    "title": "Minecraft Story Mode",
+    "category": "Aventura",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/376870/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://mcsm-web.pages.dev/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://mcsm-web.pages.dev/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2036,
+    "dislikes": 94
+  },
+  {
+    "id": "miside",
+    "title": "MiSide",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/capsule_231x87.jpg?t=1792668822",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/miside/miside.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/miside/miside.html",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://gn-math.dev/?id=814",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1798,
+    "dislikes": 87
+  },
+  {
+    "id": "naruto-shippuden-ultimate-ninja-impact",
+    "title": "Naruto Shippuden: Ultimate Ninja Impact",
+    "category": "Lucha",
+    "collection": "ports",
+    "image": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/master/Named_Boxarts/Naruto%20Shippuden%20-%20Ultimate%20Ninja%20Impact%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+    "launchMode": "external",
+    "url": "https://narutoimpact.online/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://narutoimpact.online/",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "pinned": true,
+    "tags": [
+      "Emulador 3D",
+      "Lucha",
+      "Acción"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Golpe / Ataque": "J, K / Z, X",
+      "Salto": "Espacio / W"
+    },
+    "likes": 1992,
+    "dislikes": 94,
+    "saga": "naruto"
+  },
+  {
+    "id": "nblood",
+    "title": "NBlood",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3313180/5b77ea5c22944ef5a91af9b9eea22afb87d7ffc8/capsule_231x87.jpg?t=1730944010",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/nbloodweb/run.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/nbloodweb/run.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1798,
+    "dislikes": 87
+  },
+  {
+    "id": "need-for-speed-most-wanted",
+    "title": "Need for Speed: Most Wanted (nfsmw-webport)",
+    "category": "Carreras",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262560/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://iker3329.github.io/nfsmw-webport/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://iker3329.github.io/nfsmw-webport/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://dezm0n.itch.io/nfs-most-wanted-web-port",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 3 (Alternativo)",
+        "url": "https://web.nfsmwo.com/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 4 (Alternativo)",
+        "url": "https://nfsmwonline.com",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1788,
+    "dislikes": 77
+  },
+  {
+    "id": "nfl-street-2",
+    "title": "NFL Street 2 (NIL Street)",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://nilstreet.playthecombine.com/brand/og-image.png",
+    "launchMode": "external",
+    "url": "https://nilstreet.playthecombine.com/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://nilstreet.playthecombine.com/",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1900,
+    "dislikes": 83
+  },
+  {
+    "id": "nhl-94",
+    "title": "NHL '94",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://kingof94.web.app/brand/og-card.png",
+    "launchMode": "external",
+    "url": "https://kingof94.web.app/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://kingof94.web.app/",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1798,
+    "dislikes": 87
+  },
+  {
+    "id": "no-one-lives-forever",
+    "title": "No One Lives Forever",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://playnolf.com/assets/img/splash.webp",
+    "launchMode": "iframe",
+    "url": "https://playnolf.com/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://playnolf.com/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2036,
+    "dislikes": 94
+  },
+  {
+    "id": "oneshot-world-machine-edition",
+    "title": "Oneshot: World Machine Edition",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915460/capsule_231x87.jpg?t=1747673376",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/oneshot-wme/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/oneshot-wme/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1839,
+    "dislikes": 75
+  },
+  {
+    "id": "openttd",
+    "title": "OpenTTD",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1536610/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://openttdonline.com/play/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://openttdonline.com/play/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1815,
+    "dislikes": 95
+  },
+  {
+    "id": "peak",
+    "title": "PEAK (VERY wip)",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/1844964d7a353e50eb3cc979ea922729d8c1b0ad/capsule_231x87.jpg?t=1792684718",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/peak/PEAK.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/peak/PEAK.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1764,
+    "dislikes": 72
+  },
+  {
+    "id": "perfect-dark",
+    "title": "Perfect Dark",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267343/capsule_231x87.jpg?t=1681250270",
+    "launchMode": "iframe",
+    "url": "https://perfectdark.royal-cake-5abc.workers.dev/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://perfectdark.royal-cake-5abc.workers.dev/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1900,
+    "dislikes": 83
+  },
+  {
+    "id": "plague-inc",
+    "title": "Plague Inc",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246620/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/plauge/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/plauge/index.html",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://gn-math.dev/?id=805",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico",
+      "Táctil",
+      "mobile-ready"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "mobileReady": true,
+    "touchControlMode": "touch-native",
+    "likes": 1866,
+    "dislikes": 93
+  },
+  {
+    "id": "plunder-pillage",
+    "title": "Plunder & Pillage",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585660/3e42310510f746afee40d7bef95d682cf029ddfd/capsule_231x87.jpg?t=1790169911",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/8786-plunder/run.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/8786-plunder/run.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1951,
+    "dislikes": 81
+  },
+  {
+    "id": "portal",
+    "title": "Portal",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://yikes.pw/portal/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://yikes.pw/portal/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1798,
+    "dislikes": 87
+  },
+  {
+    "id": "postal-2",
+    "title": "POSTAL 2 (KahnStation)",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/capsule_231x87.jpg?t=1792080403",
+    "launchMode": "external",
+    "url": "https://kahn.lol/gopostal",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://kahn.lol/gopostal",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1832,
+    "dislikes": 77
+  },
+  {
+    "id": "powerslave",
+    "title": "Powerslave",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260020/capsule_231x87.jpg?t=1674746501",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/8774-powerslave/run.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/8774-powerslave/run.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1866,
+    "dislikes": 93
+  },
+  {
+    "id": "prince-of-persia",
+    "title": "Prince of Persia",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/19980/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://princejs.com/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://princejs.com/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1968,
+    "dislikes": 89
+  },
+  {
+    "id": "pro-evolution-soccer-2011",
+    "title": "Pro Evolution Soccer 2011",
+    "category": "Deportes",
+    "collection": "ports",
+    "image": "https://pes11.optijuegos.net/assets/logo.png",
+    "launchMode": "iframe",
+    "url": "https://pes11.optijuegos.net/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://pes11.optijuegos.net/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1771,
+    "dislikes": 69
+  },
+  {
+    "id": "pro-evolution-soccer-2014",
+    "title": "Pro Evolution Soccer 2014 (PSP)",
+    "category": "Deportes",
+    "collection": "ports",
+    "image": "https://pes14.online/og-image.png",
+    "launchMode": "external",
+    "url": "https://pes14.online/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://pes14.online/",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "pinned": true,
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1771,
+    "dislikes": 69
+  },
+  {
+    "id": "pro-evolution-soccer-6",
+    "title": "Pro Evolution Soccer 6",
+    "category": "Deportes",
+    "collection": "ports",
+    "image": "https://pes6.optijuegos.net/assets/logo.png",
+    "launchMode": "iframe",
+    "url": "http://pes6.optijuegos.net",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "http://pes6.optijuegos.net",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1720,
+    "dislikes": 71
+  },
+  {
+    "id": "purble-place",
+    "title": "Purble Place (decomp)",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764530/72a7f174e9bb945ec90b7a0cf5910ce448c1dc78/capsule_231x87.jpg?t=1791893020",
+    "launchMode": "iframe",
+    "url": "https://areshkew.github.io/purble-place-decomp/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://areshkew.github.io/purble-place-decomp/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1900,
+    "dislikes": 83
+  },
+  {
+    "id": "quake",
+    "title": "Quake",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/header.jpg",
+    "launchMode": "external",
+    "url": "https://qwasm.m-h.org.uk/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://qwasm.m-h.org.uk/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "FPS",
+      "Disparos"
+    ],
+    "controls": {
+      "Moverse": "W, A, S, D",
+      "Apuntar": "Ratón (Mouse)",
+      "Disparar": "Click Izquierdo",
+      "Saltar": "Espacio"
+    },
+    "likes": 1781,
+    "dislikes": 79
+  },
+  {
+    "id": "quake-ii",
+    "title": "Quake II",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/Q2web/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/Q2web/index.html",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "http://q2.pieter.com",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 3 (Alternativo)",
+        "url": "https://qwasm2.m-h.org.uk/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "FPS",
+      "Disparos"
+    ],
+    "controls": {
+      "Moverse": "W, A, S, D",
+      "Apuntar": "Ratón (Mouse)",
+      "Disparar": "Click Izquierdo",
+      "Saltar": "Espacio"
+    },
+    "likes": 1832,
+    "dislikes": 77
+  },
+  {
+    "id": "quake-iii-arena",
+    "title": "Quake III Arena",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2200/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://q3.pieter.com",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://q3.pieter.com",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "FPS",
+      "Disparos"
+    ],
+    "controls": {
+      "Moverse": "W, A, S, D",
+      "Apuntar": "Ratón (Mouse)",
+      "Disparar": "Click Izquierdo",
+      "Saltar": "Espacio"
+    },
+    "likes": 1951,
+    "dislikes": 81
+  },
+  {
+    "id": "ratchet-clank",
+    "title": "Ratchet & Clank",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/capsule_231x87.jpg?t=1787838873",
+    "launchMode": "iframe",
+    "url": "https://re-rac.github.io/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://re-rac.github.io/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1917,
+    "dislikes": 91
+  },
+  {
+    "id": "redneck-rampage",
+    "title": "Redneck Rampage",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/565550/library_600x900.jpg",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/redneckrweb/run.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/redneckrweb/run.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1951,
+    "dislikes": 81
+  },
+  {
+    "id": "redneck-rampage-rides-again",
+    "title": "Redneck Rampage: Rides Again",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/580940/library_600x900.jpg",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/rrridesagain/run.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/rrridesagain/run.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1805,
+    "dislikes": 84
+  },
+  {
+    "id": "resident-evil-4",
+    "title": "Resident Evil 4",
+    "category": "Terror",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://residentevil4.online/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://residentevil4.online/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1951,
+    "dislikes": 81
+  },
+  {
+    "id": "return-to-castle-wolfenstein",
+    "title": "Return to Castle Wolfenstein",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/capsule_231x87.jpg?t=1786459095",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/castlewolf/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/castlewolf/index.html",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://wwasm.m-h.org.uk/",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 3 (Alternativo)",
+        "url": "http://rtcw.pieter.com",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "FPS",
+      "Disparos"
+    ],
+    "controls": {
+      "Moverse": "W, A, S, D",
+      "Apuntar": "Ratón (Mouse)",
+      "Disparar": "Click Izquierdo",
+      "Saltar": "Espacio"
+    },
+    "likes": 1822,
+    "dislikes": 92
+  },
+  {
+    "id": "rimworld",
+    "title": "Rimworld",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/a805ac5e3ceb54a2d7d3e1c1049907f1ef8bbb89/capsule_231x87.jpg?t=1782756789",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/rimworld/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/rimworld/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1832,
+    "dislikes": 77
+  },
+  {
+    "id": "rollercoaster-tycoon-2",
+    "title": "RollerCoaster Tycoon 2 (OpenRCT2)",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285330/capsule_231x87.jpg?t=1733160988",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/openrct2/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/openrct2/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1720,
+    "dislikes": 71
+  },
+  {
+    "id": "rolling-sky",
+    "title": "Rolling Sky",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067440/capsule_231x87.jpg?t=1604995546",
+    "launchMode": "iframe",
+    "url": "https://rollingsky.3kh0.net",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rollingsky.3kh0.net",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1883,
+    "dislikes": 75
+  },
+  {
+    "id": "rugby-08",
+    "title": "Rugby 08 (mitchivin)",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://mitchivin.github.io/rugby08/pwa/social-preview.png",
+    "launchMode": "iframe",
+    "url": "https://mitchivin.github.io/rugby08/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://mitchivin.github.io/rugby08/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1832,
+    "dislikes": 77
+  },
+  {
+    "id": "s-t-a-l-k-e-r-call-of-pripyat",
+    "title": "S.T.A.L.K.E.R.: Call of Pripyat (ZoneVM)",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41700/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://zonevm.btr.pm/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://zonevm.btr.pm/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1839,
+    "dislikes": 75
+  },
+  {
+    "id": "scp-containment-breach",
+    "title": "SCP: Containment Breach",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178380/6ea7e93de004891db37b7870262c0c589604b5fd/capsule_231x87.jpg?t=1793687389",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/scp/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/scp/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1720,
+    "dislikes": 71
+  },
+  {
+    "id": "the-seven-games-of-the-soul",
+    "title": "The Seven Games of the Soul",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://omnium-games.github.io/faust/og-card.png",
+    "launchMode": "iframe",
+    "url": "https://omnium-games.github.io/faust/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://omnium-games.github.io/faust/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1805,
+    "dislikes": 84
+  },
+  {
+    "id": "shadow-warrior",
+    "title": "Shadow Warrior",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233130/capsule_231x87.jpg?t=1710246206",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/8775-swarrior/run.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/8775-swarrior/run.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1934,
+    "dislikes": 98
+  },
+  {
+    "id": "silkroad-online",
+    "title": "Silkroad Online (OpenSRO)",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243550/d57165f8027e08411d7bf1cfaf12db5b1ab735bc/capsule_231x87.jpg?t=1781991602",
+    "launchMode": "external",
+    "url": "https://opensro.online/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://opensro.online/",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1951,
+    "dislikes": 81
+  },
+  {
+    "id": "simcity",
+    "title": "SimCity (micropolisJS)",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24780/capsule_231x87.jpg?t=1777484586",
+    "launchMode": "iframe",
+    "url": "https://www.graememcc.co.uk/micropolisJS/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://www.graememcc.co.uk/micropolisJS/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1815,
+    "dislikes": 95
+  },
+  {
+    "id": "simgolf",
+    "title": "SimGolf",
+    "category": "Deportes",
+    "collection": "ports",
+    "image": "https://richardatct.github.io/simgolf-web/og.png",
+    "launchMode": "iframe",
+    "url": "https://richardatct.github.io/simgolf-web/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://richardatct.github.io/simgolf-web/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1815,
+    "dislikes": 95
+  },
+  {
+    "id": "slay-the-spire",
+    "title": "Slay the Spire",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://truffled.lol/games/sts/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://truffled.lol/games/sts/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1934,
+    "dislikes": 98
+  },
+  {
+    "id": "sonic-the-hedgehog-4-episode-i",
+    "title": "Sonic the Hedgehog 4: Episode I",
+    "category": "Plataformas",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202530/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://wamwoowam.co.uk/sonic4/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wamwoowam.co.uk/sonic4/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Plataformas",
+      "Aventura"
+    ],
+    "controls": {
+      "Moverse": "Flechas / WASD",
+      "Saltar / Acción": "Espacio / Z",
+      "Especial / Dash": "X / Shift"
+    },
+    "likes": 1856,
+    "dislikes": 82,
+    "saga": "sonic"
+  },
+  {
+    "id": "the-specialists",
+    "title": "The Specialists (Half-Life mod, specialists-browser)",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2260122/capsule_231x87.jpg?t=1678978783",
+    "launchMode": "iframe",
+    "url": "https://bulletballet.dev/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://bulletballet.dev/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "FPS",
+      "Disparos"
+    ],
+    "controls": {
+      "Moverse": "W, A, S, D",
+      "Apuntar": "Ratón (Mouse)",
+      "Disparar": "Click Izquierdo",
+      "Saltar": "Espacio"
+    },
+    "likes": 1951,
+    "dislikes": 81
+  },
+  {
+    "id": "spelunky-classic-hd",
+    "title": "Spelunky Classic HD",
+    "category": "Retro",
+    "collection": "ports",
+    "image": "https://img.itch.zone/aW1nLzE3MjI1MDQ4LnBuZw==/original/keYvsR.png",
+    "launchMode": "external",
+    "url": "https://yancharkin.itch.io/spelunky-classic-hd",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://yancharkin.itch.io/spelunky-classic-hd",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2019,
+    "dislikes": 87
+  },
+  {
+    "id": "spider-man-2",
+    "title": "Spider-Man 2",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://spiderman2.online/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://spiderman2.online/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1900,
+    "dislikes": 83
+  },
+  {
+    "id": "star-fox-adventures",
+    "title": "Star Fox Adventures",
+    "category": "Aventura",
+    "collection": "ports",
+    "image": "https://foxhollow.dev/og.png",
+    "launchMode": "iframe",
+    "url": "https://foxhollow.dev/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://foxhollow.dev/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2019,
+    "dislikes": 87
+  },
+  {
+    "id": "star-wars-jedi-knight-dark-forces-2",
+    "title": "Star Wars Jedi Knight Dark Forces 2",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32380/capsule_231x87.jpg?t=1741814501",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/oswjkdf2/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/oswjkdf2/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1941,
+    "dislikes": 96
+  },
+  {
+    "id": "star-wars-jedi-knight-jedi-academy",
+    "title": "Star Wars Jedi Knight: Jedi Academy",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6020/capsule_231x87.jpg?t=1741814908",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/openjkspweb/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/openjkspweb/index.html",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://jk.q3js.com",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1924,
+    "dislikes": 88
+  },
+  {
+    "id": "star-wars-empire-at-war",
+    "title": "Star Wars: Empire at War (Browser Edition)",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32470/capsule_231x87.jpg?t=1741729002",
+    "launchMode": "iframe",
+    "url": "https://playeaw.com",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://playeaw.com",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1737,
+    "dislikes": 79
+  },
+  {
+    "id": "stardew-valley",
+    "title": "Stardew Valley",
+    "category": "Plataformas",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://wasm.rip/files/stardewvalley/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wasm.rip/files/stardewvalley/index.html",
+        "status": "online"
+      },
+      {
+        "name": "Servidor 2 (Alternativo)",
+        "url": "https://gn-math.dev/?id=789",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Plataformas",
+      "Aventura"
+    ],
+    "controls": {
+      "Moverse": "Flechas / WASD",
+      "Saltar / Acción": "Espacio / Z",
+      "Especial / Dash": "X / Shift"
+    },
+    "likes": 1934,
+    "dislikes": 98
+  },
+  {
+    "id": "stunts",
+    "title": "Stunts (PlayStunts)",
+    "category": "Carreras",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027290/capsule_231x87.jpg?t=1782217099",
+    "launchMode": "iframe",
+    "url": "https://playstunts.com/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://playstunts.com/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1798,
+    "dislikes": 87
+  },
+  {
+    "id": "super-monkey-ball",
+    "title": "Super Monkey Ball",
+    "category": "Casual",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1316910/capsule_231x87.jpg?t=1781263885",
+    "launchMode": "iframe",
+    "url": "https://monkeyball-online.pages.dev/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://monkeyball-online.pages.dev/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1985,
+    "dislikes": 96
+  },
+  {
+    "id": "syndicate",
+    "title": "Syndicate",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674920/capsule_231x87.jpg?t=1786819654",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/syndweb/index.html",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/syndweb/index.html",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1849,
+    "dislikes": 85
+  },
+  {
+    "id": "tony-hawk-s-pro-skater-3",
+    "title": "Tony Hawk's Pro Skater 3",
+    "category": "Deportes",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545710/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://tonyhawkpro3.online/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://tonyhawkpro3.online/",
+        "status": "online"
+      }
+    ],
+    "status": "online",
+    "pinned": true,
+    "tags": [
+      "Emulador 3D",
+      "Velocidad",
+      "Deportes"
+    ],
+    "controls": {
+      "Girar": "A, D / Flechas",
+      "Acelerar": "W / Flecha Arriba",
+      "Frenar / Truco": "S / Espacio"
+    },
+    "likes": 1754,
+    "dislikes": 86
+  },
+  {
+    "id": "taiko-no-tatsujin",
+    "title": "Taiko no Tatsujin",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://cjdgrevival.com/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://cjdgrevival.com/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1985,
+    "dislikes": 96
+  },
+  {
+    "id": "team-fortress-2",
+    "title": "Team Fortress 2",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/library_600x900.jpg",
+    "launchMode": "iframe",
+    "url": "https://tf2.riddy.workers.dev/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://tf2.riddy.workers.dev/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1951,
+    "dislikes": 81
+  },
+  {
+    "id": "tomb-raider",
+    "title": "Tomb Raider",
+    "category": "Aventura",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/header.jpg",
+    "launchMode": "iframe",
+    "url": "http://xproger.info/projects/OpenLara/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "http://xproger.info/projects/OpenLara/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1883,
+    "dislikes": 75
+  },
+  {
+    "id": "toonstruck",
+    "title": "Toonstruck",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/369830/capsule_231x87.jpg?t=1762294895",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/toonstruckweb/index.html#toonstruck-fargus",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/toonstruckweb/index.html#toonstruck-fargus",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1866,
+    "dislikes": 93
+  },
+  {
+    "id": "ultrakill",
+    "title": "ULTRAKILL",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/capsule_231x87.jpg?t=1792046802",
+    "launchMode": "external",
+    "url": "https://monoxide.dev/ultrakill",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://monoxide.dev/ultrakill",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1849,
+    "dislikes": 85
+  },
+  {
+    "id": "the-ur-quan-masters",
+    "title": "The Ur-Quan Masters (Star Control II)",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2645580/capsule_231x87.jpg?t=1747690166",
+    "launchMode": "iframe",
+    "url": "https://urquanmasters.org/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://urquanmasters.org/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2019,
+    "dislikes": 87
+  },
+  {
+    "id": "urban-chaos",
+    "title": "Urban Chaos (OpenChaos)",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/243060/capsule_231x87.jpg?t=1596846329",
+    "launchMode": "iframe",
+    "url": "https://rgc.zone/ports/urbanchaosweb/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://rgc.zone/ports/urbanchaosweb/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1883,
+    "dislikes": 75
+  },
+  {
+    "id": "urban-terror",
+    "title": "Urban Terror",
+    "category": "Terror",
+    "collection": "ports",
+    "image": "https://ut.pieter.com/assets/og.jpg?v=1",
+    "launchMode": "external",
+    "url": "http://ut.pieter.com",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "http://ut.pieter.com",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1900,
+    "dislikes": 83
+  },
+  {
+    "id": "virtua-fighter",
+    "title": "Virtua Fighter",
+    "category": "Lucha",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3112260/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://vf1-recomp.pages.dev/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://vf1-recomp.pages.dev/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Lucha",
+      "Acción"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Golpe / Ataque": "J, K / Z, X",
+      "Salto": "Espacio / W"
+    },
+    "likes": 1934,
+    "dislikes": 98
+  },
+  {
+    "id": "the-warriors",
+    "title": "The Warriors",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267470/capsule_231x87.jpg?t=1745569628",
+    "launchMode": "iframe",
+    "url": "https://thewarriors.online/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://thewarriors.online/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1900,
+    "dislikes": 83
+  },
+  {
+    "id": "warzone-2100",
+    "title": "Warzone 2100 (Web Edition)",
+    "category": "Estrategia",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1241950/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://wz2100.net/news/warzone-2100-web-edition/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wz2100.net/news/warzone-2100-web-edition/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1900,
+    "dislikes": 83
+  },
+  {
+    "id": "wipeout",
+    "title": "WipEout",
+    "category": "Carreras",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/677260/capsule_231x87.jpg?t=1590399731",
+    "launchMode": "iframe",
+    "url": "https://phoboslab.org/wipegame/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://phoboslab.org/wipegame/",
+        "status": "online"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1815,
+    "dislikes": 95
+  },
+  {
+    "id": "wwe-smackdown-vs-raw-2011",
+    "title": "WWE SmackDown vs. Raw 2011",
+    "category": "Deportes",
+    "collection": "ports",
+    "image": "https://wwe2011.online/og-image.png",
+    "launchMode": "external",
+    "url": "https://wwe2011.online/",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://wwe2011.online/",
+        "status": "online"
+      }
+    ],
+    "status": "blocked",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1771,
+    "dislikes": 69
+  },
+  {
+    "id": "rain-world",
+    "title": "Rain World",
+    "category": "Web Port",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/header.jpg",
+    "url": "https://stelight.games/play/webports/stellite.games/stellite/rain-world/",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://stelight.games/play/webports/stellite.games/stellite/rain-world/",
+        "status": "online"
+      }
+    ]
+  },
+  {
+    "id": "tetris-classic",
+    "title": "Tetris (Classic Web)",
+    "category": "Puzzle",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/header.jpg",
+    "url": "https://chvin.github.io/react-tetris/",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": true,
+    "tags": [
+      "Viral",
+      "Puzzle",
+      "Casual",
+      "Táctil",
+      "mobile-ready"
+    ],
+    "controls": {
+      "Moverse": "Flechas / WASD",
+      "Saltar / Acción": "Espacio / Z",
+      "Especial / Dash": "X / Shift"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Principal)",
+        "url": "https://chvin.github.io/react-tetris/",
+        "status": "online"
+      }
+    ]
+  },
+  {
+    "id": "five-nights-at-freddy-s",
+    "title": "Five Nights at Freddy's",
+    "category": "Terror",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319510/header.jpg",
+    "url": "https://dorukyum.github.io/FNAF-Web/",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": true,
+    "tags": [
+      "Web Native",
+      "Terror",
+      "Táctil",
+      "mobile-ready"
+    ],
+    "controls": {
+      "Interactuar": "Click Ratón / Touch",
+      "Cámaras": "Puntero inferior de pantalla",
+      "Luces y Puertas": "Botones laterales rojos y blancos"
+    },
+    "featured": true,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Limpio GitHub Pages)",
+        "url": "https://dorukyum.github.io/FNAF-Web/",
+        "status": "online"
+      }
+    ]
+  },
+  {
+    "id": "five-nights-at-freddy-s-2",
+    "title": "Five Nights at Freddy's 2",
+    "category": "Terror",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332800/header.jpg",
+    "url": "https://sussygamedeveloper.github.io/FNAF2/",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": true,
+    "tags": [
+      "Web Native",
+      "Terror",
+      "Táctil"
+    ],
+    "controls": {
+      "Máscara Freddy": "Espacio / Botón máscara",
+      "Linterna": "Ctrl / Tecla F",
+      "Monitor de Cámaras": "Click derecho / Barra inferior"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Limpio GitHub Pages)",
+        "url": "https://sussygamedeveloper.github.io/FNAF2/",
+        "status": "online"
+      }
+    ]
+  },
+  {
+    "id": "five-nights-at-freddy-s-3",
+    "title": "Five Nights at Freddy's 3",
+    "category": "Terror",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/354140/header.jpg",
+    "url": "https://sussygamedeveloper.github.io/fnaf3/",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Terror"
+    ],
+    "controls": {
+      "Interactuar": "Click Ratón",
+      "Reiniciar Sistemas": "Click en Panel de Mantenimiento",
+      "Audio Lure": "Panel de Cámaras"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Limpio GitHub Pages)",
+        "url": "https://sussygamedeveloper.github.io/fnaf3/",
+        "status": "online"
+      }
+    ]
+  },
+  {
+    "id": "five-nights-at-freddy-s-4",
+    "title": "Five Nights at Freddy's 4",
+    "category": "Terror",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388090/header.jpg",
+    "url": "https://staticquasar931.github.io/FNAF-4/",
+    "launchMode": "iframe",
+    "status": "online",
+    "mobileReady": false,
+    "tags": [
+      "Web Native",
+      "Terror"
+    ],
+    "controls": {
+      "Moverse a Puertas": "Click en extremos de la habitación",
+      "Linterna": "Ctrl / Click",
+      "Mantener Puerta Cerrada": "Tecla Shift"
+    },
+    "featured": false,
+    "mirrors": [
+      {
+        "name": "Servidor 1 (Limpio GitHub Pages)",
+        "url": "https://staticquasar931.github.io/FNAF-4/",
+        "status": "online"
+      }
+    ]
+  },
+  {
+    "id": "horsey-game",
+    "title": "Horsey Game",
+    "category": "Indie",
+    "collection": "indie",
+    "image": "https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?w=600&auto=format&fit=crop&q=80",
+    "launchMode": "iframe",
+    "url": "https://woahhcrackers.github.io/HorseyGameWeb/",
+    "status": "online",
+    "featured": false,
+    "tags": [
+      "Web Native",
+      "Indie",
+      "Casual"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Saltar": "Espacio"
+    },
+    "summary": "Divertido juego indie de plataformas en WebAssembly limpio creado por woahhcrackers.",
+    "mirrors": [
+      {
+        "name": "Servidor 1 (GitHub Pages Limpio)",
+        "url": "https://woahhcrackers.github.io/HorseyGameWeb/",
+        "status": "online"
+      }
+    ]
+  }
+]

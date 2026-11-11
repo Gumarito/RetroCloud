@@ -1,0 +1,1075 @@
+{
+  "cleanCanvasOrLocal": [
+    {
+      "id": "kerbal-space-program",
+      "title": "Kerbal Space Program (KSP Web)",
+      "url": "https://ksp.ishotupa.school",
+      "pageTitle": "CKAN"
+    },
+    {
+      "id": "flappy-bird",
+      "title": "Flappy Bird",
+      "url": "https://ellisonleao.github.io/clumsy-bird/",
+      "pageTitle": "Clumsy Bird"
+    },
+    {
+      "id": "minecraft-1-8-8",
+      "title": "Minecraft 1.8.8",
+      "reason": "Local en RetroCloud"
+    },
+    {
+      "id": "simpsons-hit-and-run",
+      "title": "The Simpsons: Hit & Run",
+      "url": "https://shar-wasm.cjoseph.workers.dev/?skipmovie",
+      "pageTitle": "The Simpsons: Hit &amp; Run - WASM"
+    },
+    {
+      "id": "super-mario-64",
+      "title": "Super Mario 64",
+      "reason": "Local en RetroCloud"
+    },
+    {
+      "id": "naruto-shippuden-ultimate-ninja-5",
+      "title": "Naruto Shippuden: Ultimate Ninja 5",
+      "url": "https://narutoshippuden5.online/",
+      "pageTitle": ""
+    },
+    {
+      "id": "celeste",
+      "title": "Celeste",
+      "reason": "Local en RetroCloud"
+    },
+    {
+      "id": "half-life",
+      "title": "Half-Life",
+      "reason": "Local en RetroCloud"
+    },
+    {
+      "id": "brutal-doom",
+      "title": "Brutal Doom",
+      "url": "https://rgc.zone/ports/brutaldoom/index.html",
+      "pageTitle": "Brutal Doom"
+    },
+    {
+      "id": "cookie-clicker",
+      "title": "Cookie Clicker",
+      "reason": "Local en RetroCloud"
+    },
+    {
+      "id": "sonic-the-hedgehog",
+      "title": "Sonic the Hedgehog (2013)",
+      "url": "https://vinmannie.github.io/Sonic-1-WASM/",
+      "pageTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "geometry-dash",
+      "title": "Geometry Dash",
+      "url": "https://web-dashers.github.io/",
+      "pageTitle": "Web Dashers"
+    },
+    {
+      "id": "plants-vs-zombies",
+      "title": "Plants vs. Zombies",
+      "url": "https://pvz.ee/iframe.php",
+      "pageTitle": "Play Plant vs Zombies Online"
+    },
+    {
+      "id": "call-of-duty-black-ops-zombies",
+      "title": "Call of Duty: Black Ops Zombies",
+      "url": "https://vel.gg/bsz",
+      "pageTitle": "Zombies"
+    },
+    {
+      "id": "counter-strike-1-6",
+      "title": "Counter Strike 1.6",
+      "url": "https://wasm.rip/files/gstrike/index.html",
+      "pageTitle": "Global Strike"
+    },
+    {
+      "id": "ages-of-conflict",
+      "title": "Ages of Conflict",
+      "url": "https://wasm.rip/files/aoc/index.html",
+      "pageTitle": "Unity Web Player | Ages of Conflict"
+    },
+    {
+      "id": "among-us",
+      "title": "Among Us",
+      "url": "https://wasm.rip/files/amongus/index.html",
+      "pageTitle": "Among Us - wasm.rip"
+    },
+    {
+      "id": "animal-crossing",
+      "title": "Animal Crossing",
+      "url": "https://rgc.zone/ports/ac-webport-main/index.html",
+      "pageTitle": "Slider"
+    },
+    {
+      "id": "arx-fatalis",
+      "title": "Arx Fatalis",
+      "url": "https://rgc.zone/ports/arxweb/index.html",
+      "pageTitle": "Arx Fatalis"
+    },
+    {
+      "id": "beatblock",
+      "title": "Beatblock",
+      "url": "https://wasm.rip/files/beatblock/index.html",
+      "pageTitle": "löve.js"
+    },
+    {
+      "id": "bendy-and-the-ink-machine",
+      "title": "Bendy and The Ink Machine",
+      "url": "https://wasm.rip/files/BATIM/index.html",
+      "pageTitle": "Unity Web Player | Bendy and the Ink Machine"
+    },
+    {
+      "id": "the-binding-of-isaac-repentance",
+      "title": "The Binding of Isaac: Repentance",
+      "url": "https://tboi.online/",
+      "pageTitle": "The Binding of Isaac: Repentance+"
+    },
+    {
+      "id": "brawlhalla",
+      "title": "Brawlhalla",
+      "url": "https://truffled.lol/games/brawlhalla/index.html",
+      "pageTitle": "Brawlhalla"
+    },
+    {
+      "id": "brotato",
+      "title": "Brotato",
+      "url": "https://wasm.rip/files/bpac/index.html",
+      "pageTitle": "Brotato"
+    },
+    {
+      "id": "burnout-3-takedown",
+      "title": "Burnout 3: Takedown",
+      "url": "https://burnout3.online/",
+      "pageTitle": ""
+    },
+    {
+      "id": "caesar-ii",
+      "title": "Caesar II",
+      "url": "https://second-impressions.github.io/caesar2-port/",
+      "pageTitle": "Caesar II — 1.0.3"
+    },
+    {
+      "id": "carmageddon",
+      "title": "Carmageddon",
+      "url": "https://rgc.zone/ports/carmaweb/index.html",
+      "pageTitle": "Carmageddon — Web"
+    },
+    {
+      "id": "carmageddon-ii-carpocalypse-now",
+      "title": "Carmageddon II: Carpocalypse Now",
+      "url": "https://rgc.zone/ports/carma2web/index.html",
+      "pageTitle": "Carmageddon II — Web"
+    },
+    {
+      "id": "castle-crashers",
+      "title": "Castle Crashers",
+      "url": "https://truffled.lol/games/castle/index.html",
+      "pageTitle": "Castle Crashers"
+    },
+    {
+      "id": "cave-story",
+      "title": "Cave Story",
+      "url": "https://rgc.zone/ports/cavestory/index.html",
+      "pageTitle": "Cave Story"
+    },
+    {
+      "id": "chasm-the-rift",
+      "title": "Chasm: The Rift",
+      "url": "https://rgc.zone/ports/chasmweb/run.html",
+      "pageTitle": "Chasm: The Rift"
+    },
+    {
+      "id": "clustertruck",
+      "title": "Clustertruck",
+      "url": "https://wasm.rip/files/ClusterTruck/clustertruck.html",
+      "pageTitle": "Clustertruck"
+    },
+    {
+      "id": "command-conquer-red-alert-2",
+      "title": "Command & Conquer: Red Alert 2",
+      "url": "https://chronodivide.com/",
+      "pageTitle": "Red Alert 2: Chrono Divide"
+    },
+    {
+      "id": "commander-keen",
+      "title": "Commander Keen",
+      "url": "https://www.jamesfmackenzie.com/chocolatekeen/",
+      "pageTitle": "Commander Keen in WebAssembly"
+    },
+    {
+      "id": "counter-strike",
+      "title": "Counter-Strike",
+      "url": "https://wasm.rip/files/gstrike/index.html",
+      "pageTitle": "Global Strike"
+    },
+    {
+      "id": "crashout-crew",
+      "title": "Crashout Crew",
+      "url": "https://wasm.rip/files/cc/index.html",
+      "pageTitle": "yes"
+    },
+    {
+      "id": "createrria",
+      "title": "Createrria",
+      "url": "https://nomadic-ua.itch.io/createrria",
+      "pageTitle": "Createrria by nomadic_ua"
+    },
+    {
+      "id": "crisis-core-final-fantasy-vii",
+      "title": "Crisis Core: Final Fantasy VII",
+      "url": "https://crisiscorefinalfantasy7.online/",
+      "pageTitle": ""
+    },
+    {
+      "id": "daggerfall",
+      "title": "Daggerfall",
+      "url": "https://daggerfalljs.dev/",
+      "pageTitle": "DFO Online"
+    },
+    {
+      "id": "deltarune-chapters-1-4",
+      "title": "Deltarune Chapters 1-4",
+      "url": "https://aukak.itch.io/deltarune",
+      "pageTitle": "Deltarune Chapters 3 &amp; 4 (WEB PORT) by bog"
+    },
+    {
+      "id": "descent",
+      "title": "Descent",
+      "url": "https://rgc.zone/ports/descentweb/index.html",
+      "pageTitle": "Descent Web Port"
+    },
+    {
+      "id": "diablo",
+      "title": "Diablo",
+      "url": "https://d07riv.github.io/diabloweb/",
+      "pageTitle": "DIABLO"
+    },
+    {
+      "id": "diddy-kong-racing",
+      "title": "Diddy Kong Racing",
+      "url": "https://akratch.github.io/golden-balloon/",
+      "pageTitle": "Golden Balloon — play in your browser"
+    },
+    {
+      "id": "doki-doki-literature-club-plus",
+      "title": "Doki Doki Literature Club Plus!",
+      "url": "https://selenite.cc/resources/semag/ddlcplus/index.html",
+      "pageTitle": "Doki Doki Literature Club! Plus"
+    },
+    {
+      "id": "doom",
+      "title": "DOOM (1993)",
+      "url": "https://raz0red.github.io/webprboom/",
+      "pageTitle": "WebPrBoom"
+    },
+    {
+      "id": "duke-nukem-3d",
+      "title": "Duke Nukem 3D",
+      "url": "https://digitalcybersoft.github.io/eduke32-wasm/",
+      "pageTitle": "Duke Nukem 3D (WebAssembly)"
+    },
+    {
+      "id": "dune-ii",
+      "title": "Dune II",
+      "url": "https://dune2js.com/",
+      "pageTitle": "Dune II - The Building of A Dynasty"
+    },
+    {
+      "id": "the-elder-scrolls-iii-morrowind",
+      "title": "The Elder Scrolls III: Morrowind",
+      "url": "https://morrowind.virtastic.app/",
+      "pageTitle": "OpenMW-Web · Play Morrowind in your browser"
+    },
+    {
+      "id": "f1-race",
+      "title": "F1 Race",
+      "url": "https://lab.exlmoto.ru/f1/",
+      "pageTitle": "F1 Race"
+    },
+    {
+      "id": "faster-than-light-demo",
+      "title": "Faster Than Light: Demo",
+      "url": "https://rgc.zone/ports/ftldemo/index.html",
+      "pageTitle": ""
+    },
+    {
+      "id": "fez",
+      "title": "FEZ",
+      "url": "https://wasm.rip/files/FEZ/fez.html",
+      "pageTitle": "FEZ"
+    },
+    {
+      "id": "fifa-10",
+      "title": "FIFA 10 (PSP)",
+      "url": "https://fifa10.website/",
+      "pageTitle": "FIFA 10 Online | Juega gratis en el navegador"
+    },
+    {
+      "id": "fifa-14",
+      "title": "FIFA 14 (PSP)",
+      "url": "https://fifa14.online/",
+      "pageTitle": "FIFA 14 Web Online | Juega gratis en el navegador"
+    },
+    {
+      "id": "fifa-street-2",
+      "title": "FIFA Street 2",
+      "url": "https://fifastreet2.fun/",
+      "pageTitle": "FIFA Street 2 Online | Juega gratis en el navegador"
+    },
+    {
+      "id": "golden-sun",
+      "title": "Golden Sun",
+      "url": "https://shmargus.github.io/GSRecomp/",
+      "pageTitle": "Golden Sun Recompiled"
+    },
+    {
+      "id": "gravity-defied",
+      "title": "Gravity Defied",
+      "url": "https://litomore.github.io/gravity-defied-web/",
+      "pageTitle": "Gravity Defied Web"
+    },
+    {
+      "id": "gta-v",
+      "title": "GTA V",
+      "url": "https://hammadshakeelai.github.io/gta5-web/",
+      "pageTitle": "PlayGTA5 · WebAssembly & WebGPU Edition"
+    },
+    {
+      "id": "halo-combat-evolved",
+      "title": "Halo: Combat Evolved",
+      "url": "https://mitchellhynes.com/halo/halo.html",
+      "pageTitle": "Combat Lab"
+    },
+    {
+      "id": "happy-room",
+      "title": "Happy Room",
+      "url": "https://wasm.rip/files/happy-room/index.html",
+      "pageTitle": "Unity WebGL Player | Happy Room"
+    },
+    {
+      "id": "helltaker",
+      "title": "Helltaker",
+      "url": "https://wasm.rip/files/Helltaker/helltaker.html",
+      "pageTitle": "Unity WebGL Player | Helltaker"
+    },
+    {
+      "id": "heroes-of-might-and-magic-ii",
+      "title": "Heroes of Might and Magic II",
+      "url": "https://rgc.zone/ports/fheroes2weblast/index.html",
+      "pageTitle": "fheroes2"
+    },
+    {
+      "id": "hexen-ii",
+      "title": "Hexen II",
+      "url": "https://hexenwail.github.io/hexenwail/",
+      "pageTitle": "Hexenwail"
+    },
+    {
+      "id": "homeworld",
+      "title": "Homeworld",
+      "url": "https://gardens-of-kadesh.gitlab.io/gardens-of-kadesh/",
+      "pageTitle": "Emscripten-Generated Code"
+    },
+    {
+      "id": "hot-shots-tennis",
+      "title": "Hot Shots Tennis",
+      "url": "https://opentennis.dev/",
+      "pageTitle": "OpenTennis: Hot Shots Tennis (Everybody's Tennis) remaster for PC, browser and online"
+    },
+    {
+      "id": "how-to-fish",
+      "title": "How to Fish",
+      "url": "https://wasm.rip/files/HowToFish/HowToFish.html",
+      "pageTitle": "How to Fish"
+    },
+    {
+      "id": "inscryption",
+      "title": "Inscryption",
+      "url": "https://wasm.rip/files/inscryption/index.html",
+      "pageTitle": "Inscryption Webport"
+    },
+    {
+      "id": "legend-of-legaia",
+      "title": "Legend of Legaia",
+      "url": "https://andrewaltimit.github.io/legend-of-legaia-re/play.html",
+      "pageTitle": "Play Legend of Legaia in the Browser - WASM Engine Port"
+    },
+    {
+      "id": "lego-island",
+      "title": "LEGO Island",
+      "url": "https://isle.pizza/",
+      "pageTitle": "LEGO® Island"
+    },
+    {
+      "id": "lego-racers",
+      "title": "LEGO Racers",
+      "url": "https://steponit.online/",
+      "pageTitle": "Step On It"
+    },
+    {
+      "id": "lethal-company",
+      "title": "Lethal Company",
+      "url": "https://wasm.rip/files/lethal/index.html",
+      "pageTitle": "lethal"
+    },
+    {
+      "id": "limbo",
+      "title": "Limbo",
+      "url": "https://truffled.lol/games/limbo/index.html",
+      "pageTitle": "LIMBO"
+    },
+    {
+      "id": "lobotomy-corporation",
+      "title": "Lobotomy Corporation",
+      "url": "https://wasm.rip/files/lob-corp/index.html",
+      "pageTitle": "Lobotomy Corporation"
+    },
+    {
+      "id": "lugaru",
+      "title": "Lugaru",
+      "url": "https://loganwalkerdev.github.io/lugaru-web/",
+      "pageTitle": "Lugaru-Web"
+    },
+    {
+      "id": "magic-tower-50-floors",
+      "title": "Magic Tower: 50 Floors",
+      "url": "https://ckcz123.github.io/mota-js/",
+      "pageTitle": ""
+    },
+    {
+      "id": "master-of-defence",
+      "title": "Master of Defence",
+      "url": "https://nomadic-ua.itch.io/master-of-defence",
+      "pageTitle": "Master Of Defence by nomadic_ua"
+    },
+    {
+      "id": "metal-gear-solid",
+      "title": "Metal Gear Solid",
+      "url": "https://mgs.ravenlight.net/",
+      "pageTitle": "Shadow Moses web"
+    },
+    {
+      "id": "minecraft-0-6-1",
+      "title": "Minecraft 0.6.1",
+      "url": "https://rgc.zone/ports/minecraft061/index.html",
+      "pageTitle": "Minecraft 0.6.1"
+    },
+    {
+      "id": "minecraft-story-mode",
+      "title": "Minecraft Story Mode",
+      "url": "https://mcsm-web.pages.dev/",
+      "pageTitle": "Minecraft: Story Mode"
+    },
+    {
+      "id": "miside",
+      "title": "MiSide",
+      "url": "https://wasm.rip/files/miside/miside.html",
+      "pageTitle": "Unity WebGL Player | MiSide"
+    },
+    {
+      "id": "naruto-shippuden-ultimate-ninja-impact",
+      "title": "Naruto Shippuden: Ultimate Ninja Impact",
+      "url": "https://narutoimpact.online/",
+      "pageTitle": "Naruto Ultimate Ninja Impact Online | Juega en el navegador"
+    },
+    {
+      "id": "nblood",
+      "title": "NBlood",
+      "url": "https://rgc.zone/ports/nbloodweb/run.html",
+      "pageTitle": "NBlood"
+    },
+    {
+      "id": "need-for-speed-most-wanted",
+      "title": "Need for Speed: Most Wanted (nfsmw-webport)",
+      "url": "https://iker3329.github.io/nfsmw-webport/",
+      "pageTitle": "Need for Speed: Most Wanted"
+    },
+    {
+      "id": "nfl-street-2",
+      "title": "NFL Street 2 (NIL Street)",
+      "url": "https://nilstreet.playthecombine.com/",
+      "pageTitle": "NIL Street: Play NFL Street 2 Online in Your Browser"
+    },
+    {
+      "id": "nhl-94",
+      "title": "NHL '94",
+      "url": "https://kingof94.web.app/",
+      "pageTitle": "King of 94 — Online Arena"
+    },
+    {
+      "id": "no-one-lives-forever",
+      "title": "No One Lives Forever",
+      "url": "https://playnolf.com/",
+      "pageTitle": "No One Lives Forever, in your browser"
+    },
+    {
+      "id": "oneshot-world-machine-edition",
+      "title": "Oneshot: World Machine Edition",
+      "url": "https://wasm.rip/files/oneshot-wme/index.html",
+      "pageTitle": "OneShot: World Machine Edition"
+    },
+    {
+      "id": "openttd",
+      "title": "OpenTTD",
+      "url": "https://openttdonline.com/play/",
+      "pageTitle": "OpenTTD Online"
+    },
+    {
+      "id": "peak",
+      "title": "PEAK (VERY wip)",
+      "url": "https://wasm.rip/files/peak/PEAK.html",
+      "pageTitle": "peak"
+    },
+    {
+      "id": "perfect-dark",
+      "title": "Perfect Dark",
+      "url": "https://perfectdark.royal-cake-5abc.workers.dev/",
+      "pageTitle": "Perfect Dark"
+    },
+    {
+      "id": "plague-inc",
+      "title": "Plague Inc",
+      "url": "https://wasm.rip/files/plauge/index.html",
+      "pageTitle": "Plague Inc"
+    },
+    {
+      "id": "plunder-pillage",
+      "title": "Plunder & Pillage",
+      "url": "https://rgc.zone/ports/8786-plunder/run.html",
+      "pageTitle": "Plunder &amp; Pillage"
+    },
+    {
+      "id": "portal",
+      "title": "Portal",
+      "url": "https://yikes.pw/portal/",
+      "pageTitle": "yikes!"
+    },
+    {
+      "id": "postal-2",
+      "title": "POSTAL 2 (KahnStation)",
+      "url": "https://kahn.lol/gopostal",
+      "pageTitle": "POSTAL 2 - Courtesy of KahnStation"
+    },
+    {
+      "id": "powerslave",
+      "title": "Powerslave",
+      "url": "https://rgc.zone/ports/8774-powerslave/run.html",
+      "pageTitle": "Powerslave"
+    },
+    {
+      "id": "prince-of-persia",
+      "title": "Prince of Persia",
+      "url": "https://princejs.com/",
+      "pageTitle": "PrinceJS"
+    },
+    {
+      "id": "pro-evolution-soccer-2011",
+      "title": "Pro Evolution Soccer 2011",
+      "url": "https://pes11.optijuegos.net/",
+      "pageTitle": "PES 2011 Web Port"
+    },
+    {
+      "id": "pro-evolution-soccer-2014",
+      "title": "Pro Evolution Soccer 2014 (PSP)",
+      "url": "https://pes14.online/",
+      "pageTitle": "PES 2014 Web Online | Juega gratis en el navegador"
+    },
+    {
+      "id": "purble-place",
+      "title": "Purble Place (decomp)",
+      "url": "https://areshkew.github.io/purble-place-decomp/",
+      "pageTitle": "Purble Place"
+    },
+    {
+      "id": "quake",
+      "title": "Quake",
+      "url": "https://qwasm.m-h.org.uk/",
+      "pageTitle": "Qwasm"
+    },
+    {
+      "id": "quake-ii",
+      "title": "Quake II",
+      "url": "https://rgc.zone/ports/Q2web/index.html",
+      "pageTitle": "Q2WEB"
+    },
+    {
+      "id": "ratchet-clank",
+      "title": "Ratchet & Clank",
+      "url": "https://re-rac.github.io/",
+      "pageTitle": "ReRAC · Ratchet &amp; Clank, rebuilt for PC"
+    },
+    {
+      "id": "redneck-rampage",
+      "title": "Redneck Rampage",
+      "url": "https://rgc.zone/ports/redneckrweb/run.html",
+      "pageTitle": "Redneck Rampage"
+    },
+    {
+      "id": "redneck-rampage-rides-again",
+      "title": "Redneck Rampage: Rides Again",
+      "url": "https://rgc.zone/ports/rrridesagain/run.html",
+      "pageTitle": "Redneck Rampage: Rides Again"
+    },
+    {
+      "id": "resident-evil-4",
+      "title": "Resident Evil 4",
+      "url": "https://residentevil4.online/",
+      "pageTitle": ""
+    },
+    {
+      "id": "return-to-castle-wolfenstein",
+      "title": "Return to Castle Wolfenstein",
+      "url": "https://rgc.zone/ports/castlewolf/index.html",
+      "pageTitle": "RTCW"
+    },
+    {
+      "id": "rimworld",
+      "title": "Rimworld",
+      "url": "https://wasm.rip/files/rimworld/index.html",
+      "pageTitle": "Unity WebGL Player | RimWorld by Ludeon Studios"
+    },
+    {
+      "id": "rollercoaster-tycoon-2",
+      "title": "RollerCoaster Tycoon 2 (OpenRCT2)",
+      "url": "https://rgc.zone/ports/openrct2/index.html",
+      "pageTitle": "OpenRCT2"
+    },
+    {
+      "id": "rugby-08",
+      "title": "Rugby 08 (mitchivin)",
+      "url": "https://mitchivin.github.io/rugby08/",
+      "pageTitle": "Rugby 08 in the browser: play the 2007 PC rugby game online"
+    },
+    {
+      "id": "s-t-a-l-k-e-r-call-of-pripyat",
+      "title": "S.T.A.L.K.E.R.: Call of Pripyat (ZoneVM)",
+      "url": "https://zonevm.btr.pm/",
+      "pageTitle": "zone-vm"
+    },
+    {
+      "id": "scp-containment-breach",
+      "title": "SCP: Containment Breach",
+      "url": "https://wasm.rip/files/scp/index.html",
+      "pageTitle": "scp cb"
+    },
+    {
+      "id": "the-seven-games-of-the-soul",
+      "title": "The Seven Games of the Soul",
+      "url": "https://omnium-games.github.io/faust/",
+      "pageTitle": "Faust"
+    },
+    {
+      "id": "shadow-warrior",
+      "title": "Shadow Warrior",
+      "url": "https://rgc.zone/ports/8775-swarrior/run.html",
+      "pageTitle": "Shadow Warrior"
+    },
+    {
+      "id": "silkroad-online",
+      "title": "Silkroad Online (OpenSRO)",
+      "url": "https://opensro.online/",
+      "pageTitle": "OpenSRO — Play Silkroad Online in your browser"
+    },
+    {
+      "id": "simcity",
+      "title": "SimCity (micropolisJS)",
+      "url": "https://www.graememcc.co.uk/micropolisJS/",
+      "pageTitle": "micropolisJS"
+    },
+    {
+      "id": "simgolf",
+      "title": "SimGolf",
+      "url": "https://richardatct.github.io/simgolf-web/",
+      "pageTitle": "SimGolf in the browser"
+    },
+    {
+      "id": "slay-the-spire",
+      "title": "Slay the Spire",
+      "url": "https://truffled.lol/games/sts/index.html",
+      "pageTitle": "Slay the Spire"
+    },
+    {
+      "id": "sonic-the-hedgehog-4-episode-i",
+      "title": "Sonic the Hedgehog 4: Episode I",
+      "url": "https://wamwoowam.co.uk/sonic4/",
+      "pageTitle": "Sonic the Hedgehog 4 - Episode I"
+    },
+    {
+      "id": "the-specialists",
+      "title": "The Specialists (Half-Life mod, specialists-browser)",
+      "url": "https://bulletballet.dev/",
+      "pageTitle": "BulletBallet — The Specialists in your browser"
+    },
+    {
+      "id": "spelunky-classic-hd",
+      "title": "Spelunky Classic HD",
+      "url": "https://yancharkin.itch.io/spelunky-classic-hd",
+      "pageTitle": "Spelunky Classic HD by yancharkin"
+    },
+    {
+      "id": "spider-man-2",
+      "title": "Spider-Man 2",
+      "url": "https://spiderman2.online/",
+      "pageTitle": ""
+    },
+    {
+      "id": "star-fox-adventures",
+      "title": "Star Fox Adventures",
+      "url": "https://foxhollow.dev/",
+      "pageTitle": "Foxhollow — Ready to save Dinosaur Planet?"
+    },
+    {
+      "id": "star-wars-jedi-knight-dark-forces-2",
+      "title": "Star Wars Jedi Knight Dark Forces 2",
+      "url": "https://rgc.zone/ports/oswjkdf2/index.html",
+      "pageTitle": "OpenJKDF2 - Star Wars Web"
+    },
+    {
+      "id": "star-wars-jedi-knight-jedi-academy",
+      "title": "Star Wars Jedi Knight: Jedi Academy",
+      "url": "https://rgc.zone/ports/openjkspweb/index.html",
+      "pageTitle": "Jedi Academy SP"
+    },
+    {
+      "id": "stardew-valley",
+      "title": "Stardew Valley",
+      "url": "https://wasm.rip/files/stardewvalley/index.html",
+      "pageTitle": "Stardew Valley"
+    },
+    {
+      "id": "stunts",
+      "title": "Stunts (PlayStunts)",
+      "url": "https://playstunts.com/",
+      "pageTitle": "Play Stunts — The classic racing game in your browser"
+    },
+    {
+      "id": "super-monkey-ball",
+      "title": "Super Monkey Ball",
+      "url": "https://monkeyball-online.pages.dev/",
+      "pageTitle": "SMB1 Web Gameplay"
+    },
+    {
+      "id": "syndicate",
+      "title": "Syndicate",
+      "url": "https://rgc.zone/ports/syndweb/index.html",
+      "pageTitle": "SyndWeb"
+    },
+    {
+      "id": "tony-hawk-s-pro-skater-3",
+      "title": "Tony Hawk's Pro Skater 3",
+      "url": "https://tonyhawkpro3.online/",
+      "pageTitle": ""
+    },
+    {
+      "id": "taiko-no-tatsujin",
+      "title": "Taiko no Tatsujin",
+      "url": "https://cjdgrevival.com/",
+      "pageTitle": "太鼓ウェブ - Taiko Web | (ﾟ∀ﾟ)"
+    },
+    {
+      "id": "team-fortress-2",
+      "title": "Team Fortress 2",
+      "url": "https://tf2.riddy.workers.dev/",
+      "pageTitle": "Team Fortress 2"
+    },
+    {
+      "id": "tomb-raider",
+      "title": "Tomb Raider",
+      "url": "http://xproger.info/projects/OpenLara/",
+      "pageTitle": "OpenLara"
+    },
+    {
+      "id": "toonstruck",
+      "title": "Toonstruck",
+      "url": "https://rgc.zone/ports/toonstruckweb/index.html#toonstruck-fargus",
+      "pageTitle": "Toonstruck"
+    },
+    {
+      "id": "ultrakill",
+      "title": "ULTRAKILL",
+      "url": "https://monoxide.dev/ultrakill",
+      "pageTitle": "Unity WebGL Player | ULTRAKILL"
+    },
+    {
+      "id": "the-ur-quan-masters",
+      "title": "The Ur-Quan Masters (Star Control II)",
+      "url": "https://urquanmasters.org/",
+      "pageTitle": "The Ur-Quan Masters — Choose your game"
+    },
+    {
+      "id": "urban-chaos",
+      "title": "Urban Chaos (OpenChaos)",
+      "url": "https://rgc.zone/ports/urbanchaosweb/",
+      "pageTitle": "Urban Chaos — play in your browser"
+    },
+    {
+      "id": "virtua-fighter",
+      "title": "Virtua Fighter",
+      "url": "https://vf1-recomp.pages.dev/",
+      "pageTitle": "Virtua Fighter Recomp"
+    },
+    {
+      "id": "wadcmd",
+      "title": "WadCMD",
+      "url": "https://wadcmd.com/",
+      "pageTitle": "WAD Commander"
+    },
+    {
+      "id": "the-warriors",
+      "title": "The Warriors",
+      "url": "https://thewarriors.online/",
+      "pageTitle": ""
+    },
+    {
+      "id": "warzone-2100",
+      "title": "Warzone 2100 (Web Edition)",
+      "url": "https://wz2100.net/news/warzone-2100-web-edition/",
+      "pageTitle": "Warzone 2100 | Warzone 2100 Web Edition"
+    },
+    {
+      "id": "wipeout",
+      "title": "WipEout",
+      "url": "https://phoboslab.org/wipegame/",
+      "pageTitle": "wipEout"
+    },
+    {
+      "id": "wwe-smackdown-vs-raw-2011",
+      "title": "WWE SmackDown vs. Raw 2011",
+      "url": "https://wwe2011.online/",
+      "pageTitle": "WWE SmackDown vs. Raw 2011 Online | Juega gratis en el navegador"
+    },
+    {
+      "id": "rain-world",
+      "title": "Rain World",
+      "url": "https://stelight.games/play/webports/stellite.games/stellite/rain-world/",
+      "pageTitle": "Rain World"
+    },
+    {
+      "id": "tetris-classic",
+      "title": "Tetris (Classic Web)",
+      "url": "https://chvin.github.io/react-tetris/",
+      "pageTitle": "俄罗斯方块"
+    },
+    {
+      "id": "five-nights-at-freddy-s",
+      "title": "Five Nights at Freddy's",
+      "url": "https://dorukyum.github.io/FNAF-Web/",
+      "pageTitle": "Five Nights at Freddy's Web"
+    },
+    {
+      "id": "five-nights-at-freddy-s-2",
+      "title": "Five Nights at Freddy's 2",
+      "url": "https://sussygamedeveloper.github.io/FNAF2/",
+      "pageTitle": "Clickteam Fusion Developer 2.5 HTML5 Runtime"
+    },
+    {
+      "id": "five-nights-at-freddy-s-3",
+      "title": "Five Nights at Freddy's 3",
+      "url": "https://sussygamedeveloper.github.io/fnaf3/",
+      "pageTitle": ""
+    },
+    {
+      "id": "five-nights-at-freddy-s-4",
+      "title": "Five Nights at Freddy's 4",
+      "url": "https://staticquasar931.github.io/FNAF-4/",
+      "pageTitle": "Five Nights at Freddy's 4 - Unblocked FNAF 4 | StaticQuasar931"
+    },
+    {
+      "id": "horsey-game",
+      "title": "Horsey Game",
+      "url": "https://woahhcrackers.github.io/HorseyGameWeb/",
+      "pageTitle": "HorseyGame"
+    }
+  ],
+  "redirectsToPortalRoot": [
+    {
+      "id": "call-of-duty-modern-warfare-2",
+      "title": "Call of Duty: Modern Warfare 2",
+      "originalUrl": "https://ovz-game-production.up.railway.app",
+      "redirectsTo": "https://ovz-game-production.up.railway.app/"
+    },
+    {
+      "id": "command-conquer-generals",
+      "title": "Command & Conquer: Generals",
+      "originalUrl": "https://generals.wasm.com.br/",
+      "redirectsTo": "https://generals.wasm.ltd/",
+      "status": 308
+    },
+    {
+      "id": "command-conquer-generals-zero-hour",
+      "title": "Command & Conquer: Generals Zero Hour",
+      "originalUrl": "https://generals.wasm.ltd",
+      "redirectsTo": "https://generals.wasm.ltd/"
+    },
+    {
+      "id": "command-conquer-renegade",
+      "title": "Command & Conquer: Renegade",
+      "originalUrl": "https://open-commando.netanelgilad.workers.dev",
+      "redirectsTo": "https://open-commando.netanelgilad.workers.dev/"
+    },
+    {
+      "id": "dokdo",
+      "title": "DOKDO",
+      "originalUrl": "https://dokdo.online",
+      "redirectsTo": "https://dokdo.online/"
+    },
+    {
+      "id": "doom-3",
+      "title": "Doom 3",
+      "originalUrl": "https://recompiledgames.com/doom-3-recompiled",
+      "redirectsTo": "https://recompiledgames.com/",
+      "status": 301
+    },
+    {
+      "id": "flight-of-the-amazon-queen",
+      "title": "Flight of the Amazon Queen",
+      "originalUrl": "https://scummweb.tsilva.eu/#game-flight-of-the-amazon-queen",
+      "redirectsTo": "https://scummweb.tsilva.eu/"
+    },
+    {
+      "id": "phantasy-star-online",
+      "title": "Phantasy Star Online (PSO Reborn)",
+      "originalUrl": "https://recompiledgames.com/phantasy-star-online-recompiled",
+      "redirectsTo": "https://recompiledgames.com/",
+      "status": 301
+    },
+    {
+      "id": "pro-evolution-soccer-6",
+      "title": "Pro Evolution Soccer 6",
+      "originalUrl": "http://pes6.optijuegos.net",
+      "redirectsTo": "https://pes6.optijuegos.net/",
+      "status": 301
+    },
+    {
+      "id": "quake-iii-arena",
+      "title": "Quake III Arena",
+      "originalUrl": "https://q3.pieter.com",
+      "redirectsTo": "https://q3.pieter.com/"
+    },
+    {
+      "id": "rolling-sky",
+      "title": "Rolling Sky",
+      "originalUrl": "https://rollingsky.3kh0.net",
+      "redirectsTo": "https://rollingsky.3kh0.net/"
+    },
+    {
+      "id": "star-wars-empire-at-war",
+      "title": "Star Wars: Empire at War (Browser Edition)",
+      "originalUrl": "https://playeaw.com",
+      "redirectsTo": "https://playeaw.com/"
+    },
+    {
+      "id": "urban-terror",
+      "title": "Urban Terror",
+      "originalUrl": "http://ut.pieter.com",
+      "redirectsTo": "https://ut.pieter.com/",
+      "status": 301
+    },
+    {
+      "id": "wolfenstein-3d",
+      "title": "Wolfenstein 3D (HTML5, lazarv)",
+      "originalUrl": "https://wolf3d.wadcmd.com/",
+      "redirectsTo": "https://wadcmd.com/",
+      "status": 302
+    },
+    {
+      "id": "xrick",
+      "title": "xrick",
+      "originalUrl": "https://www.xrick.net/",
+      "redirectsTo": "https://www.rick-dangerous.org/",
+      "status": 301
+    },
+    {
+      "id": "dos-zone",
+      "title": "Dos.Zone",
+      "originalUrl": "https://dos.zone",
+      "redirectsTo": "https://dos.zone/"
+    }
+  ],
+  "portalOrAggregator": [
+    {
+      "id": "beneath-a-steel-sky",
+      "title": "Beneath a Steel Sky",
+      "url": "https://scummweb.tsilva.eu/beneath-a-steel-sky/play",
+      "pageTitle": "Beneath a Steel Sky — Play Online | ScummWEB",
+      "reason": "Detectado portal/agregador con lista de juegos"
+    },
+    {
+      "id": "drascula-the-vampire-strikes-back",
+      "title": "Drascula: The Vampire Strikes Back",
+      "url": "https://scummweb.tsilva.eu/drascula-the-vampire-strikes-back",
+      "pageTitle": "Drascula: The Vampire Strikes Back — Play Online | ScummWEB",
+      "reason": "Detectado portal/agregador con lista de juegos"
+    },
+    {
+      "id": "gta-3",
+      "title": "Grand Theft Auto III",
+      "url": "https://wasmarcade.com/gta3",
+      "pageTitle": "GTA 3 Online - Play GTA III in Your Browser | WASM Arcade",
+      "reason": "Detectado portal/agregador con lista de juegos"
+    },
+    {
+      "id": "kingdom-rush",
+      "title": "Kingdom Rush",
+      "url": "https://wasmarcade.app/play/kingdom-rush",
+      "pageTitle": "Kingdom Rush — Play Tower Defense in Browser | WASM Arcade",
+      "reason": "Detectado portal/agregador con lista de juegos"
+    },
+    {
+      "id": "raft-wars-2",
+      "title": "Raft Wars 2",
+      "url": "https://wasmarcade.app/play/raft-wars-2",
+      "pageTitle": "Raft Wars 2 — Play Artillery Game in Browser | WASM Arcade",
+      "reason": "Detectado portal/agregador con lista de juegos"
+    },
+    {
+      "id": "stick-war",
+      "title": "Stick War",
+      "url": "https://wasmarcade.app/play/stick-war",
+      "pageTitle": "Stick War — Play Legendary Strategy Game | WASM Arcade",
+      "reason": "Detectado portal/agregador con lista de juegos"
+    },
+    {
+      "id": "xiao-xiao-4-bar-shootout",
+      "title": "Xiao Xiao 4: Bar Shootout",
+      "url": "https://wasmarcade.app/play/xiao-xiao-4",
+      "pageTitle": "Xiao Xiao 4 — Play Stickman Shootout Online | WASM Arcade",
+      "reason": "Detectado portal/agregador con lista de juegos"
+    }
+  ],
+  "deadOrError": [
+    {
+      "id": "dude-simulator",
+      "title": "Dude Simulator",
+      "url": "https://dude-simulator-webgl.netlify.app/",
+      "status": 503
+    },
+    {
+      "id": "dude-simulator-2",
+      "title": "Dude Simulator 2",
+      "url": "https://dude-sim-2-webgl-ported-by-carteryes.netlify.app/",
+      "status": 503
+    },
+    {
+      "id": "luigi-s-picture-poker",
+      "title": "Luigi's Picture Poker",
+      "url": "https://marcy4000.itch.io/luigis-picture-poker",
+      "status": 429
+    },
+    {
+      "id": "runescape-classic",
+      "title": "RuneScape Classic",
+      "url": "https://runescapeclassic.gold/",
+      "error": "fetch failed"
+    },
+    {
+      "id": "terraria",
+      "title": "Terraria",
+      "url": "https://playterraria.lol/",
+      "status": 402
+    }
+  ]
+}

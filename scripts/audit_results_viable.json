@@ -1,0 +1,1899 @@
+[
+  {
+    "id": "rain-world",
+    "title": "Rain World",
+    "category": "Web Port",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/header.jpg",
+    "launchMode": "external",
+    "url": "https://stelight.games/play/webports/stellite.games/stellite/rain-world/",
+    "mirrors": [
+      {
+        "name": "Rain World - stelight.games",
+        "url": "https://stelight.games/play/webports/stellite.games/stellite/rain-world/"
+      }
+    ],
+    "status": "down",
+    "tags": [
+      "Emulador 3D",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1866,
+    "dislikes": 93,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:39.774Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "five-nights-at-freddy-s",
+    "title": "Five Nights at Freddy's",
+    "category": "Terror",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319510/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=38",
+    "mirrors": [
+      {
+        "name": "Five Nights at Freddy's - gn-math.dev",
+        "url": "https://gn-math.dev/?id=38"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Terror",
+      "Táctil",
+      "mobile-ready"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "mobileReady": true,
+    "touchControlMode": "touch-native",
+    "likes": 1737,
+    "dislikes": 79,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:50.496Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "20-minutes-till-dawn",
+    "title": "20 Minutes Till Dawn",
+    "category": "Disparos",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966900/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=819",
+    "mirrors": [
+      {
+        "name": "20 Minutes Till Dawn - gn-math.dev",
+        "url": "https://gn-math.dev/?id=819"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2036,
+    "dislikes": 94,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:50.674Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "antonblast",
+    "title": "Antonblast",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1887400/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=711",
+    "mirrors": [
+      {
+        "name": "Antonblast - gn-math.dev",
+        "url": "https://gn-math.dev/?id=711"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1866,
+    "dislikes": 93,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:50.857Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "buster-jam",
+    "title": "Buster Jam",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399240/cf6de1141c8d794b8af617a1dab0ee91eeab9e4c/capsule_231x87.jpg?t=1780504709",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=646",
+    "mirrors": [
+      {
+        "name": "Buster Jam - gn-math.dev",
+        "url": "https://gn-math.dev/?id=646"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1866,
+    "dislikes": 93,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:51.036Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "christmas-massacre",
+    "title": "Christmas Massacre",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1840490/capsule_231x87.jpg?t=1671911494",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=734",
+    "mirrors": [
+      {
+        "name": "Christmas Massacre - gn-math.dev",
+        "url": "https://gn-math.dev/?id=734"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2002,
+    "dislikes": 79,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:51.217Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "cruelty-squad",
+    "title": "Cruelty Squad",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388770/capsule_231x87.jpg?t=1740330233",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=825",
+    "mirrors": [
+      {
+        "name": "Cruelty Squad - gn-math.dev",
+        "url": "https://gn-math.dev/?id=825"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1917,
+    "dislikes": 91,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:51.397Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "dice-a-million",
+    "title": "Dice a Million",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430340/9f2a291a8b5aa890f50245df3ac39dc2d294dfb9/capsule_231x87_alt_assets_0.jpg?t=1794156918",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=759",
+    "mirrors": [
+      {
+        "name": "Dice a Million - gn-math.dev",
+        "url": "https://gn-math.dev/?id=759"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1934,
+    "dislikes": 98,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:51.577Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "a-difficult-game-about-climbing",
+    "title": "A Difficult Game About Climbing",
+    "category": "Plataformas",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2497920/35d0e84da587aa10322f0347c8f5634b0d39d587/capsule_231x87.jpg?t=1766018522",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=672",
+    "mirrors": [
+      {
+        "name": "A Difficult Game About Climbing - gn-math.dev",
+        "url": "https://gn-math.dev/?id=672"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1873,
+    "dislikes": 90,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:51.755Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "duck-life-8",
+    "title": "Duck Life 8",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321270/capsule_231x87.jpg?t=1793733389",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=695",
+    "mirrors": [
+      {
+        "name": "Duck Life 8 - gn-math.dev",
+        "url": "https://gn-math.dev/?id=695"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1883,
+    "dislikes": 75,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:51.937Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "endoparasitic",
+    "title": "Endoparasitic",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124780/capsule_231x87.jpg?t=1786632968",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=286",
+    "mirrors": [
+      {
+        "name": "Endoparasitic - gn-math.dev",
+        "url": "https://gn-math.dev/?id=286"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1917,
+    "dislikes": 91,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:52.118Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "endoparasitic-2",
+    "title": "Endoparasitic 2",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990640/capsule_231x87.jpg?t=1768598900",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=724",
+    "mirrors": [
+      {
+        "name": "Endoparasitic 2 - gn-math.dev",
+        "url": "https://gn-math.dev/?id=724"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1951,
+    "dislikes": 81,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:52.304Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "fallout",
+    "title": "Fallout",
+    "category": "Puzzle",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=585",
+    "mirrors": [
+      {
+        "name": "Fallout - gn-math.dev",
+        "url": "https://gn-math.dev/?id=585"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Estrategia"
+    ],
+    "controls": {
+      "Acción": "Click Ratón (Mouse)",
+      "Seleccionar": "Click Izquierdo",
+      "Menú / Cancelar": "Click Derecho / ESC"
+    },
+    "likes": 1815,
+    "dislikes": 95,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:52.484Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "fear-hunger",
+    "title": "Fear & Hunger",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_231x87.jpg?t=1621853752",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=706",
+    "mirrors": [
+      {
+        "name": "Fear & Hunger - gn-math.dev",
+        "url": "https://gn-math.dev/?id=706"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1883,
+    "dislikes": 75,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:52.664Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "fear-hunger-2-termina",
+    "title": "Fear & Hunger 2: Termina",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2171440/capsule_231x87.jpg?t=1670614736",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=794",
+    "mirrors": [
+      {
+        "name": "Fear & Hunger 2: Termina - gn-math.dev",
+        "url": "https://gn-math.dev/?id=794"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1703,
+    "dislikes": 88,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:52.845Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "fears-to-fathom-home-alone",
+    "title": "Fears to Fathom: Home Alone",
+    "category": "Terror",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671340/capsule_231x87.jpg?t=1761626927",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=460",
+    "mirrors": [
+      {
+        "name": "Fears to Fathom: Home Alone - gn-math.dev",
+        "url": "https://gn-math.dev/?id=460"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1788,
+    "dislikes": 77,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:53.025Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "fih",
+    "title": "Fih",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303380/5ba8773e708f339659890ff033a63a7f8720beea/capsule_231x87.jpg?t=1791709921",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=797",
+    "mirrors": [
+      {
+        "name": "Fih - gn-math.dev",
+        "url": "https://gn-math.dev/?id=797"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1747,
+    "dislikes": 89,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:53.207Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "fish",
+    "title": "FISH",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221990/2c7bafdc90acf46b2d17cc6c1135546063e527d3/capsule_231x87.jpg?t=1789401717",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=761",
+    "mirrors": [
+      {
+        "name": "FISH - gn-math.dev",
+        "url": "https://gn-math.dev/?id=761"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1764,
+    "dislikes": 72,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:53.391Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "five-nights-at-freddy-s-2",
+    "title": "Five Nights at Freddy's 2",
+    "category": "Terror",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332800/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=39",
+    "mirrors": [
+      {
+        "name": "Five Nights at Freddy's 2 - gn-math.dev",
+        "url": "https://gn-math.dev/?id=39"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Terror"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1771,
+    "dislikes": 69,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:53.569Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "five-nights-at-freddy-s-3",
+    "title": "Five Nights at Freddy's 3",
+    "category": "Terror",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/354140/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=40",
+    "mirrors": [
+      {
+        "name": "Five Nights at Freddy's 3 - gn-math.dev",
+        "url": "https://gn-math.dev/?id=40"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Terror"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1771,
+    "dislikes": 69,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:53.749Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "five-nights-at-freddy-s-4",
+    "title": "Five Nights at Freddy's 4",
+    "category": "Terror",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388090/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=41",
+    "mirrors": [
+      {
+        "name": "Five Nights at Freddy's 4 - gn-math.dev",
+        "url": "https://gn-math.dev/?id=41"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Terror"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1771,
+    "dislikes": 69,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:53.932Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "five-nights-at-freddy-s-sister-location",
+    "title": "Five Nights at Freddy's: Sister Location",
+    "category": "Terror",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/506610/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=185",
+    "mirrors": [
+      {
+        "name": "Five Nights at Freddy's: Sister Location - gn-math.dev",
+        "url": "https://gn-math.dev/?id=185"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Terror"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2009,
+    "dislikes": 101,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:54.114Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "getting-over-it-with-bennett-foddy",
+    "title": "Getting Over It with Bennett Foddy",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240720/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=557",
+    "mirrors": [
+      {
+        "name": "Getting Over It with Bennett Foddy - gn-math.dev",
+        "url": "https://gn-math.dev/?id=557"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1924,
+    "dislikes": 88,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:54.295Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "gorilla-tag",
+    "title": "Gorilla Tag",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533390/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=668",
+    "mirrors": [
+      {
+        "name": "Gorilla Tag - gn-math.dev",
+        "url": "https://gn-math.dev/?id=668"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1883,
+    "dislikes": 75,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:54.478Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "granny",
+    "title": "Granny",
+    "category": "Terror",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962400/capsule_231x87.jpg?t=1687541775",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=90",
+    "mirrors": [
+      {
+        "name": "Granny - gn-math.dev",
+        "url": "https://gn-math.dev/?id=90"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1798,
+    "dislikes": 87,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:54.658Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "half-life-opposing-force",
+    "title": "Half Life: Opposing Force",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=693",
+    "mirrors": [
+      {
+        "name": "Half Life: Opposing Force - gn-math.dev",
+        "url": "https://gn-math.dev/?id=693"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1754,
+    "dislikes": 86,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:54.840Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "hollow-knight",
+    "title": "Hollow Knight",
+    "featured": true,
+    "year": 2017,
+    "developer": "Team Cherry",
+    "summary": "Ambientado en Hallownest, combina exploración metroidvania, combate preciso y narrativa ambiental en un reino subterráneo interconectado. Desarrollado por Team Cherry, destacó por su arte dibujado a mano y su diseño de mundo.",
+    "metadataSource": "https://en.wikipedia.org/wiki/Hollow_Knight",
+    "category": "Aventura",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=468",
+    "mirrors": [
+      {
+        "name": "Hollow Knight (dezm0n web port) - dezm0n.itch.io",
+        "url": "https://dezm0n.itch.io/hollow-knight-web-port"
+      },
+      {
+        "name": "Hollow Knight - gn-math.dev",
+        "url": "https://gn-math.dev/?id=468"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2181,
+    "dislikes": 85,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:55.019Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "hollow-knight-silksong",
+    "title": "Hollow Knight: Silksong",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=771",
+    "mirrors": [
+      {
+        "name": "Hollow Knight: Silksong - gn-math.dev",
+        "url": "https://gn-math.dev/?id=771"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1720,
+    "dislikes": 71,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:55.198Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "in-stars-and-time",
+    "title": "In Stars and Time",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/library_600x900.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=667",
+    "mirrors": [
+      {
+        "name": "In Stars and Time - gn-math.dev",
+        "url": "https://gn-math.dev/?id=667"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1985,
+    "dislikes": 96,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:55.381Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "iron-lung",
+    "title": "Iron Lung",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846170/capsule_231x87.jpg?t=1791916490",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=705",
+    "mirrors": [
+      {
+        "name": "Iron Lung - gn-math.dev",
+        "url": "https://gn-math.dev/?id=705"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1849,
+    "dislikes": 85,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:55.565Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "just-shapes-beats",
+    "title": "Just Shapes & Beats",
+    "category": "Carreras",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/531510/capsule_231x87.jpg?t=1738790023",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=826",
+    "mirrors": [
+      {
+        "name": "Just Shapes & Beats - gn-math.dev",
+        "url": "https://gn-math.dev/?id=826"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Velocidad",
+      "Deportes"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1985,
+    "dislikes": 96,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:55.743Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "kindergarten",
+    "title": "Kindergarten",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578590/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=445",
+    "mirrors": [
+      {
+        "name": "Kindergarten - gn-math.dev",
+        "url": "https://gn-math.dev/?id=445"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1900,
+    "dislikes": 83,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:55.924Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "kindergarten-2",
+    "title": "Kindergarten 2",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067850/capsule_231x87.jpg?t=1780630431",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=446",
+    "mirrors": [
+      {
+        "name": "Kindergarten 2 - gn-math.dev",
+        "url": "https://gn-math.dev/?id=446"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1934,
+    "dislikes": 98,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:56.103Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "kindergarten-3",
+    "title": "Kindergarten 3",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695570/e7745704c77dc5e778cc747cac221eae4d01147d/capsule_231x87.jpg?t=1780630294",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=501",
+    "mirrors": [
+      {
+        "name": "Kindergarten 3 - gn-math.dev",
+        "url": "https://gn-math.dev/?id=501"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1934,
+    "dislikes": 98,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:56.284Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "look-outside",
+    "title": "Look Outside",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/e0dae146ff3f347de7f3d26d3cc59977a675cfd9/capsule_231x87.jpg?t=1789016414",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=649",
+    "mirrors": [
+      {
+        "name": "Look Outside - gn-math.dev",
+        "url": "https://gn-math.dev/?id=649"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1900,
+    "dislikes": 83,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:56.469Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "midnight-shift",
+    "title": "Midnight Shift",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395260/library_600x900.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=658",
+    "mirrors": [
+      {
+        "name": "Midnight Shift - gn-math.dev",
+        "url": "https://gn-math.dev/?id=658"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1934,
+    "dislikes": 98,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:56.649Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "milk-inside-a-bag-of-milk-inside-a-bag-of-milk",
+    "title": "Milk inside a bag of milk inside a bag of milk",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1392820/capsule_231x87.jpg?t=1776855908",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=650",
+    "mirrors": [
+      {
+        "name": "Milk inside a bag of milk inside a bag of milk - gn-math.dev",
+        "url": "https://gn-math.dev/?id=650"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1778,
+    "dislikes": 91,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:56.831Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "milk-outside-a-bag-of-milk-outside-a-bag-of-milk",
+    "title": "Milk outside a bag of milk outside a bag of milk",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604000/capsule_231x87.jpg?t=1658165566",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=651",
+    "mirrors": [
+      {
+        "name": "Milk outside a bag of milk outside a bag of milk - gn-math.dev",
+        "url": "https://gn-math.dev/?id=651"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1812,
+    "dislikes": 82,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:57.013Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "mindwave",
+    "title": "Mindwave",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2741670/a28d18e0aff9066607e60d17c42a5d5fba757bfd/capsule_231x87.jpg?t=1766950347",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=648",
+    "mirrors": [
+      {
+        "name": "Mindwave - gn-math.dev",
+        "url": "https://gn-math.dev/?id=648"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1832,
+    "dislikes": 77,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:57.201Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "minecraft-pocket-edition",
+    "title": "Minecraft Pocket Edition",
+    "category": "Sandbox",
+    "collection": "ports",
+    "image": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Wii_U/master/Named_Boxarts/Minecraft%20-%20Wii%20U%20Edition%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CZh%2CKo%2CRu)%20(Rev%201).png",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=754",
+    "mirrors": [
+      {
+        "name": "Minecraft Pocket Edition - gn-math.dev",
+        "url": "https://gn-math.dev/?id=754"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico",
+      "Táctil",
+      "mobile-ready"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "mobileReady": true,
+    "touchControlMode": "touch-native",
+    "likes": 1754,
+    "dislikes": 86,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:57.390Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "needy-streamer-overload",
+    "title": "Needy Streamer Overload",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451940/capsule_231x87.jpg?t=1762834234",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=708",
+    "mirrors": [
+      {
+        "name": "Needy Streamer Overload - gn-math.dev",
+        "url": "https://gn-math.dev/?id=708"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1737,
+    "dislikes": 79,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:57.569Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "nubby-s-number-factory",
+    "title": "Nubby's Number Factory",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191030/4fa980fbcdc2f4af7cae50a9f3cded31dd4ba97f/capsule_231x87.jpg?t=1788467985",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=517",
+    "mirrors": [
+      {
+        "name": "Nubby's Number Factory - gn-math.dev",
+        "url": "https://gn-math.dev/?id=517"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1720,
+    "dislikes": 71,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:57.752Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "oneshot",
+    "title": "Oneshot (Legacy)",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/capsule_231x87.jpg?t=1785326211",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=622",
+    "mirrors": [
+      {
+        "name": "Oneshot (Legacy) - gn-math.dev",
+        "url": "https://gn-math.dev/?id=622"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1815,
+    "dislikes": 95,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:57.933Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "overburden",
+    "title": "Overburden",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690560/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=760",
+    "mirrors": [
+      {
+        "name": "Overburden - gn-math.dev",
+        "url": "https://gn-math.dev/?id=760"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1866,
+    "dislikes": 93,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:58.114Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "peaks-of-yore",
+    "title": "Peaks of Yore",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/library_600x900.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=717",
+    "mirrors": [
+      {
+        "name": "Peaks of Yore - gn-math.dev",
+        "url": "https://gn-math.dev/?id=717"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1917,
+    "dislikes": 91,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:58.295Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "plants-vs-zombies-goty-edition",
+    "title": "Plants vs Zombies: GOTY Edition",
+    "category": "Terror",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=842",
+    "mirrors": [
+      {
+        "name": "Plants vs Zombies: GOTY Edition - gn-math.dev",
+        "url": "https://gn-math.dev/?id=842"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico",
+      "Táctil",
+      "mobile-ready"
+    ],
+    "controls": {
+      "Acción": "Click Ratón (Mouse)",
+      "Seleccionar": "Click Izquierdo",
+      "Menú / Cancelar": "Click Derecho / ESC"
+    },
+    "mobileReady": true,
+    "touchControlMode": "touch-native",
+    "likes": 1856,
+    "dislikes": 82,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:58.475Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "power-hover",
+    "title": "Power Hover",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559960/capsule_231x87.jpg?t=1668158457",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=743",
+    "mirrors": [
+      {
+        "name": "Power Hover - gn-math.dev",
+        "url": "https://gn-math.dev/?id=743"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1883,
+    "dislikes": 75,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:58.656Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "re-run",
+    "title": "RE:RUN",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4505100/0d752bd9bb356a6f752d5ef3378b44c3ea90528a/capsule_231x87.jpg?t=1775782125",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=260",
+    "mirrors": [
+      {
+        "name": "RE:RUN - gn-math.dev",
+        "url": "https://gn-math.dev/?id=260"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1798,
+    "dislikes": 87,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:58.836Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "s-p-l-i-t",
+    "title": "S.P.L.I.T",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3684610/5482b630dafc7319936b093e333977d8e614e210/capsule_231x87.jpg?t=1759221319",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=839",
+    "mirrors": [
+      {
+        "name": "S.P.L.I.T - gn-math.dev",
+        "url": "https://gn-math.dev/?id=839"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1849,
+    "dislikes": 85,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:59.016Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "shift-at-midnight",
+    "title": "Shift at Midnight",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/19c9e6ec567f975b0b4462b8c84c1a38c74adf0d/capsule_231x87.jpg?t=1793103951",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=721",
+    "mirrors": [
+      {
+        "name": "Shift at Midnight - gn-math.dev",
+        "url": "https://gn-math.dev/?id=721"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1985,
+    "dislikes": 96,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:59.208Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "slime-rancher",
+    "title": "Slime Rancher",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/capsule_231x87.jpg?t=1758651509",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=591",
+    "mirrors": [
+      {
+        "name": "Slime Rancher - gn-math.dev",
+        "url": "https://gn-math.dev/?id=591"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1917,
+    "dislikes": 91,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:59.388Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "sonic-mania",
+    "title": "Sonic Mania",
+    "category": "Plataformas",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=590",
+    "mirrors": [
+      {
+        "name": "Sonic Mania - gn-math.dev",
+        "url": "https://gn-math.dev/?id=590"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Plataformas",
+      "Aventura"
+    ],
+    "controls": {
+      "Moverse": "Flechas / WASD",
+      "Saltar / Acción": "Espacio / Z",
+      "Especial / Dash": "X / Shift"
+    },
+    "likes": 1883,
+    "dislikes": 75,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:59.568Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "spaceflight-simulator",
+    "title": "Spaceflight Simulator",
+    "category": "Sandbox",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718870/header.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=808",
+    "mirrors": [
+      {
+        "name": "Spaceflight Simulator - gn-math.dev",
+        "url": "https://gn-math.dev/?id=808"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico",
+      "Táctil",
+      "mobile-ready"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "mobileReady": true,
+    "touchControlMode": "touch-native",
+    "likes": 1703,
+    "dislikes": 88,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:59.748Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "stick-with-it",
+    "title": "Stick with It",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3984960/ac201777e6a955fdf6da788a5295b71ba5762c9e/capsule_231x87.jpg?t=1759839415",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=502",
+    "mirrors": [
+      {
+        "name": "Stick with It - gn-math.dev",
+        "url": "https://gn-math.dev/?id=502"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1917,
+    "dislikes": 91,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:22:59.932Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "t",
+    "title": "t³ (T cubed)",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916700/b54319595447ecdf726ab86d88c24acab9c5790e/capsule_231x87.jpg?t=1792542505",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=818",
+    "mirrors": [
+      {
+        "name": "t³ (T cubed) - gn-math.dev",
+        "url": "https://gn-math.dev/?id=818"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1713,
+    "dislikes": 74,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:23:00.115Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "totally-accurate-battle-simulator",
+    "title": "Totally Accurate Battle Simulator (TABS)",
+    "category": "Sandbox",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/capsule_231x87.jpg?t=1730715415",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=827",
+    "mirrors": [
+      {
+        "name": "Totally Accurate Battle Simulator (TABS) - gn-math.dev",
+        "url": "https://gn-math.dev/?id=827"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1907,
+    "dislikes": 80,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:23:00.297Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "ultrapool",
+    "title": "Ultrapool",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195110/134bf8acbbdc7b63f644e363de353ddc948ebfbb/capsule_231x87.jpg?t=1788797628",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=757",
+    "mirrors": [
+      {
+        "name": "Ultrapool - gn-math.dev",
+        "url": "https://gn-math.dev/?id=757"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1849,
+    "dislikes": 85,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:23:00.478Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "untitled-goose-game",
+    "title": "Untitled Goose Game",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/capsule_231x87.jpg?t=1699052664",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=718",
+    "mirrors": [
+      {
+        "name": "Untitled Goose Game - gn-math.dev",
+        "url": "https://gn-math.dev/?id=718"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 2019,
+    "dislikes": 87,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:23:00.656Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "who-s-your-daddy",
+    "title": "Who's Your Daddy?",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427730/library_600x900.jpg",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=791",
+    "mirrors": [
+      {
+        "name": "Who's Your Daddy? - gn-math.dev",
+        "url": "https://gn-math.dev/?id=791"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1968,
+    "dislikes": 89,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:23:00.840Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "your-only-move-is-hustle",
+    "title": "Your Only Move is Hustle",
+    "category": "Acción",
+    "collection": "ports",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2212330/capsule_231x87.jpg?t=1702425086",
+    "launchMode": "iframe",
+    "url": "https://gn-math.dev/?id=776",
+    "mirrors": [
+      {
+        "name": "Your Only Move is Hustle - gn-math.dev",
+        "url": "https://gn-math.dev/?id=776"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1754,
+    "dislikes": 86,
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:23:01.036Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/header.jpg",
+    "collection": "arcade",
+    "id": "tetris-classic",
+    "url": "https://chvin.github.io/react-tetris/",
+    "launchMode": "iframe",
+    "category": "Puzzle",
+    "tags": [
+      "Viral",
+      "Puzzle",
+      "Casual",
+      "Táctil",
+      "mobile-ready"
+    ],
+    "title": "Tetris (Classic Web)",
+    "mirrors": [
+      {
+        "name": "React-Tetris Web Mirror",
+        "url": "https://chvin.github.io/react-tetris/"
+      }
+    ],
+    "controls": {
+      "Moverse": "Flechas / WASD",
+      "Saltar / Acción": "Espacio / Z",
+      "Especial / Dash": "X / Shift"
+    },
+    "mobileReady": true,
+    "touchControlMode": "touch-native",
+    "likes": 1934,
+    "dislikes": 98,
+    "archivedReason": "Portada incorrecta e idioma asiatico, scroll en pagina",
+    "lastAuditCode": 200,
+    "canIframe": true,
+    "auditDate": "2026-11-10T00:23:01.311Z",
+    "auditStatus": "LIVE"
+  },
+  {
+    "id": "dos-zone",
+    "title": "Dos.Zone",
+    "category": "Retro",
+    "collection": "dos",
+    "image": "https://dos.zone/images/containers/assets/seo_image.jpg/305f8ab86e22fdd50cb3762298d95219.webp",
+    "launchMode": "external",
+    "url": "https://dos.zone",
+    "mirrors": [
+      {
+        "name": "Portal Dos.Zone (Abrir en pestaña externa)",
+        "url": "https://dos.zone"
+      }
+    ],
+    "status": "ok",
+    "tags": [
+      "Web Native",
+      "DOS Clásico"
+    ],
+    "controls": {
+      "Moverse": "WASD / Flechas",
+      "Acción / Start": "Espacio / Enter"
+    },
+    "likes": 1832,
+    "dislikes": 77,
+    "archivedReason": "Portal externo con iframe bloqueado",
+    "lastAuditCode": 200,
+    "canIframe": false,
+    "auditDate": "2026-11-10T00:23:02.403Z",
+    "auditStatus": "LIVE"
+  }
+]

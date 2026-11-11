@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Super Mario 64 - RetroCloud</title>
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      background-color: #000000;
+      overflow: hidden;
+      image-rendering: pixelated;
+    }
+    #container {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+    }
+    canvas {
+      width: 100vw;
+      height: 100vh;
+      display: block;
+      outline: none;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <canvas class="emscripten" id="canvas" tabindex="0"></canvas>
+  </div>
+  <script type="text/javascript">
+    // Auto-focus canvas on load and on any click
+    function ensureFocus() {
+      const c = document.getElementById('canvas');
+      if (c) c.focus();
+      window.focus();
+    }
+    window.addEventListener('load', ensureFocus);
+    window.addEventListener('click', ensureFocus);
+    window.addEventListener('pointerdown', ensureFocus);
+
+    // Translate Enter key to Space so both Enter and Space trigger START in SM64
+    function forwardEnterAsSpace(e) {
+      if (e.key === 'Enter' || e.code === 'Enter' || e.keyCode === 13) {
+        if (e.__syntheticSpace) return;
+        const spaceEvent = new KeyboardEvent(e.type, {
+          key: ' ',
+          code: 'Space',
+          keyCode: 32,
+          which: 32,
+          bubbles: true,
+          cancelable: true
+        });
+        spaceEvent.__syntheticSpace = true;
+        const c = document.getElementById('canvas');
+        if (c) c.dispatchEvent(spaceEvent);
+        window.dispatchEvent(spaceEvent);
+      }
+    }
+    window.addEventListener('keydown', forwardEnterAsSpace, true);
+    window.addEventListener('keyup', forwardEnterAsSpace, true);
+
+    // RetroCloud Master Volume Controller for WebAudio & Emscripten
+    (function() {
+      const OrigCtx = window.AudioContext || window.webkitAudioContext;
+      if (!OrigCtx) return;
+      let currentVol = 0.7;
+      window.__masterGains = [];
+      window.setGameVolume = function(val) {
+        currentVol = Math.max(0, Math.min(1, val));
+        window.__masterGains.forEach(g => {
+          try { g.gain.setValueAtTime(currentVol, g.context.currentTime); } catch(e){}
+        });
+      };
+      window.addEventListener('message', function(e) {
+        let d = e.data;
+        if (typeof d === 'string') { try { d = JSON.parse(d); } catch(err){} }
+        if (d && (d.type === 'setVolume' || d.action === 'setVolume' || d.command === 'setVolume')) {
+          const v = typeof d.value === 'number' ? d.value : d.volume;
+          if (typeof v === 'number') window.setGameVolume(v);
+        }
+      });
+      function WrappedCtx(...args) {
+        const ctx = new OrigCtx(...args);
+        const mg = ctx.createGain();
+        mg.gain.setValueAtTime(currentVol, ctx.currentTime);
+        mg.connect(ctx.destination);
+        window.__masterGains.push(mg);
+        const origConn = AudioNode.prototype.connect;
+        AudioNode.prototype.connect = function(dest, ...rest) {
+          if (dest === ctx.destination) return origConn.call(this, mg, ...rest);
+          return origConn.call(this, dest, ...rest);
+        };
+        return ctx;
+      }
+      WrappedCtx.prototype = OrigCtx.prototype;
+      window.AudioContext = WrappedCtx;
+      if (window.webkitAudioContext) window.webkitAudioContext = WrappedCtx;
+    })();
+
+    var Module = {
+      preRun: [],
+      postRun: [function() { ensureFocus(); }],
+      print: function(text) { console.log(text); },
+      printErr: function(text) { console.error(text); },
+      canvas: (function () {
+        var canvas = document.getElementById("canvas");
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+        return canvas;
+      })(),
+      setStatus: function (text) {}
+    };
+  </script>
+  <script async type="text/javascript" src="sm64.us.f3dex2e.js"></script>
+</body>
+</html>

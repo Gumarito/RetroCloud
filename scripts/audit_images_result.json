@@ -1,0 +1,1219 @@
+{
+  "ok": [
+    "gta-vice-city",
+    "flappy-bird",
+    "brutal-doom",
+    "minecraft-1-8-8",
+    "celeste",
+    "andy-s-apple-farm",
+    "ages-of-conflict",
+    "20-minutes-till-dawn",
+    "beatblock",
+    "caesar-ii",
+    "christmas-massacre",
+    "chasm-the-rift",
+    "buster-jam",
+    "commander-keen",
+    "command-conquer-generals-zero-hour",
+    "clustertruck",
+    "crashout-crew",
+    "cruelty-squad",
+    "daggerfall",
+    "cyberpunk-2077",
+    "the-deadseat",
+    "deadseat",
+    "deltarune",
+    "deltarune-chapters-1-4",
+    "deltatraveler",
+    "createrria",
+    "cro-mag-rally",
+    "dice-a-million",
+    "doki-doki-literature-club-plus",
+    "drascula-the-vampire-strikes-back",
+    "dude-simulator",
+    "a-difficult-game-about-climbing",
+    "duck-life-8",
+    "descent",
+    "diddy-kong-racing",
+    "dude-simulator-2",
+    "dokdo",
+    "dos-zone",
+    "dune-ii",
+    "dungeon-keeper",
+    "fear-hunger",
+    "faster-than-light-demo",
+    "fears-to-fathom",
+    "fears-to-fathom-home-alone",
+    "eaglercraft",
+    "endoparasitic-2",
+    "feed-grow-fish",
+    "f1-race",
+    "fear-hunger-2-termina",
+    "endoparasitic",
+    "fez",
+    "the-elder-scrolls-iii-morrowind",
+    "fifa-10",
+    "fish",
+    "fifa-street",
+    "fifa-12",
+    "fifa-11",
+    "fifa-13",
+    "fih",
+    "fifa-street-2",
+    "fifa-14",
+    "granny",
+    "gta-v",
+    "gravity-defied",
+    "getting-over-it",
+    "fnaf",
+    "freeciv",
+    "gta-3",
+    "goldeneye-007",
+    "happy-room",
+    "helltaker",
+    "homeworld",
+    "happy-sheepies",
+    "hexen-ii",
+    "hotline-miami",
+    "inscryption",
+    "iron-lung",
+    "in-stars-and-time",
+    "how-to-fish",
+    "heroes-of-might-and-magic-ii",
+    "hot-shots-tennis",
+    "kindergarten-3",
+    "lacey-s-flash-games",
+    "just-shapes-beats",
+    "karlson",
+    "kindergarten-2",
+    "jumbo-mario",
+    "kindergarten-1-2",
+    "legend-of-legaia",
+    "lethal-ape",
+    "lego-racers",
+    "lego-island",
+    "lethal-company",
+    "lobotomy-corporation",
+    "look-outside",
+    "midnight-shift",
+    "lugaru",
+    "milk-outside-a-bag-of-milk-outside-a-bag-of-milk",
+    "milk-inside-a-bag-of-milk-inside-a-bag-of-milk",
+    "luigi-s-picture-poker",
+    "master-of-defence",
+    "mindwave",
+    "magic-tower-50-floors",
+    "miside",
+    "needy-streamer-overload",
+    "nblood",
+    "nhl-94",
+    "nam-napalm",
+    "nfl-street-2",
+    "nubby-s-number-factory",
+    "omori",
+    "plunder-pillage",
+    "phantasy-star-online",
+    "peak",
+    "pizza-tower",
+    "oneshot",
+    "oneshot-world-machine-edition",
+    "open-sonic",
+    "peaks-of-yore",
+    "perfect-dark",
+    "no-one-lives-forever",
+    "power-hover",
+    "postal-2",
+    "powerslave",
+    "r-e-p-o",
+    "raft",
+    "purble-place",
+    "ratchet-clank",
+    "raft-wars-2",
+    "pro-evolution-soccer-2011",
+    "pro-evolution-soccer-6",
+    "pro-evolution-soccer-2014",
+    "return-to-castle-wolfenstein",
+    "re-run",
+    "rollercoaster-tycoon-2",
+    "rolling-sky",
+    "redneck-rampage",
+    "redneck-rampage-rides-again",
+    "schoolboy-runaway",
+    "scp-containment-breach",
+    "s-p-l-i-t",
+    "rimworld",
+    "runescape-classic",
+    "shadow-warrior",
+    "road-rash",
+    "rugby-08",
+    "the-seven-games-of-the-soul",
+    "shift-at-midnight",
+    "simcity",
+    "slime-rancher",
+    "silkroad-online",
+    "simgolf",
+    "star-wars-empire-at-war",
+    "star-wars-jedi-knight-dark-forces-2",
+    "speed-stars",
+    "spelunky-classic-hd",
+    "the-specialists",
+    "stunts",
+    "super-monkey-ball",
+    "stick-with-it",
+    "star-wars-jedi-knight-jedi-academy",
+    "star-fox-adventures",
+    "syndicate",
+    "team-fortress-2",
+    "tattletail",
+    "that-s-not-my-neighbor",
+    "totally-accurate-battle-simulator",
+    "toonstruck",
+    "ultrakill",
+    "trombone-champ",
+    "t",
+    "urban-chaos",
+    "ultrapool",
+    "the-ur-quan-masters",
+    "untitled-goose-game",
+    "the-warriors",
+    "wasm-arcade",
+    "wasm-rip",
+    "wipeout",
+    "witch-s-heart",
+    "who-s-your-daddy",
+    "webfishing",
+    "urban-terror",
+    "wadcmd",
+    "yume-nikki",
+    "xrick",
+    "your-only-move-is-hustle",
+    "sudoku-master-web",
+    "xiao-xiao-4-bar-shootout",
+    "wwe-smackdown-vs-raw-2011"
+  ],
+  "rateLimited429": [
+    {
+      "id": "subway-surfers",
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/de/Subway_Surfers_App_Logo.png"
+    },
+    {
+      "id": "skate-3",
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/7b/Skate_3_box_art.jpg"
+    },
+    {
+      "id": "simpsons-hit-and-run",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9f/The_Simpsons_Hit_%26_Run_Cover.PNG"
+    },
+    {
+      "id": "cuphead",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Cuphead_%28artwork%29.png"
+    },
+    {
+      "id": "five-nights-at-freddy-s",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg"
+    },
+    {
+      "id": "counter-strike-1-6",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Counter-Strike_Box.jpg"
+    },
+    {
+      "id": "pes-6",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b5/Pro_Evolution_Soccer_6_Cover.jpg"
+    },
+    {
+      "id": "sonic-the-hedgehog",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Sonic_the_Hedgehog_1_Genesis_box_art.jpg"
+    },
+    {
+      "id": "geometry-dash",
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/35/Geometry_Dash_Logo.PNG"
+    },
+    {
+      "id": "half-life",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Half-Life_Cover_Art.jpg"
+    },
+    {
+      "id": "bad-piggies",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b5/Bad_Piggies_cover.png"
+    },
+    {
+      "id": "2048",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/2048_logo.svg"
+    },
+    {
+      "id": "cookie-clicker",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/14/Cookie_Clicker_logo.png"
+    },
+    {
+      "id": "tetris-classic",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/8d/NES_Tetris_Box_Front.jpg"
+    },
+    {
+      "id": "plants-vs-zombies",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c5/Plants_vs_Zombies_box_art.jpg"
+    },
+    {
+      "id": "undertale",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c4/Undertale_cover.jpg"
+    },
+    {
+      "id": "call-of-duty-black-ops-zombies",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/02/CoD_Black_Ops_cover.png"
+    },
+    {
+      "id": "hormigas",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/SimAnt_Cover.jpg"
+    },
+    {
+      "id": "american-mcgee-s-alice",
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a9/American_McGee_Alice_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "alley-cat",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/27/Alley_Cat_Cover.jpg"
+    },
+    {
+      "id": "amazing-alex",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/61/Amazing_Alex_Official_Logo.png"
+    },
+    {
+      "id": "3d-pinball-for-windows-space-cadet",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Full_Tilt%21_Pinball_coverart.png"
+    },
+    {
+      "id": "among-us",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg"
+    },
+    {
+      "id": "amanda-the-adventurer",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/80/Amanda_the_Adventurer_cover.jpg"
+    },
+    {
+      "id": "atlantis-the-lost-tales",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/47/Atlantisthelosttales.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "antonblast",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/2e/Antonblast_Steam_Banner_Dec_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "bendy-and-the-ink-machine-all-chapters",
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/77/Bendy_and_the_Ink_Machine_cover.png"
+    },
+    {
+      "id": "arx-fatalis",
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3c/Arx_Fatalis_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "bloodmoney",
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/71/Blood_Money_Coverart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "animal-crossing",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Animal_Crossing_Cover.png"
+    },
+    {
+      "id": "beneath-a-steel-sky",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/ce/Beneath_a_Steel_Sky_Coverart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "the-binding-of-isaac-repentance",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Binding_of_isaac_rebirth_cover.jpg"
+    },
+    {
+      "id": "battle-stadium-d-o-n",
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/30/Battle_Stadium_DON_box_art.jpg"
+    },
+    {
+      "id": "a-bite-at-freddy-s",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg"
+    },
+    {
+      "id": "brawlhalla",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1a/Brawlhalla_cover_art.jpg"
+    },
+    {
+      "id": "battle-city",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/88/Battle_City_cover.jpg"
+    },
+    {
+      "id": "bendy-and-the-ink-machine",
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Bendy_and_the_Ink_Machine_cover.png"
+    },
+    {
+      "id": "carmageddon-ii-carpocalypse-now",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Carmageddon_box_art.jpg"
+    },
+    {
+      "id": "command-conquer-renegade",
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a4/Red_Alert_2_Coverart.png"
+    },
+    {
+      "id": "command-conquer-red-alert-2",
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a4/Red_Alert_2_Coverart.png"
+    },
+    {
+      "id": "cave-story",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/87/Cave_Story_cover_art.jpg"
+    },
+    {
+      "id": "bumpy-s-arcade-fantasy",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0d/Bumpy_Cover_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "carmageddon",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Carmageddon_box_art.jpg"
+    },
+    {
+      "id": "counter-strike-half-life",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Half-Life_Cover_Art.jpg"
+    },
+    {
+      "id": "call-of-duty-web-collection",
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/db/Modern_Warfare_2_cover.PNG"
+    },
+    {
+      "id": "command-conquer-generals",
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a4/Red_Alert_2_Coverart.png"
+    },
+    {
+      "id": "class-of-09",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Class_of_%2709_Title_Card.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
+    },
+    {
+      "id": "counter-strike-2019",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Counter-Strike_Box.jpg"
+    },
+    {
+      "id": "buckshot-roulette",
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Buckshot_Roulette_cover_art.png"
+    },
+    {
+      "id": "castle-crashers",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/90/Castle_Crashers_Cover_Art.png"
+    },
+    {
+      "id": "call-of-duty-modern-warfare-2",
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/db/Modern_Warfare_2_cover.PNG"
+    },
+    {
+      "id": "brotato",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/69/Brotato_cover_art.jpg"
+    },
+    {
+      "id": "burnout-3-takedown",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c7/Burnout_3_Takedown_Coverart.png"
+    },
+    {
+      "id": "counter-strike",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Counter-Strike_Source_coverart.jpg"
+    },
+    {
+      "id": "crash-nitro-kart",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b8/Crash_Nitro_Kart_Cover.jpg"
+    },
+    {
+      "id": "cut-the-rope",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/29/Cut_the_Rope_cover.png"
+    },
+    {
+      "id": "counter-strike-source-surf",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Counter-Strike_Source_coverart.jpg"
+    },
+    {
+      "id": "crash-team-racing-turbocharged",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1a/Crash_Team_Racing_Cover.png"
+    },
+    {
+      "id": "cut-the-rope-dx",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/29/Cut_the_Rope_cover.png"
+    },
+    {
+      "id": "counter-strike-source-bunnyhop",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Counter-Strike_Source_coverart.jpg"
+    },
+    {
+      "id": "crash-team-racing",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1a/Crash_Team_Racing_Cover.png"
+    },
+    {
+      "id": "crash-bash-online",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Crash_Bash_Cover.jpg"
+    },
+    {
+      "id": "crisis-core-final-fantasy-vii",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/16/Crisis_Core_Cover.png"
+    },
+    {
+      "id": "counter-strike-2",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Counter-Strike_Box.jpg"
+    },
+    {
+      "id": "dead-plate",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0e/Dead_State_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "def-jam-fight-for-ny",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0a/Def_Jam_Fight_for_NY_Cover.jpg"
+    },
+    {
+      "id": "diablo",
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3a/Diablo_Coverart.png"
+    },
+    {
+      "id": "diablo-ii-lord-of-destruction",
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3a/Diablo_Coverart.png"
+    },
+    {
+      "id": "doom",
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/57/Doom_cover_art.jpg"
+    },
+    {
+      "id": "doom-i-ii",
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/57/Doom_cover_art.jpg"
+    },
+    {
+      "id": "downhill-domination",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/25/Downhill_Domination_Coverart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "doom-3-demo",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/87/Doom_3_box_art.png"
+    },
+    {
+      "id": "doom-3",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/87/Doom_3_box_art.png"
+    },
+    {
+      "id": "dragon-ball-z-budokai-3",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/cc/DBZ_Budokai_3_Cover.jpg"
+    },
+    {
+      "id": "doom-multiplayer",
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/57/Doom_cover_art.jpg"
+    },
+    {
+      "id": "drakan-the-ancients-gates",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/16/Drakan_-_The_Ancients%27_Gates_Coverart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "dragon-ball-z-budokai-2",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/cc/DBZ_Budokai_3_Cover.jpg"
+    },
+    {
+      "id": "dragon-ball-z-budokai-tenkaichi-2",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4b/Dragon_Ball_Z_Budokai_Tenkaichi_3.jpg"
+    },
+    {
+      "id": "dragon-ball-z-budokai-tenkaichi-3",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4b/Dragon_Ball_Z_Budokai_Tenkaichi_3.jpg"
+    },
+    {
+      "id": "duke-caribbean-life-s-a-beach",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/61/Duke_Nukem_3D_Coverart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "fallout",
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/af/Fallout.jpg"
+    },
+    {
+      "id": "duke-nukem-3d-tg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e8/Dukecover.jpg"
+    },
+    {
+      "id": "duke-nuclear-winter",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/61/Duke_Nukem_3D_Coverart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "duke-it-out-in-d-c",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/61/Duke_Nukem_3D_Coverart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "dune-ii-tg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/52/Dune_Part_Two_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "duke-nukem-3d",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e8/Dukecover.jpg"
+    },
+    {
+      "id": "fatal-racing",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/01/Fatal_Racing_Coverart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "fallout-nevada-sonora",
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/af/Fallout.jpg"
+    },
+    {
+      "id": "five-nights-at-freddy-s-world-refreshed",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg"
+    },
+    {
+      "id": "five-nights-at-freddy-s-4",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg"
+    },
+    {
+      "id": "five-nights-at-freddy-s-2",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg"
+    },
+    {
+      "id": "five-nights-at-freddy-s-ultimate-custom-night",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg"
+    },
+    {
+      "id": "five-nights-at-freddy-s-pizza-simulator",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg"
+    },
+    {
+      "id": "five-nights-at-freddy-s-3",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg"
+    },
+    {
+      "id": "five-nights-at-freddy-s-4-halloween",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg"
+    },
+    {
+      "id": "five-nights-at-candy-s-2",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg"
+    },
+    {
+      "id": "five-nights-at-freddy-s-world",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg"
+    },
+    {
+      "id": "flatout-2",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9c/Flatout2_box.jpg"
+    },
+    {
+      "id": "five-nights-at-epstein-s",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg"
+    },
+    {
+      "id": "five-nights-at-candy-s",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg"
+    },
+    {
+      "id": "five-nights-at-freddy-s-sister-location",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg"
+    },
+    {
+      "id": "five-nights-at-last-breath",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg"
+    },
+    {
+      "id": "five-nights-at-frickbear-s-3",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg"
+    },
+    {
+      "id": "grand-theft-auto-2",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Grand_Theft_Auto_2_cover.jpg"
+    },
+    {
+      "id": "gold-miner-special-edition",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Gold_Miner_game_icon.png"
+    },
+    {
+      "id": "fused-240",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/cd/Colin_James_Fuse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "god-of-war-chains-of-olympus",
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5a/God_of_War_Chains_of_Olympus_Cover.jpg"
+    },
+    {
+      "id": "grand-theft-auto-chinatown-wars",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Grand_Theft_Auto_Chinatown_Wars_Box_Art.jpg"
+    },
+    {
+      "id": "grand-theft-auto-iii",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/be/GTA3boxart.jpg"
+    },
+    {
+      "id": "grand-theft-auto-vice-city",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Grand_Theft_Auto_2_cover.jpg"
+    },
+    {
+      "id": "formula-one-06",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/60/Formula_One_%281985_videogame%29_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "gran-turismo-2",
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a9/Gran_Turismo_2_Coverart.png"
+    },
+    {
+      "id": "gran-turismo-4",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b3/Gran_Turismo_4_Coverart.jpg"
+    },
+    {
+      "id": "grand-theft-auto-iii-online",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Grand_Theft_Auto_2_cover.jpg"
+    },
+    {
+      "id": "god-of-war-ghost-of-sparta",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/67/God_of_War_Ghost_of_Sparta_Cover.jpg"
+    },
+    {
+      "id": "gorilla-tag",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Gorilla_Tag_Logo_Black.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
+    },
+    {
+      "id": "harry-potter-and-the-chamber-of-secrets",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9c/Harry_Potter_and_the_Chamber_of_Secrets_Coverart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "hollow-knight",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/04/Hollow_Knight_first_cover_art.webp"
+    },
+    {
+      "id": "hollow-knight-silksong",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/04/Hollow_Knight_first_cover_art.webp"
+    },
+    {
+      "id": "i-wanna-be-the-guy",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/I_Wanna_Be_the_Guy_title_screen.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "half-life-2",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/25/Half-Life_2_cover.jpg"
+    },
+    {
+      "id": "half-life-and-counter-strike-1-6",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Half-Life_Cover_Art.jpg"
+    },
+    {
+      "id": "half-life-opposing-force",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Half-Life_Cover_Art.jpg"
+    },
+    {
+      "id": "halo-combat-evolved-mobile",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/80/Halo_-_Combat_Evolved_%28XBox_version_-_box_art%29.jpg"
+    },
+    {
+      "id": "halo-combat-evolved",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/80/Halo_-_Combat_Evolved_%28XBox_version_-_box_art%29.jpg"
+    },
+    {
+      "id": "guitar-hero-iii",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Guitar_Hero_World_Tour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "karlson-2d",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9f/Phil_Karlson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "jak-and-daxter-the-lost-frontier",
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/dc/Jak_and_Daxter-_The_Lost_Frontier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "kingdom-rush",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/85/Kingdom_Rush_cover.jpg"
+    },
+    {
+      "id": "the-legend-of-zelda-twilight-princess",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Legend_of_zelda_cover_%28with_cartridge%29_gold.png"
+    },
+    {
+      "id": "kirby-the-amazing-mirror",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/Kirby_%26_the_Amazing_Mirror.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "kino-der-toten",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/02/CoD_Black_Ops_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "madden-nfl-08",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Madden_NFL_08_Coverart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "the-man-in-the-window",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/98/The_Woman_in_the_Window.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "luanti",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Minetest_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
+    },
+    {
+      "id": "minecraft-pocket-edition",
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png"
+    },
+    {
+      "id": "limbo",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4a/Limbo_box_art.png"
+    },
+    {
+      "id": "minecraft-0-6-1",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/GDC_2016_awards_16-20_42_56-01-7D2_0739_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "liquidator-3d",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/45/Akella_Games_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "metal-gear-solid",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/83/Mgsx.jpg"
+    },
+    {
+      "id": "midnight-club-3-dub-edition",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c2/Midnight_Club_3_DUB_Edition_Cover.jpg"
+    },
+    {
+      "id": "medabots-ax",
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/75/Medabots-GBA-Medabee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "marvel-vs-capcom-2",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b7/MvC_Cover_Art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "minecraft-story-mode",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/04/Minecraft_Story_Mode_cover.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "minesweeper-plus",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Minesweeper_Windows_7.png"
+    },
+    {
+      "id": "moon",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
+    },
+    {
+      "id": "motocross-madness-2",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/8c/Motocross_Madness_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "nacht-der-untoten",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/69/WAW_Cover_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "nfl-street",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/86/NBA_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "netquake-io",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/cd/Quake1cover.jpg"
+    },
+    {
+      "id": "monster-hunter-freedom-unite",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/01/MonsterHunterFreedomUnite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "mini-dayz",
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5a/DayZ_cover_art.jpg"
+    },
+    {
+      "id": "need-for-speed-underground-2",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4b/Need_for_Speed_Underground_2_box.jpg"
+    },
+    {
+      "id": "nba-2k12",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/25/NBA_2K2_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "mortal-kombat-armageddon",
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Mortal_Kombat_Armageddon_Coverart.png"
+    },
+    {
+      "id": "nba-street-v3",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/86/NBA_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "need-for-speed-most-wanted",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/8e/Need_for_Speed_Most_Wanted_Box_Art.jpg"
+    },
+    {
+      "id": "mortal-kombat-shaolin-monks",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4d/Mortal_Kombat_Shaolin_Monks_Cover.jpg"
+    },
+    {
+      "id": "ncaa-football-10",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0d/NCAA_Football_10_Crabtree_Xbox_360_c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "need-for-speed-carbon",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/87/Need_for_Speed_Carbon_box.jpg"
+    },
+    {
+      "id": "naruto-shippuden-ultimate-ninja-impact",
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/36/Naruto_Shippuden_Ultimate_Ninja_Impact.jpg"
+    },
+    {
+      "id": "pepsiman",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/49/Pepsiman_%28PS1%29_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "openttd",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Openttdlogo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
+    },
+    {
+      "id": "overburden",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Overburden-dredge-yallourn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
+    },
+    {
+      "id": "pekka-kana-2",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/PEKKA32.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
+    },
+    {
+      "id": "plague-inc",
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/57/Plague_Inc._cover.png"
+    },
+    {
+      "id": "pok-mon-mystery-dungeon",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Pok%C3%A9mon_Mystery_Dungeon_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
+    },
+    {
+      "id": "plants-vs-zombies-goty-edition",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c5/Plants_vs_Zombies_box_art.jpg"
+    },
+    {
+      "id": "portal",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9f/Portal_standalonebox.jpg"
+    },
+    {
+      "id": "prince-of-persia",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/27/Prince_of_Persia_cover.jpg"
+    },
+    {
+      "id": "quake-ii",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e4/Quake_II_boxart.jpg"
+    },
+    {
+      "id": "quake",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e4/Quake_II_boxart.jpg"
+    },
+    {
+      "id": "quake-tg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/cd/Quake1cover.jpg"
+    },
+    {
+      "id": "quakeworld",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/cd/Quake1cover.jpg"
+    },
+    {
+      "id": "quake-iii-arena",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fd/Quake_III_Arena_box_art.png"
+    },
+    {
+      "id": "rain-world",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Rain_World_logo_%E2%80%93_Steam_616.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
+    },
+    {
+      "id": "resident-evil-outbreak-file-1-2",
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/df/Resident_Evil_4_cover.jpg"
+    },
+    {
+      "id": "resident-evil-4",
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/df/Resident_Evil_4_cover.jpg"
+    },
+    {
+      "id": "slender-the-eight-pages",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Slender_The_Eight_Pages_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
+    },
+    {
+      "id": "sonic-the-hedgehog-4-episode-i",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Sonic_the_Hedgehog_1_Genesis_box_art.jpg"
+    },
+    {
+      "id": "sonic-mania",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f0/Sonic_Mania_cover_art.jpg"
+    },
+    {
+      "id": "sonic-cd",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/Sonic_the_Hedgehog_CD_US_box_art.jpg"
+    },
+    {
+      "id": "silent-hill-origins",
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/da/Silent_Hill_Origins_PAL.jpg"
+    },
+    {
+      "id": "skate-rust",
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/7b/Skate_3_box_art.jpg"
+    },
+    {
+      "id": "slay-the-spire",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Slay_the_Spire_cover_art.jpg"
+    },
+    {
+      "id": "super-mario-zombies",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg"
+    },
+    {
+      "id": "super-mario-sunshine",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg"
+    },
+    {
+      "id": "street-fighter-iii-3rd-strike",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1d/Street_Fighter_II_arcade_flyer.jpg"
+    },
+    {
+      "id": "stick-war",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/85/Stick_War_Legacy_cover.jpg"
+    },
+    {
+      "id": "street-fighter-anniversary-collection",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1d/Street_Fighter_II_arcade_flyer.jpg"
+    },
+    {
+      "id": "stardew-valley",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fd/Logo_of_Stardew_Valley.png"
+    },
+    {
+      "id": "super-mario-64-multiplayer",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg"
+    },
+    {
+      "id": "super-mario-kart",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg"
+    },
+    {
+      "id": "spaceflight-simulator",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg"
+    },
+    {
+      "id": "space-station-13",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Spacestation13_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
+    },
+    {
+      "id": "spider-man-2",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/Spider-Man_2_%28video_game%29.jpg"
+    },
+    {
+      "id": "tekken-4",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/25/Tekken_4_Cover.jpg"
+    },
+    {
+      "id": "tremulous",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Tremulous_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
+    },
+    {
+      "id": "tony-hawk-s-underground-2",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/16/Tony_Hawk%27s_Underground_2.jpg"
+    },
+    {
+      "id": "tony-hawk-s-pro-skater-3",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c5/Tony_Hawk%27s_Pro_Skater_3.jpg"
+    },
+    {
+      "id": "tekken-5-dark-resurrection",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/90/Tekken_Dark_Resurrection_Cover.jpg"
+    },
+    {
+      "id": "tekken-dark-resurrection",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/90/Tekken_Dark_Resurrection_Cover.jpg"
+    },
+    {
+      "id": "tekken-5",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Tekken_5_Coverart.png"
+    },
+    {
+      "id": "terraria",
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/50/Terraria_cover.jpg"
+    },
+    {
+      "id": "undertale-yellow",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c4/Undertale_cover.jpg"
+    },
+    {
+      "id": "virtua-fighter",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Virtua_Fighter_2024_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
+    },
+    {
+      "id": "klondike-solitaire-web",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Solitaire_windows_xp_icon.png"
+    },
+    {
+      "id": "yandere-simulator",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Logo_Yandere_Simulator.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
+    },
+    {
+      "id": "pacman-retro-touch",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/06/Pac-man.png"
+    },
+    {
+      "id": "hextris-html5",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Hextris_icon.png"
+    },
+    {
+      "id": "wolfenstein-3d-tg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e8/Dukecover.jpg"
+    },
+    {
+      "id": "wolfenstein-3d",
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/31/Wolfenstein_3D_cover.jpg"
+    },
+    {
+      "id": "doodle-jump-classic",
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a6/Doodle_jump_icon.png"
+    },
+    {
+      "id": "snake-retro-3310",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Snake_video_game_icon.svg"
+    }
+  ],
+  "notFound404": [
+    {
+      "id": "super-mario-64",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg"
+    },
+    {
+      "id": "slope-3d",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Slope_game_banner.jpg"
+    },
+    {
+      "id": "naruto-shippuden-ultimate-ninja-5",
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5a/Naruto_Shippuden_Ultimate_Ninja_5.jpg"
+    }
+  ],
+  "errors": [
+    {
+      "id": "daytona-usa",
+      "status": 301,
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sega%20Daytona%20USA%20Arcade.jpg"
+    },
+    {
+      "id": "flight-of-the-amazon-queen",
+      "status": 301,
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Flight%20of%20the%20Amazon%20Queen.jpg"
+    },
+    {
+      "id": "getting-over-it-with-bennett-foddy",
+      "status": 301,
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Getting%20Over%20It%20with%20Bennett%20Foddy%20screenshot.jpg"
+    },
+    {
+      "id": "golden-sun",
+      "status": 302,
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Golden-sun-ds.png"
+    },
+    {
+      "id": "kingdom-hearts-chain-of-memories",
+      "status": 301,
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kingdom%20Hearts%20wordmark%20the%20first%20game%20of%20the%20series.png"
+    },
+    {
+      "id": "kindergarten",
+      "status": 301,
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindergarten%20%281%29.jpg"
+    },
+    {
+      "id": "people-playground",
+      "status": 301,
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/People%20Playground%20menu.jpg"
+    },
+    {
+      "id": "s-t-a-l-k-e-r-call-of-pripyat",
+      "status": 301,
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/S.T.A.L.K.E.R.-%20Call%20of%20Pripyat%2C%20DirectX%2011%20screenshot.jpg"
+    },
+    {
+      "id": "super-mario-bros-remastered",
+      "status": 301,
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Super%20Mario%20Bros.%20Remastered%20-%20Garden%20theme.png"
+    },
+    {
+      "id": "tomb-raider",
+      "status": 301,
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rec%C3%B3rcholis%2C%20Gran%20Plaza%20Mazatl%C3%A1n%2C%208%20de%20julio%20de%202023%2088.jpg"
+    },
+    {
+      "id": "taiko-no-tatsujin",
+      "status": 301,
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Taiko%20no%20Tatsujin%2012%20increased%20version%22%20for%20arcade%20game%20%28Old%20housing%29.jpg"
+    },
+    {
+      "id": "super-smash-bros",
+      "status": 301,
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nintendo%2064%20%2826017220053%29.jpg"
+    },
+    {
+      "id": "vvvvvv",
+      "status": 301,
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/VVVVVV%20-%20The%20Tomb%20of%20Mad%20Carew.png"
+    },
+    {
+      "id": "unreal-tournament",
+      "status": 301,
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Unreal%20Tournament%20PS2.jpg"
+    },
+    {
+      "id": "warzone-2100",
+      "status": 301,
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Warzone%202100%20-%20base.jpg"
+    }
+  ],
+  "svgs": [
+    "bergentruck-201x",
+    "call-of-mini-dino-hunter",
+    "crazy-cattle-3d",
+    "do-not-take-this-cat-home",
+    "ea-sports-cricket-07",
+    "flying-gorilla-3d",
+    "fundamental-paper-novel",
+    "gabriel-s-awesome-schoolhouse",
+    "heretic-hexen",
+    "human-expenditure-program",
+    "i-can-t-believe-it-s-not-sonic-1",
+    "jeffrey-epstein-basics-in-education-and-kidnapping",
+    "jelly-drift",
+    "kirby-soft-wet",
+    "koi-flixel",
+    "la-madriguera",
+    "lenin-first-blood",
+    "the-man-from-the-window",
+    "the-man-from-the-window-2",
+    "milkman-karlson",
+    "my-talking-baby-hippo",
+    "penthouse-paradise",
+    "phantasy-star-online-episode-i-ii",
+    "phineas-and-ferb-in-the-transport-inators-of-doooom",
+    "pikmin",
+    "pizza-tower-scoutdigo",
+    "pro-evolution-soccer-2012",
+    "project-i-g-i-i-m-going-in",
+    "promises-to-keep",
+    "quest-for-al-qa-eda",
+    "quest-for-hussein",
+    "raldi-s-crackhouse",
+    "ratchet-clank-size-matters",
+    "redneck-rampage-route-66",
+    "reset-generation",
+    "rocks-n-diamonds",
+    "samokatogeddon",
+    "scampton-the-great",
+    "shadow-warrior-twin-dragon",
+    "shadow-warrior-wanton-destruction",
+    "simtower",
+    "slender-the-8-pages",
+    "slendytubbies-1",
+    "slendytubbies-2",
+    "slendytubbies-2d",
+    "socom-ii-u-s-navy-seals",
+    "sonic-robo-blast-2",
+    "sonic-robo-blast-2-kart",
+    "sonic-robo-blast-2-legacy",
+    "sonic-the-fighters",
+    "sonic-worlds-next",
+    "sonic-exe",
+    "space-rangers-quests",
+    "speedy-blupi-speedy-eggbert-2-planet-blupi",
+    "ssx-3",
+    "touhou-mother",
+    "tsukihime",
+    "tyrian",
+    "ufc-2009-undisputed-throwdown",
+    "ufc-throwdown",
+    "ultrakill-prelude",
+    "uvuvwevwevweonyetenvewveugwemubwemossas",
+    "virtua-tennis-2",
+    "virtual-on-cyber-troopers",
+    "warcraft-ii",
+    "william-shatner-s-tekwar",
+    "witchaven",
+    "witchaven-ii",
+    "ww2-gi-platoon-leader",
+    "wwe-smackdown-vs-raw-2010",
+    "wwe-smackdown-here-comes-the-pain",
+    "wwe-smackdown-vs-raw",
+    "wwii-gi",
+    "zelda-ii-the-adventure-of-link"
+  ]
+}

@@ -1,0 +1,506 @@
+# Revisión de portadas asignadas
+
+## Estado actual
+
+- Juegos en catálogo: 496
+- Juegos con URL de imagen distinta de Unsplash: 375
+- Juegos que aún conservan Unsplash: 121
+- Imágenes Open Graph obtenidas de páginas de juegos en la última pasada: 33
+- Coincidencias Open Graph que requieren revisión manual: 14
+- Candidatas nuevas localizadas en Wikipedia, pero no asignadas por falta de licencia reutilizable verificada: 6 portadas y 1 logo
+- Detalle, fuentes y candidatos sin verificar: [COVER_REVIEW_WEB.md](./COVER_REVIEW_WEB.md)
+
+Las imágenes Open Graph proceden de las páginas de lanzamiento y no equivalen necesariamente a carátulas originales. Las discrepancias de título están señaladas; el resto tampoco constituye una verificación visual o de licencia.
+
+## Historial: pasada de Steam
+
+- Juegos en catálogo: 496
+- Portadas previas anotadas: 129
+- Portadas nuevas de Steam asignadas y enlace comprobado: 5
+- Juegos que aún conservan Unsplash: 154
+- Juegos con coincidencia dudosa en esta pasada: 5
+- Sin candidato Steam: 154
+
+Las imágenes de Steam son ilustraciones oficiales de producto (no siempre la portada física original). Las coincidencias no exactas y las cápsulas horizontales quedan marcadas para revisión.
+
+## Dudas de Steam
+
+- **A Difficult Game About Climbing**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [A Difficult Game About Climbing](https://store.steampowered.com/app/2497920/); similitud 1.
+- **Buster Jam**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Buster JAM!](https://store.steampowered.com/app/3399240/); similitud 1.
+- **Caesar II**: La coincidencia de nombre es aproximada; revisar que sea el juego y la edición correctos. La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Total War: ROME II - Caesar in Gaul Campaign Pack](https://store.steampowered.com/app/261050/); similitud 0.36.
+- **Chasm: The Rift**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Chasm: The Rift](https://store.steampowered.com/app/2061230/); similitud 1.
+- **Christmas Massacre**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Christmas Massacre](https://store.steampowered.com/app/1840490/); similitud 1.
+- **Clustertruck**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Clustertruck](https://store.steampowered.com/app/397950/); similitud 1.
+- **Command & Conquer: Generals Zero Hour**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Command & Conquer™ Generals Zero Hour](https://store.steampowered.com/app/2732960/); similitud 1.
+- **Commander Keen**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Commander Keen](https://store.steampowered.com/app/9180/); similitud 1.
+- **Crashout Crew**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Crashout Crew](https://store.steampowered.com/app/3583210/); similitud 1.
+- **Cruelty Squad**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Cruelty Squad](https://store.steampowered.com/app/1388770/); similitud 1.
+- **Cyberpunk 2077**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Cyberpunk 2077](https://store.steampowered.com/app/1091500/); similitud 1.
+- **Daggerfall (DaggerfallJS)**: La coincidencia de nombre es aproximada; revisar que sea el juego y la edición correctos. Candidato: [The Elder Scrolls II: Daggerfall](https://store.steampowered.com/app/1812390/); similitud 0.4.
+- **Deadseat**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [The Deadseat](https://store.steampowered.com/app/3667230/); similitud 1.
+- **Deltarune**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [DELTARUNE](https://store.steampowered.com/app/1671210/); similitud 1.
+- **Descent**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Descent 2](https://store.steampowered.com/app/273580/); similitud 0.92.
+- **Dice a Million**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Dice A Million](https://store.steampowered.com/app/3430340/); similitud 1.
+- **Doki Doki Literature Club Plus!**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Doki Doki Literature Club Plus!](https://store.steampowered.com/app/1388880/); similitud 1.
+- **Drascula: The Vampire Strikes Back (ScummWeb)**: La coincidencia de nombre es aproximada; revisar que sea el juego y la edición correctos. La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Dráscula: The Vampire Strikes Back](https://store.steampowered.com/app/1038430/); similitud 0.67.
+- **Duck Life 8**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Duck Life 8: Adventure](https://store.steampowered.com/app/1321270/); similitud 0.92.
+- **Dude Simulator**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Dude Simulator](https://store.steampowered.com/app/654990/); similitud 1.
+- **Dude Simulator 2**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Dude Simulator 2](https://store.steampowered.com/app/825310/); similitud 1.
+- **Dune II**: La coincidencia de nombre es aproximada; revisar que sea el juego y la edición correctos. La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Call of Duty®: Modern Warfare® II - Dune Stalker: Starter Pack](https://store.steampowered.com/app/2127791/); similitud 0.36.
+- **Endoparasitic**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Endoparasitic](https://store.steampowered.com/app/2124780/); similitud 1.
+- **Endoparasitic 2**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Endoparasitic 2](https://store.steampowered.com/app/2990640/); similitud 1.
+- **Faster Than Light: Demo**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [FTL: Faster Than Light](https://store.steampowered.com/app/212680/); similitud 0.86.
+- **Fear & Hunger**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Fear & Hunger](https://store.steampowered.com/app/1002300/); similitud 1.
+- **Fear & Hunger 2: Termina**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Fear & Hunger 2: Termina](https://store.steampowered.com/app/2171440/); similitud 1.
+- **Fears To Fathom**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Fears to Fathom® - Scratch Creek](https://store.steampowered.com/app/4121170/); similitud 0.92.
+- **Fears to Fathom: Home Alone**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Fears to Fathom - Home Alone](https://store.steampowered.com/app/1671340/); similitud 1.
+- **Feed & Grow Fish**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Feed and Grow: Fish](https://store.steampowered.com/app/429050/); similitud 1.
+- **FEZ**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [FEZ](https://store.steampowered.com/app/224760/); similitud 1.
+- **Fih**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Fih🥀🥀](https://store.steampowered.com/app/5303380/); similitud 1.
+- **FISH**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Fish Lab](https://store.steampowered.com/app/4221990/); similitud 0.92.
+- **Granny**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Granny](https://store.steampowered.com/app/962400/); similitud 1.
+- **Gravity Defied (gravity-defied-web)**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Gravity Defied Reincarnation](https://store.steampowered.com/app/5469060/); similitud 0.92.
+- **GTA V**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Grand Theft Auto V Enhanced](https://store.steampowered.com/app/3240220/); similitud 0.92.
+- **Happy Room**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Happy Room](https://store.steampowered.com/app/550010/); similitud 1.
+- **Happy Sheepies**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Happy Sheepies](https://store.steampowered.com/app/2860450/); similitud 1.
+- **Helltaker**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Helltaker](https://store.steampowered.com/app/1289310/); similitud 1.
+- **Heroes of Might and Magic II**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Heroes Of Might And Magic III](https://store.steampowered.com/app/4921760/); similitud 0.75.
+- **Hexen II**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [HeXen II](https://store.steampowered.com/app/9060/); similitud 1.
+- **Homeworld**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Homeworld Remastered Collection](https://store.steampowered.com/app/244160/); similitud 0.92.
+- **Hotline Miami**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Hotline Miami](https://store.steampowered.com/app/219150/); similitud 1.
+- **How to Fish**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [How to Fish](https://store.steampowered.com/app/4001890/); similitud 1.
+- **Inscryption**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Inscryption](https://store.steampowered.com/app/1092790/); similitud 1.
+- **Iron Lung**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Iron Lung](https://store.steampowered.com/app/1846170/); similitud 1.
+- **Just Shapes & Beats**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Just Shapes & Beats](https://store.steampowered.com/app/531510/); similitud 1.
+- **Karlson**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [KARLSON](https://store.steampowered.com/app/1228610/); similitud 1.
+- **Kindergarten 2**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Kindergarten 2](https://store.steampowered.com/app/1067850/); similitud 1.
+- **Kindergarten 3**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Kindergarten 3](https://store.steampowered.com/app/2695570/); similitud 1.
+- **Lacey's Flash Games**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Lacey's Flash Games](https://store.steampowered.com/app/3459340/); similitud 1.
+- **Lethal Company**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Lethal Company](https://store.steampowered.com/app/1966720/); similitud 1.
+- **Lobotomy Corporation**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Lobotomy Corporation | Monster Management Simulation](https://store.steampowered.com/app/568220/); similitud 0.92.
+- **Look Outside**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Look Outside](https://store.steampowered.com/app/3373660/); similitud 1.
+- **Milk inside a bag of milk inside a bag of milk**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Milk inside a bag of milk inside a bag of milk](https://store.steampowered.com/app/1392820/); similitud 1.
+- **Milk outside a bag of milk outside a bag of milk**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Milk outside a bag of milk outside a bag of milk](https://store.steampowered.com/app/1604000/); similitud 1.
+- **Mindwave**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [MINDWAVE Demo](https://store.steampowered.com/app/2741670/); similitud 1.
+- **MiSide**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [MiSide](https://store.steampowered.com/app/2527500/); similitud 1.
+- **Needy Streamer Overload**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [NEEDY STREAMER OVERLOAD](https://store.steampowered.com/app/1451940/); similitud 1.
+- **Nubby's Number Factory**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Nubby's Number Factory](https://store.steampowered.com/app/3191030/); similitud 1.
+- **OMORI**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [OMORI](https://store.steampowered.com/app/1150690/); similitud 1.
+- **Oneshot (Legacy)**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [OneShot](https://store.steampowered.com/app/420530/); similitud 1.
+- **Oneshot: World Machine Edition**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [OneShot: World Machine Edition](https://store.steampowered.com/app/2915460/); similitud 1.
+- **PEAK (VERY wip)**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [PEAK](https://store.steampowered.com/app/3527290/); similitud 1.
+- **Perfect Dark**: La coincidencia de nombre es aproximada; revisar que sea el juego y la edición correctos. La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [RPG Maker MV - Dark Horror ME Perfect Collection](https://store.steampowered.com/app/1267343/); similitud 0.4.
+- **Phantasy Star Online (PSO Reborn)**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Phantasy Star Online 2 New Genesis](https://store.steampowered.com/app/1056640/); similitud 0.92.
+- **Pizza Tower**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Pizza Tower](https://store.steampowered.com/app/2231450/); similitud 1.
+- **Plunder & Pillage**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Pirate Pillage and Plunder](https://store.steampowered.com/app/3585660/); similitud 0.8.
+- **POSTAL 2 (KahnStation)**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [POSTAL 2](https://store.steampowered.com/app/223470/); similitud 1.
+- **Power Hover**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Power Hover](https://store.steampowered.com/app/559960/); similitud 1.
+- **Powerslave**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [PowerSlave (DOS Classic Edition)](https://store.steampowered.com/app/1260020/); similitud 1.
+- **Purble Place (decomp)**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Purble Place 3D](https://store.steampowered.com/app/2764530/); similitud 0.92.
+- **R.E.P.O**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [R.E.P.O.](https://store.steampowered.com/app/3241660/); similitud 1.
+- **RAFT**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Raft](https://store.steampowered.com/app/648800/); similitud 1.
+- **Ratchet & Clank**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Ratchet & Clank: Rift Apart](https://store.steampowered.com/app/1895880/); similitud 0.92.
+- **Return to Castle Wolfenstein**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Return to Castle Wolfenstein](https://store.steampowered.com/app/9010/); similitud 1.
+- **Rimworld**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [RimWorld](https://store.steampowered.com/app/294100/); similitud 1.
+- **RollerCoaster Tycoon 2 (OpenRCT2)**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [RollerCoaster Tycoon® 2: Triple Thrill Pack](https://store.steampowered.com/app/285330/); similitud 0.92.
+- **S.P.L.I.T**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [s.p.l.i.t](https://store.steampowered.com/app/3684610/); similitud 1.
+- **Schoolboy Runaway**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [SchoolBoy Runaway](https://store.steampowered.com/app/3359320/); similitud 1.
+- **SCP: Containment Breach**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [SCP – Containment Breach](https://store.steampowered.com/app/2178380/); similitud 1.
+- **Shadow Warrior**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Shadow Warrior](https://store.steampowered.com/app/233130/); similitud 1.
+- **Shift at Midnight**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Shift At Midnight](https://store.steampowered.com/app/3722330/); similitud 1.
+- **Silkroad Online (OpenSRO)**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [SilkRoad Project](https://store.steampowered.com/app/1243550/); similitud 0.92.
+- **SimCity (micropolisJS)**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [SimCity™ 4 Deluxe Edition](https://store.steampowered.com/app/24780/); similitud 0.92.
+- **Slime Rancher**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Slime Rancher](https://store.steampowered.com/app/433340/); similitud 1.
+- **Star Wars Jedi Knight Dark Forces 2**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [STAR WARS™ Jedi Knight: Dark Forces II](https://store.steampowered.com/app/32380/); similitud 0.86.
+- **Star Wars Jedi Knight: Jedi Academy**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [STAR WARS™ Jedi Knight - Jedi Academy™](https://store.steampowered.com/app/6020/); similitud 1.
+- **Star Wars: Empire at War (Browser Edition)**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [STAR WARS™ Empire at War - Gold Pack](https://store.steampowered.com/app/32470/); similitud 0.92.
+- **Stick with It**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Stick With It](https://store.steampowered.com/app/3984960/); similitud 1.
+- **Stunts (PlayStunts)**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Stunts Contest Police Car](https://store.steampowered.com/app/2027290/); similitud 0.92.
+- **Super Monkey Ball**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Super Monkey Ball Banana Mania](https://store.steampowered.com/app/1316910/); similitud 0.92.
+- **Syndicate**: La coincidencia de nombre es aproximada; revisar que sea el juego y la edición correctos. La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Sovereign Syndicate](https://store.steampowered.com/app/1674920/); similitud 0.67.
+- **t³ (T cubed)**: La coincidencia de nombre es aproximada; revisar que sea el juego y la edición correctos. La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Attack on Titan 3 / A.O.T. 3](https://store.steampowered.com/app/2916700/); similitud 0.29.
+- **Tattletail**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Tattletail](https://store.steampowered.com/app/568090/); similitud 1.
+- **The Deadseat**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [The Deadseat](https://store.steampowered.com/app/3667230/); similitud 1.
+- **The Specialists (Half-Life mod, specialists-browser)**: La coincidencia de nombre es aproximada; revisar que sea el juego y la edición correctos. La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [From Space - The Scouts Specialists](https://store.steampowered.com/app/2260122/); similitud 0.4.
+- **The Ur-Quan Masters (Star Control II)**: La coincidencia de nombre es aproximada; revisar que sea el juego y la edición correctos. La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Free Stars: The Ur-Quan Masters](https://store.steampowered.com/app/2645580/); similitud 0.75.
+- **The Warriors**: La coincidencia de nombre es aproximada; revisar que sea el juego y la edición correctos. La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Warriors of the Nile](https://store.steampowered.com/app/1267470/); similitud 0.67.
+- **Toonstruck**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Toonstruck](https://store.steampowered.com/app/369830/); similitud 1.
+- **Totally Accurate Battle Simulator (TABS)**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Totally Accurate Battle Simulator](https://store.steampowered.com/app/508440/); similitud 1.
+- **Trombone Champ**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Trombone Champ](https://store.steampowered.com/app/1059990/); similitud 1.
+- **ULTRAKILL**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [ULTRAKILL](https://store.steampowered.com/app/1229490/); similitud 1.
+- **Ultrapool**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Ultrapool](https://store.steampowered.com/app/4195110/); similitud 1.
+- **Untitled Goose Game**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Untitled Goose Game](https://store.steampowered.com/app/837470/); similitud 1.
+- **Urban Chaos (OpenChaos)**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Urban Chaos](https://store.steampowered.com/app/243060/); similitud 1.
+- **WASM Arcade**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Arcade Paradise](https://store.steampowered.com/app/1388870/); similitud 0.92.
+- **wasm.rip**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Rip It! Card Collector](https://store.steampowered.com/app/5088440/); similitud 0.92.
+- **WipEout**: La coincidencia de nombre es aproximada; revisar que sea el juego y la edición correctos. La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Nuclear Wipeout](https://store.steampowered.com/app/677260/); similitud 0.67.
+- **Witch's Heart**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Tale of Witch's Heart](https://store.steampowered.com/app/1973890/); similitud 0.86.
+- **xrick**: La coincidencia de nombre es aproximada; revisar que sea el juego y la edición correctos. La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [RetroArch - XRick](https://store.steampowered.com/app/1227465/); similitud 0.67.
+- **Your Only Move is Hustle**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Your Only Move Is HUSTLE](https://store.steampowered.com/app/2212330/); similitud 1.
+- **Yume Nikki**: La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Yume Nikki](https://store.steampowered.com/app/650700/); similitud 1.
+
+## Dudas de Steam
+
+- **F1 Race (MTK)**: La coincidencia de nombre es aproximada (similitud 0); revisar que sea el juego y la edición correctos. Candidato: [4x4 Dream Race](https://store.steampowered.com/app/313330/); similitud 0.
+- **NBlood**: La coincidencia de nombre es aproximada (similitud 0); revisar que sea el juego y la edición correctos. La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Blade N' Blood](https://store.steampowered.com/app/3313180/); similitud 0.
+- **RE:RUN**: La coincidencia de nombre es aproximada (similitud 0); revisar que sea el juego y la edición correctos. La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [Aliens Go Home ReRun](https://store.steampowered.com/app/4505100/); similitud 0.
+- **Rolling Sky (web port)**: La coincidencia de nombre es aproximada (similitud 0); revisar que sea el juego y la edición correctos. La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [RollingSky2](https://store.steampowered.com/app/1067440/); similitud 0.
+- **RuneScape Classic**: La coincidencia de nombre es aproximada (similitud 0); revisar que sea el juego y la edición correctos. La portada vertical de Steam no está disponible; se usa su cápsula horizontal de resolución menor. Candidato: [RuneScape: Original Soundtrack Classics](https://store.steampowered.com/app/1397370/); similitud 0.
+
+## Juegos sin candidato Steam; placeholder conservado
+
+- **BERGENTRUCK 201x** (bergentruck-201x)
+- **Bumpy's Arcade Fantasy** (bumpy-s-arcade-fantasy)
+- **Call of Mini: Dino Hunter (Revival)** (call-of-mini-dino-hunter)
+- **Crazy Cattle 3D** (crazy-cattle-3d)
+- **Createrria** (createrria)
+- **Cro-Mag Rally** (cro-mag-rally)
+- **Dead Plate** (dead-plate)
+- **Deltarune Chapters 1-4** (deltarune-chapters-1-4)
+- **Deltatraveler** (deltatraveler)
+- **Diddy Kong Racing (Golden Balloon)** (diddy-kong-racing)
+- **Do NOT Take This Cat Home** (do-not-take-this-cat-home)
+- **DOKDO (restoration)** (dokdo)
+- **Dos.Zone** (dos-zone)
+- **Downhill Domination** (downhill-domination)
+- **Drakan: The Ancients' Gates (Drakan2PC)** (drakan-the-ancients-gates)
+- **Duke Caribbean: Life's a Beach** (duke-caribbean-life-s-a-beach)
+- **Duke It Out in D.C.** (duke-it-out-in-d-c)
+- **Duke: Nuclear Winter** (duke-nuclear-winter)
+- **DUNE II TG** (dune-ii-tg)
+- **EA Sports Cricket 07** (ea-sports-cricket-07)
+- **Eaglercraft** (eaglercraft)
+- **Fatal Racing** (fatal-racing)
+- **FIFA 10 (PSP)** (fifa-10)
+- **FIFA 11** (fifa-11)
+- **FIFA 12** (fifa-12)
+- **FIFA 13** (fifa-13)
+- **FIFA 14 (PSP)** (fifa-14)
+- **FIFA Street** (fifa-street)
+- **FIFA Street 2** (fifa-street-2)
+- **Flying Gorilla 3D** (flying-gorilla-3d)
+- **FNAF** (fnaf)
+- **Formula One 06** (formula-one-06)
+- **Fundamental Paper Novel** (fundamental-paper-novel)
+- **Fused 240** (fused-240)
+- **Gabriel's Awesome Schoolhouse (GASH)** (gabriel-s-awesome-schoolhouse)
+- **GoldenEye 007 (GoldenWeb64)** (goldeneye-007)
+- **GTA 3 (3)** (gta-3)
+- **Guitar Hero III (Browser Edition)** (guitar-hero-iii)
+- **Harry Potter and the Chamber of Secrets** (harry-potter-and-the-chamber-of-secrets)
+- **HERETIC / HEXEN** (heretic-hexen)
+- **Hot Shots Tennis (OpenTennis)** (hot-shots-tennis)
+- **Human Expenditure Program** (human-expenditure-program)
+- **I Can't Believe It's Not Sonic 1** (i-can-t-believe-it-s-not-sonic-1)
+- **I Wanna Be The Guy** (i-wanna-be-the-guy)
+- **Jak and Daxter: The Lost Frontier** (jak-and-daxter-the-lost-frontier)
+- **Jeffrey Epstein Basics In Education And Kidnapping** (jeffrey-epstein-basics-in-education-and-kidnapping)
+- **Jelly Drift** (jelly-drift)
+- **Jumbo Mario** (jumbo-mario)
+- **Karlson 2D** (karlson-2d)
+- **Kindergarten 1 & 2** (kindergarten-1-2)
+- **Kino der Toten** (kino-der-toten)
+- **Kirby & The Amazing Mirror (katam-port)** (kirby-the-amazing-mirror)
+- **Kirby ~ Soft & Wet** (kirby-soft-wet)
+- **koi/_flixel** (koi-flixel)
+- **La Madriguera (Lazy Bear Game)** (la-madriguera)
+- **Legend of Legaia** (legend-of-legaia)
+- **LEGO Island** (lego-island)
+- **LEGO Racers** (lego-racers)
+- **Lenin: First Blood** (lenin-first-blood)
+- **Lethal Ape** (lethal-ape)
+- **Liquidator 3D** (liquidator-3d)
+- **Luigi's Picture Poker** (luigi-s-picture-poker)
+- **Madden NFL 08** (madden-nfl-08)
+- **Magic Tower: 50 Floors** (magic-tower-50-floors)
+- **Marvel vs. Capcom 2** (marvel-vs-capcom-2)
+- **Master of Defence** (master-of-defence)
+- **Medabots AX** (medabots-ax)
+- **Milkman Karlson** (milkman-karlson)
+- **Minecraft 0.6.1** (minecraft-0-6-1)
+- **Minecraft 1.8.8 (EaglercraftX)** (minecraft-1-8-8)
+- **Minecraft Story Mode** (minecraft-story-mode)
+- **Monster Hunter Freedom Unite** (monster-hunter-freedom-unite)
+- **Motocross Madness 2 (mcm2-web)** (motocross-madness-2)
+- **My Talking Baby Hippo** (my-talking-baby-hippo)
+- **Nacht der Untoten** (nacht-der-untoten)
+- **NAM / Napalm** (nam-napalm)
+- **NBA 2K12** (nba-2k12)
+- **NBA Street V3** (nba-street-v3)
+- **NCAA Football 10 (PSP Recomp)** (ncaa-football-10)
+- **NFL Street** (nfl-street)
+- **NFL Street 2 (NIL Street)** (nfl-street-2)
+- **NHL '94** (nhl-94)
+- **No One Lives Forever** (no-one-lives-forever)
+- **Open Sonic** (open-sonic)
+- **Penthouse Paradise** (penthouse-paradise)
+- **Pepsiman** (pepsiman)
+- **Phantasy Star Online Episode I & II (PSO Reborn)** (phantasy-star-online-episode-i-ii)
+- **Phineas and Ferb in the Transport-inators of Doooom** (phineas-and-ferb-in-the-transport-inators-of-doooom)
+- **Pikmin** (pikmin)
+- **Pizza Tower: Scoutdigo** (pizza-tower-scoutdigo)
+- **Pro Evolution Soccer 2011** (pro-evolution-soccer-2011)
+- **Pro Evolution Soccer 2012** (pro-evolution-soccer-2012)
+- **Pro Evolution Soccer 2014 (PSP)** (pro-evolution-soccer-2014)
+- **Pro Evolution Soccer 6** (pro-evolution-soccer-6)
+- **Project I.G.I.: I'm Going In** (project-i-g-i-i-m-going-in)
+- **Promises to Keep** (promises-to-keep)
+- **Quest for Al-Qa'eda** (quest-for-al-qa-eda)
+- **Quest for Hussein** (quest-for-hussein)
+- **Raft Wars 2** (raft-wars-2)
+- **Raldi's Crackhouse** (raldi-s-crackhouse)
+- **Ratchet & Clank: Size Matters** (ratchet-clank-size-matters)
+- **Redneck Rampage: Route 66** (redneck-rampage-route-66)
+- **Reset Generation** (reset-generation)
+- **Rocks'n'Diamonds** (rocks-n-diamonds)
+- **Rugby 08 (mitchivin)** (rugby-08)
+- **Samokatogeddon (Carmageddon II mod)** (samokatogeddon)
+- **Scampton The Great** (scampton-the-great)
+- **Shadow Warrior: Twin Dragon** (shadow-warrior-twin-dragon)
+- **Shadow Warrior: Wanton Destruction** (shadow-warrior-wanton-destruction)
+- **SimGolf** (simgolf)
+- **SimTower (benphelps)** (simtower)
+- **Slender: The 8 Pages** (slender-the-8-pages)
+- **Slendytubbies 1** (slendytubbies-1)
+- **Slendytubbies 2** (slendytubbies-2)
+- **Slendytubbies 2D** (slendytubbies-2d)
+- **SOCOM II: U.S. Navy SEALs (SOCOM Legacy)** (socom-ii-u-s-navy-seals)
+- **Sonic Robo Blast 2** (sonic-robo-blast-2)
+- **Sonic Robo Blast 2 Kart** (sonic-robo-blast-2-kart)
+- **Sonic Robo Blast 2 Legacy (SRB2LegacyWeb)** (sonic-robo-blast-2-legacy)
+- **Sonic the Fighters** (sonic-the-fighters)
+- **Sonic Worlds Next** (sonic-worlds-next)
+- **SONIC.EXE** (sonic-exe)
+- **Space Rangers: Quests** (space-rangers-quests)
+- **Speedy Blupi / Speedy Eggbert 2 / Planet Blupi** (speedy-blupi-speedy-eggbert-2-planet-blupi)
+- **Spelunky Classic HD** (spelunky-classic-hd)
+- **SSX 3** (ssx-3)
+- **Star Fox Adventures** (star-fox-adventures)
+- **The Man From the Window** (the-man-from-the-window)
+- **The Man From the Window 2** (the-man-from-the-window-2)
+- **The Man In The Window** (the-man-in-the-window)
+- **The Seven Games of the Soul** (the-seven-games-of-the-soul)
+- **Touhou Mother** (touhou-mother)
+- **Tsukihime (TsukiWeb)** (tsukihime)
+- **Tyrian (OpenTyrian)** (tyrian)
+- **UFC 2009 Undisputed / Throwdown** (ufc-2009-undisputed-throwdown)
+- **UFC Throwdown** (ufc-throwdown)
+- **Ultrakill Prelude** (ultrakill-prelude)
+- **Urban Terror** (urban-terror)
+- **UvuvwevwevweOnyetenvewveUgwemubwemOssas** (uvuvwevwevweonyetenvewveugwemubwemossas)
+- **Virtua Tennis 2** (virtua-tennis-2)
+- **Virtual On: Cyber Troopers** (virtual-on-cyber-troopers)
+- **WadCMD** (wadcmd)
+- **Warcraft II (Wargus)** (warcraft-ii)
+- **William Shatner's TekWar** (william-shatner-s-tekwar)
+- **Witchaven** (witchaven)
+- **Witchaven II** (witchaven-ii)
+- **WW2 GI: Platoon Leader** (ww2-gi-platoon-leader)
+- **WWE SmackDown vs. Raw 2010** (wwe-smackdown-vs-raw-2010)
+- **WWE SmackDown vs. Raw 2011** (wwe-smackdown-vs-raw-2011)
+- **WWE SmackDown! Here Comes the Pain** (wwe-smackdown-here-comes-the-pain)
+- **WWE SmackDown! vs. RAW** (wwe-smackdown-vs-raw)
+- **WWII GI** (wwii-gi)
+- **Xiao Xiao 4: Bar Shootout** (xiao-xiao-4-bar-shootout)
+- **Zelda II: The Adventure of Link (z2rs)** (zelda-ii-the-adventure-of-link)
+
+## Nuevas fuentes Steam
+
+- **F1 Race (MTK)**: [4x4 Dream Race](https://store.steampowered.com/app/313330/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313330/library_600x900.jpg); similitud 0.
+- **NBlood**: [Blade N' Blood](https://store.steampowered.com/app/3313180/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3313180/5b77ea5c22944ef5a91af9b9eea22afb87d7ffc8/capsule_231x87.jpg?t=1730944010); similitud 0.
+- **RE:RUN**: [Aliens Go Home ReRun](https://store.steampowered.com/app/4505100/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4505100/0d752bd9bb356a6f752d5ef3378b44c3ea90528a/capsule_231x87.jpg?t=1775782125); similitud 0.
+- **Rolling Sky (web port)**: [RollingSky2](https://store.steampowered.com/app/1067440/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067440/capsule_231x87.jpg?t=1604995546); similitud 0.
+- **RuneScape Classic**: [RuneScape: Original Soundtrack Classics](https://store.steampowered.com/app/1397370/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1397370/capsule_231x87.jpg?t=1633360475); similitud 0.
+
+## Fuentes y licencias
+
+- **A Bite at Freddy's**: Catálogo RetroCloud (coincidencia aproximada) - [Five Nights at Freddy's](https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Call of Duty Web Collection**: Catálogo RetroCloud (coincidencia aproximada) - [Call of Duty: Modern Warfare 2](https://upload.wikimedia.org/wikipedia/en/d/db/Modern_Warfare_2_cover.PNG); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Class of '09**: Wikipedia - [Class_of_'09_Title_Card.png](https://upload.wikimedia.org/wikipedia/commons/8/87/Class_of_%2709_Title_Card.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Command & Conquer: Generals (wasm.com.br)**: Catálogo RetroCloud (coincidencia aproximada) - [Command & Conquer: Red Alert 2](https://upload.wikimedia.org/wikipedia/en/a/a4/Red_Alert_2_Coverart.png); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Command & Conquer: Renegade (Open Commando)**: Catálogo RetroCloud (coincidencia aproximada) - [Command & Conquer: Red Alert 2](https://upload.wikimedia.org/wikipedia/en/a/a4/Red_Alert_2_Coverart.png); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Counter Strike & Half Life (2)**: Catálogo RetroCloud (coincidencia aproximada) - [Half-Life and Counter-Strike 1.6 (WebXash)](https://upload.wikimedia.org/wikipedia/en/f/fa/Half-Life_Cover_Art.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Counter Strike 2019**: Catálogo RetroCloud (coincidencia aproximada) - [Counter Strike 1.6 (2)](https://upload.wikimedia.org/wikipedia/en/6/6e/Counter-Strike_Box.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Counter-Strike 2 (cs2go, Three.js)**: Catálogo RetroCloud (coincidencia aproximada) - [Counter Strike 1.6 (2)](https://upload.wikimedia.org/wikipedia/en/6/6e/Counter-Strike_Box.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Crash Team Racing Turbocharged**: Catálogo RetroCloud (coincidencia aproximada) - [Crash Team Racing (High Octane)](https://upload.wikimedia.org/wikipedia/en/1/1a/Crash_Team_Racing_Cover.png); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Daytona USA**: Wikidata - [Sega Daytona USA Arcade.jpg](https://commons.wikimedia.org/wiki/File:Sega%20Daytona%20USA%20Arcade.jpg); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Dragon Ball Z: Budokai 2**: Catálogo RetroCloud (coincidencia aproximada) - [Dragon Ball Z: Budokai 3](https://upload.wikimedia.org/wikipedia/en/c/cc/DBZ_Budokai_3_Cover.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Dragon Ball Z: Budokai Tenkaichi 2**: Catálogo RetroCloud (coincidencia aproximada) - [Dragon Ball Z: Budokai Tenkaichi 3](https://upload.wikimedia.org/wikipedia/en/4/4b/Dragon_Ball_Z_Budokai_Tenkaichi_3.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Five Nights at Epstein's**: Catálogo RetroCloud (coincidencia aproximada) - [Five Nights at Freddy's](https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Five Nights at Frickbear's 3**: Catálogo RetroCloud (coincidencia aproximada) - [Five Nights at Freddy's](https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Five Nights at Last Breath**: Catálogo RetroCloud (coincidencia aproximada) - [Five Nights at Freddy's](https://upload.wikimedia.org/wikipedia/en/1/17/Five_Nights_at_Freddy%27s_Steam_header.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Flight of the Amazon Queen (ScummWeb)**: Wikidata - [Flight of the Amazon Queen.jpg](https://commons.wikimedia.org/wiki/File:Flight%20of%20the%20Amazon%20Queen.jpg); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Freeciv (Freeciv-web)**: Wikipedia - [Freeciv_Web_Logo.png](https://upload.wikimedia.org/wikipedia/commons/a/a8/Freeciv_Web_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Getting Over It with Bennett Foddy**: Wikidata - [Getting Over It with Bennett Foddy screenshot.jpg](https://commons.wikimedia.org/wiki/File:Getting%20Over%20It%20with%20Bennett%20Foddy%20screenshot.jpg); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Golden Sun**: Wikidata - [Golden-sun-ds.png](https://commons.wikimedia.org/wiki/File:Golden-sun-ds.png); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Gorilla Tag**: Wikipedia - [Gorilla_Tag_Logo_Black.svg](https://upload.wikimedia.org/wikipedia/commons/a/aa/Gorilla_Tag_Logo_Black.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Grand Theft Auto III Online (quenq)**: Catálogo RetroCloud (coincidencia aproximada) - [Grand Theft Auto 2](https://upload.wikimedia.org/wikipedia/en/6/6b/Grand_Theft_Auto_2_cover.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Grand Theft Auto: Vice City (quenq)**: Catálogo RetroCloud (coincidencia aproximada) - [Grand Theft Auto 2](https://upload.wikimedia.org/wikipedia/en/6/6b/Grand_Theft_Auto_2_cover.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Half Life: Opposing Force**: Catálogo RetroCloud (coincidencia aproximada) - [Half-Life (WebGL Port)](https://upload.wikimedia.org/wikipedia/en/f/fa/Half-Life_Cover_Art.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Halo: Combat Evolved Mobile**: Catálogo RetroCloud (coincidencia aproximada) - [Halo: Combat Evolved](https://upload.wikimedia.org/wikipedia/en/8/80/Halo_-_Combat_Evolved_%28XBox_version_-_box_art%29.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Hollow Knight: Silksong**: Catálogo RetroCloud (coincidencia aproximada) - [Hollow Knight](https://upload.wikimedia.org/wikipedia/en/0/04/Hollow_Knight_first_cover_art.webp); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Kindergarten**: Wikidata - [Kindergarten (1).jpg](https://commons.wikimedia.org/wiki/File:Kindergarten%20(1).jpg); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Kingdom Hearts: Chain of Memories (RepliCoM)**: Wikidata - [Kingdom Hearts wordmark the first game of the series.png](https://commons.wikimedia.org/wiki/File:Kingdom%20Hearts%20wordmark%20the%20first%20game%20of%20the%20series.png); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Luanti (Minetest)**: Wikipedia - [Minetest_logo.svg](https://upload.wikimedia.org/wikipedia/commons/a/a4/Minetest_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Moon (Zombies)**: Wikipedia - [FullMoon2010.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **OpenTTD**: Wikipedia - [Openttdlogo.svg](https://upload.wikimedia.org/wikipedia/commons/c/c5/Openttdlogo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Overburden**: Wikipedia - [Overburden-dredge-yallourn.jpg](https://upload.wikimedia.org/wikipedia/commons/4/41/Overburden-dredge-yallourn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Pekka Kana 2**: Wikipedia - [PEKKA32.png](https://upload.wikimedia.org/wikipedia/commons/a/ae/PEKKA32.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **People Playground**: Wikidata - [People Playground menu.jpg](https://commons.wikimedia.org/wiki/File:People%20Playground%20menu.jpg); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Pokémon Mystery Dungeon (Web Mystery Dungeon)**: Wikipedia - [Pokémon_Mystery_Dungeon_logo.png](https://upload.wikimedia.org/wikipedia/commons/4/4d/Pok%C3%A9mon_Mystery_Dungeon_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Rain World**: Wikipedia - [Rain_World_logo_–_Steam_616.png](https://upload.wikimedia.org/wikipedia/commons/7/78/Rain_World_logo_%E2%80%93_Steam_616.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Resident Evil Outbreak File #1 & #2 (Outbreak Web)**: Catálogo RetroCloud (coincidencia aproximada) - [Resident Evil 4](https://upload.wikimedia.org/wikipedia/en/d/df/Resident_Evil_4_cover.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Road Rash (Three.js)**: Wikipedia - [Road_Rash_Logo.png](https://upload.wikimedia.org/wikipedia/commons/4/47/Road_Rash_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **S.T.A.L.K.E.R.: Call of Pripyat (ZoneVM)**: Wikidata - [S.T.A.L.K.E.R.- Call of Pripyat, DirectX 11 screenshot.jpg](https://commons.wikimedia.org/wiki/File:S.T.A.L.K.E.R.-%20Call%20of%20Pripyat%2C%20DirectX%2011%20screenshot.jpg); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Skate × Rust (Global Terror)**: Catálogo RetroCloud (coincidencia aproximada) - [Skate 3 (Fan Made Web)](https://upload.wikimedia.org/wikipedia/en/7/7b/Skate_3_box_art.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Slender: The Eight Pages**: Wikipedia - [Slender_The_Eight_Pages_Logo.png](https://upload.wikimedia.org/wikipedia/commons/f/f3/Slender_The_Eight_Pages_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Space Station 13 (ss13.live)**: Wikipedia - [Spacestation13_logo.png](https://upload.wikimedia.org/wikipedia/commons/7/7a/Spacestation13_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Street Fighter Anniversary Collection**: Catálogo RetroCloud (coincidencia aproximada) - [Street Fighter III: 3rd Strike](https://upload.wikimedia.org/wikipedia/en/1/1d/Street_Fighter_II_arcade_flyer.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Super Mario Bros. Remastered**: Wikidata - [Super Mario Bros. Remastered - Garden theme.png](https://commons.wikimedia.org/wiki/File:Super%20Mario%20Bros.%20Remastered%20-%20Garden%20theme.png); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Super Mario Kart (SM-Kart-ZX Web Port)**: Catálogo RetroCloud (coincidencia aproximada) - [Super Mario 64](https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Super Mario Sunshine**: Catálogo RetroCloud (coincidencia aproximada) - [Super Mario 64](https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Super Mario Zombies**: Catálogo RetroCloud (coincidencia aproximada) - [Super Mario 64](https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Super Smash Bros. (smash.fun)**: Wikidata - [Nintendo 64 (26017220053).jpg](https://commons.wikimedia.org/wiki/File:Nintendo%2064%20(26017220053).jpg); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Taiko no Tatsujin**: Wikidata - ["Taiko no Tatsujin 12 increased version" for arcade game (Old housing).jpg](https://commons.wikimedia.org/wiki/File:%22Taiko%20no%20Tatsujin%2012%20increased%20version%22%20for%20arcade%20game%20(Old%20housing).jpg); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Tekken 5: Dark Resurrection (Recomp)**: Catálogo RetroCloud (coincidencia aproximada) - [Tekken: Dark Resurrection](https://upload.wikimedia.org/wikipedia/en/9/90/Tekken_Dark_Resurrection_Cover.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Tomb Raider**: Wikidata - [Recórcholis, Gran Plaza Mazatlán, 8 de julio de 2023 88.jpg](https://commons.wikimedia.org/wiki/File:Rec%C3%B3rcholis%2C%20Gran%20Plaza%20Mazatl%C3%A1n%2C%208%20de%20julio%20de%202023%2088.jpg); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Tremulous**: Wikipedia - [Tremulous_logo.png](https://upload.wikimedia.org/wikipedia/commons/5/5b/Tremulous_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Unreal Tournament (SurrealEngine Web)**: Wikidata - [Unreal Tournament PS2.jpg](https://commons.wikimedia.org/wiki/File:Unreal%20Tournament%20PS2.jpg); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Virtua Fighter**: Wikipedia - [Virtua_Fighter_2024_Logo.png](https://upload.wikimedia.org/wikipedia/commons/1/16/Virtua_Fighter_2024_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **VVVVVV**: Wikidata - [VVVVVV - The Tomb of Mad Carew.png](https://commons.wikimedia.org/wiki/File:VVVVVV%20-%20The%20Tomb%20of%20Mad%20Carew.png); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Warzone 2100 (Web Edition)**: Wikidata - [Warzone 2100 - base.jpg](https://commons.wikimedia.org/wiki/File:Warzone%202100%20-%20base.jpg); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+- **Wolfenstein 3D (HTML5, lazarv)**: Mapa de portadas curado del proyecto - [Wolfenstein_3D_cover.jpg](https://upload.wikimedia.org/wikipedia/en/3/31/Wolfenstein_3D_cover.jpg); licencia: Consultar la licencia de la ficha fuente.
+- **Wolfenstein 3D TG**: Catálogo RetroCloud (coincidencia aproximada) - [Duke Nukem 3D TG](https://upload.wikimedia.org/wikipedia/en/e/e8/Dukecover.jpg); licencia: La misma imagen ya estaba referenciada por otro juego del catálogo.
+- **Yandere Simulator**: Wikipedia - [Logo_Yandere_Simulator.svg](https://upload.wikimedia.org/wikipedia/commons/2/25/Logo_Yandere_Simulator.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original); licencia: Consultar la licencia de la ficha de Wikimedia Commons.
+
+## Nuevas fuentes Steam
+
+- **A Difficult Game About Climbing**: [A Difficult Game About Climbing](https://store.steampowered.com/app/2497920/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2497920/35d0e84da587aa10322f0347c8f5634b0d39d587/capsule_231x87.jpg?t=1766018522); similitud 1.
+- **Ages of Conflict**: [Ages of Conflict: World War Simulator](https://store.steampowered.com/app/2186320/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/library_600x900.jpg); similitud 0.92.
+- **Andy's Apple Farm**: [Andy's Apple Farm](https://store.steampowered.com/app/1810960/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1810960/library_600x900.jpg); similitud 1.
+- **Buster Jam**: [Buster JAM!](https://store.steampowered.com/app/3399240/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399240/cf6de1141c8d794b8af617a1dab0ee91eeab9e4c/capsule_231x87.jpg?t=1780504709); similitud 1.
+- **Caesar II**: [Total War: ROME II - Caesar in Gaul Campaign Pack](https://store.steampowered.com/app/261050/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261050/capsule_231x87.jpg?t=1763649746); similitud 0.36.
+- **Chasm: The Rift**: [Chasm: The Rift](https://store.steampowered.com/app/2061230/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2061230/capsule_231x87.jpg?t=1793094198); similitud 1.
+- **Christmas Massacre**: [Christmas Massacre](https://store.steampowered.com/app/1840490/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1840490/capsule_231x87.jpg?t=1671911494); similitud 1.
+- **Clustertruck**: [Clustertruck](https://store.steampowered.com/app/397950/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397950/capsule_231x87.jpg?t=1785515783); similitud 1.
+- **Command & Conquer: Generals Zero Hour**: [Command & Conquer™ Generals Zero Hour](https://store.steampowered.com/app/2732960/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732960/capsule_231x87.jpg?t=1785902817); similitud 1.
+- **Commander Keen**: [Commander Keen](https://store.steampowered.com/app/9180/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9180/capsule_231x87.jpg?t=1782164361); similitud 1.
+- **Crashout Crew**: [Crashout Crew](https://store.steampowered.com/app/3583210/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583210/8c72003fa9b495893d862479f99c361ab647ded6/capsule_231x87.jpg?t=1785949243); similitud 1.
+- **Cruelty Squad**: [Cruelty Squad](https://store.steampowered.com/app/1388770/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388770/capsule_231x87.jpg?t=1740330233); similitud 1.
+- **Cyberpunk 2077**: [Cyberpunk 2077](https://store.steampowered.com/app/1091500/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e104809f1370b37190ab346ff28f2dbf5037fed6/capsule_231x87_alt_assets_9.jpg?t=1792682505); similitud 1.
+- **Daggerfall (DaggerfallJS)**: [The Elder Scrolls II: Daggerfall](https://store.steampowered.com/app/1812390/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812390/library_600x900.jpg); similitud 0.4.
+- **Deadseat**: [The Deadseat](https://store.steampowered.com/app/3667230/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3667230/3195b83ae0f25071fa848fc731accd51fd3b6b62/capsule_231x87.jpg?t=1752886112); similitud 1.
+- **Deltarune**: [DELTARUNE](https://store.steampowered.com/app/1671210/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/capsule_231x87.jpg?t=1782314340); similitud 1.
+- **Descent**: [Descent 2](https://store.steampowered.com/app/273580/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/273580/capsule_231x87.jpg?t=1762282569); similitud 0.92.
+- **Dice a Million**: [Dice A Million](https://store.steampowered.com/app/3430340/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430340/9f2a291a8b5aa890f50245df3ac39dc2d294dfb9/capsule_231x87_alt_assets_0.jpg?t=1794156918); similitud 1.
+- **Doki Doki Literature Club Plus!**: [Doki Doki Literature Club Plus!](https://store.steampowered.com/app/1388880/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388880/68f86b3672d4c01a0b8bba990f5e9b7ef3c5e937/capsule_231x87.jpg?t=1769459840); similitud 1.
+- **Drascula: The Vampire Strikes Back (ScummWeb)**: [Dráscula: The Vampire Strikes Back](https://store.steampowered.com/app/1038430/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1038430/capsule_231x87.jpg?t=1674153563); similitud 0.67.
+- **Duck Life 8**: [Duck Life 8: Adventure](https://store.steampowered.com/app/1321270/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321270/capsule_231x87.jpg?t=1793733389); similitud 0.92.
+- **Dude Simulator**: [Dude Simulator](https://store.steampowered.com/app/654990/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654990/capsule_231x87.jpg?t=1714243975); similitud 1.
+- **Dude Simulator 2**: [Dude Simulator 2](https://store.steampowered.com/app/825310/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/825310/capsule_231x87.jpg?t=1714417919); similitud 1.
+- **Dune II**: [Call of Duty®: Modern Warfare® II - Dune Stalker: Starter Pack](https://store.steampowered.com/app/2127791/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2127791/capsule_231x87.jpg?t=1710968878); similitud 0.36.
+- **Dungeon Keeper**: [Dungeon Keeper™ 2](https://store.steampowered.com/app/2616460/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616460/library_600x900.jpg); similitud 0.92.
+- **Endoparasitic**: [Endoparasitic](https://store.steampowered.com/app/2124780/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124780/capsule_231x87.jpg?t=1786632968); similitud 1.
+- **Endoparasitic 2**: [Endoparasitic 2](https://store.steampowered.com/app/2990640/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990640/capsule_231x87.jpg?t=1768598900); similitud 1.
+- **Faster Than Light: Demo**: [FTL: Faster Than Light](https://store.steampowered.com/app/212680/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/9eb97114b0c5b54ddf16393f28646ff3cb813a9f/capsule_231x87.jpg?t=1748969356); similitud 0.86.
+- **Fear & Hunger**: [Fear & Hunger](https://store.steampowered.com/app/1002300/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002300/capsule_231x87.jpg?t=1621853752); similitud 1.
+- **Fear & Hunger 2: Termina**: [Fear & Hunger 2: Termina](https://store.steampowered.com/app/2171440/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2171440/capsule_231x87.jpg?t=1670614736); similitud 1.
+- **Fears To Fathom**: [Fears to Fathom® - Scratch Creek](https://store.steampowered.com/app/4121170/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/de44de8229ad446bab4d5d732993b446d2b50347/capsule_231x87.jpg?t=1781141362); similitud 0.92.
+- **Fears to Fathom: Home Alone**: [Fears to Fathom - Home Alone](https://store.steampowered.com/app/1671340/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671340/capsule_231x87.jpg?t=1761626927); similitud 1.
+- **Feed & Grow Fish**: [Feed and Grow: Fish](https://store.steampowered.com/app/429050/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/capsule_231x87.jpg?t=1615737978); similitud 1.
+- **FEZ**: [FEZ](https://store.steampowered.com/app/224760/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224760/capsule_231x87.jpg?t=1572375251); similitud 1.
+- **Fih**: [Fih🥀🥀](https://store.steampowered.com/app/5303380/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303380/5ba8773e708f339659890ff033a63a7f8720beea/capsule_231x87.jpg?t=1791709921); similitud 1.
+- **FISH**: [Fish Lab](https://store.steampowered.com/app/4221990/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221990/2c7bafdc90acf46b2d17cc6c1135546063e527d3/capsule_231x87.jpg?t=1789401717); similitud 0.92.
+- **Getting Over It**: [Getting Over It with Bennett Foddy](https://store.steampowered.com/app/240720/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240720/library_600x900.jpg); similitud 0.92.
+- **Granny**: [Granny](https://store.steampowered.com/app/962400/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962400/capsule_231x87.jpg?t=1687541775); similitud 1.
+- **Gravity Defied (gravity-defied-web)**: [Gravity Defied Reincarnation](https://store.steampowered.com/app/5469060/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5469060/0738477b3ed07bff02546a41df3e25ba715e56d4/capsule_231x87.jpg?t=1793144014); similitud 0.92.
+- **GTA V**: [Grand Theft Auto V Enhanced](https://store.steampowered.com/app/3240220/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/a318bd9affe8eee32984b18794b273c256e9b2d6/capsule_231x87.jpg?t=1781187782); similitud 0.92.
+- **Happy Room**: [Happy Room](https://store.steampowered.com/app/550010/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550010/capsule_231x87.jpg?t=1755238751); similitud 1.
+- **Happy Sheepies**: [Happy Sheepies](https://store.steampowered.com/app/2860450/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860450/1e1cb13817bbc3196c206f7c2cc61893e24ebd74/capsule_231x87.jpg?t=1791335733); similitud 1.
+- **Helltaker**: [Helltaker](https://store.steampowered.com/app/1289310/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289310/capsule_231x87.jpg?t=1620755466); similitud 1.
+- **Heroes of Might and Magic II**: [Heroes Of Might And Magic III](https://store.steampowered.com/app/4921760/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4921760/279c2c2e5e7838f327017aea57b6454aa16f6d7d/capsule_231x87.jpg?t=1790180698); similitud 0.75.
+- **Hexen II**: [HeXen II](https://store.steampowered.com/app/9060/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9060/capsule_231x87.jpg?t=1666381851); similitud 1.
+- **Homeworld**: [Homeworld Remastered Collection](https://store.steampowered.com/app/244160/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205); similitud 0.92.
+- **Hotline Miami**: [Hotline Miami](https://store.steampowered.com/app/219150/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/capsule_231x87.jpg?t=1785434922); similitud 1.
+- **How to Fish**: [How to Fish](https://store.steampowered.com/app/4001890/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/8f65bb2b78d37a9147aa79c970a51610e6955bf1/capsule_231x87.jpg?t=1792508550); similitud 1.
+- **In Stars and Time**: [In Stars And Time](https://store.steampowered.com/app/1677310/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/library_600x900.jpg); similitud 1.
+- **Inscryption**: [Inscryption](https://store.steampowered.com/app/1092790/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/capsule_231x87.jpg?t=1777572925); similitud 1.
+- **Iron Lung**: [Iron Lung](https://store.steampowered.com/app/1846170/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846170/capsule_231x87.jpg?t=1791916490); similitud 1.
+- **Just Shapes & Beats**: [Just Shapes & Beats](https://store.steampowered.com/app/531510/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/531510/capsule_231x87.jpg?t=1738790023); similitud 1.
+- **Karlson**: [KARLSON](https://store.steampowered.com/app/1228610/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1228610/capsule_231x87.jpg?t=1649362618); similitud 1.
+- **Kindergarten 2**: [Kindergarten 2](https://store.steampowered.com/app/1067850/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067850/capsule_231x87.jpg?t=1780630431); similitud 1.
+- **Kindergarten 3**: [Kindergarten 3](https://store.steampowered.com/app/2695570/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695570/e7745704c77dc5e778cc747cac221eae4d01147d/capsule_231x87.jpg?t=1780630294); similitud 1.
+- **Lacey's Flash Games**: [Lacey's Flash Games](https://store.steampowered.com/app/3459340/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459340/ec041afee0a968355562ff321c045c5f13c1bd23/capsule_231x87.jpg?t=1793652498); similitud 1.
+- **Lethal Company**: [Lethal Company](https://store.steampowered.com/app/1966720/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/capsule_231x87.jpg?t=1775380053); similitud 1.
+- **Lobotomy Corporation**: [Lobotomy Corporation | Monster Management Simulation](https://store.steampowered.com/app/568220/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/capsule_231x87.jpg?t=1636694188); similitud 0.92.
+- **Look Outside**: [Look Outside](https://store.steampowered.com/app/3373660/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/e0dae146ff3f347de7f3d26d3cc59977a675cfd9/capsule_231x87.jpg?t=1789016414); similitud 1.
+- **Lugaru**: [Lugaru HD](https://store.steampowered.com/app/25010/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/25010/library_600x900.jpg); similitud 0.92.
+- **Midnight Shift**: [Midnight Shift](https://store.steampowered.com/app/2395260/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395260/library_600x900.jpg); similitud 1.
+- **Milk inside a bag of milk inside a bag of milk**: [Milk inside a bag of milk inside a bag of milk](https://store.steampowered.com/app/1392820/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1392820/capsule_231x87.jpg?t=1776855908); similitud 1.
+- **Milk outside a bag of milk outside a bag of milk**: [Milk outside a bag of milk outside a bag of milk](https://store.steampowered.com/app/1604000/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604000/capsule_231x87.jpg?t=1658165566); similitud 1.
+- **Mindwave**: [MINDWAVE Demo](https://store.steampowered.com/app/2741670/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2741670/a28d18e0aff9066607e60d17c42a5d5fba757bfd/capsule_231x87.jpg?t=1766950347); similitud 1.
+- **MiSide**: [MiSide](https://store.steampowered.com/app/2527500/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/capsule_231x87.jpg?t=1792668822); similitud 1.
+- **Needy Streamer Overload**: [NEEDY STREAMER OVERLOAD](https://store.steampowered.com/app/1451940/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451940/capsule_231x87.jpg?t=1762834234); similitud 1.
+- **Nubby's Number Factory**: [Nubby's Number Factory](https://store.steampowered.com/app/3191030/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191030/4fa980fbcdc2f4af7cae50a9f3cded31dd4ba97f/capsule_231x87.jpg?t=1788467985); similitud 1.
+- **OMORI**: [OMORI](https://store.steampowered.com/app/1150690/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/capsule_231x87.jpg?t=1671584768); similitud 1.
+- **Oneshot (Legacy)**: [OneShot](https://store.steampowered.com/app/420530/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/capsule_231x87.jpg?t=1785326211); similitud 1.
+- **Oneshot: World Machine Edition**: [OneShot: World Machine Edition](https://store.steampowered.com/app/2915460/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915460/capsule_231x87.jpg?t=1747673376); similitud 1.
+- **PEAK (VERY wip)**: [PEAK](https://store.steampowered.com/app/3527290/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/1844964d7a353e50eb3cc979ea922729d8c1b0ad/capsule_231x87.jpg?t=1792684718); similitud 1.
+- **Peaks of Yore**: [Peaks of Yore](https://store.steampowered.com/app/2236070/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/library_600x900.jpg); similitud 1.
+- **Perfect Dark**: [RPG Maker MV - Dark Horror ME Perfect Collection](https://store.steampowered.com/app/1267343/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267343/capsule_231x87.jpg?t=1681250270); similitud 0.4.
+- **Phantasy Star Online (PSO Reborn)**: [Phantasy Star Online 2 New Genesis](https://store.steampowered.com/app/1056640/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056640/5f121bd97e7bce64f942bfc2db87594536113c4b/capsule_231x87.jpg?t=1789697731); similitud 0.92.
+- **Pizza Tower**: [Pizza Tower](https://store.steampowered.com/app/2231450/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/capsule_231x87.jpg?t=1732516978); similitud 1.
+- **Plunder & Pillage**: [Pirate Pillage and Plunder](https://store.steampowered.com/app/3585660/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585660/3e42310510f746afee40d7bef95d682cf029ddfd/capsule_231x87.jpg?t=1790169911); similitud 0.8.
+- **POSTAL 2 (KahnStation)**: [POSTAL 2](https://store.steampowered.com/app/223470/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/capsule_231x87.jpg?t=1792080403); similitud 1.
+- **Power Hover**: [Power Hover](https://store.steampowered.com/app/559960/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559960/capsule_231x87.jpg?t=1668158457); similitud 1.
+- **Powerslave**: [PowerSlave (DOS Classic Edition)](https://store.steampowered.com/app/1260020/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260020/capsule_231x87.jpg?t=1674746501); similitud 1.
+- **Purble Place (decomp)**: [Purble Place 3D](https://store.steampowered.com/app/2764530/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764530/72a7f174e9bb945ec90b7a0cf5910ce448c1dc78/capsule_231x87.jpg?t=1791893020); similitud 0.92.
+- **R.E.P.O**: [R.E.P.O.](https://store.steampowered.com/app/3241660/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/be0c8d662bb4c8749736fd8fe336bc5d27bb3618/capsule_231x87_alt_assets_3.jpg?t=1793278962); similitud 1.
+- **RAFT**: [Raft](https://store.steampowered.com/app/648800/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/capsule_231x87.jpg?t=1727184011); similitud 1.
+- **Ratchet & Clank**: [Ratchet & Clank: Rift Apart](https://store.steampowered.com/app/1895880/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/capsule_231x87.jpg?t=1787838873); similitud 0.92.
+- **Redneck Rampage**: [Redneck Rampage](https://store.steampowered.com/app/565550/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/565550/library_600x900.jpg); similitud 1.
+- **Redneck Rampage: Rides Again**: [Redneck Rampage Rides Again](https://store.steampowered.com/app/580940/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/580940/library_600x900.jpg); similitud 1.
+- **Return to Castle Wolfenstein**: [Return to Castle Wolfenstein](https://store.steampowered.com/app/9010/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/capsule_231x87.jpg?t=1786459095); similitud 1.
+- **Rimworld**: [RimWorld](https://store.steampowered.com/app/294100/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/a805ac5e3ceb54a2d7d3e1c1049907f1ef8bbb89/capsule_231x87.jpg?t=1782756789); similitud 1.
+- **RollerCoaster Tycoon 2 (OpenRCT2)**: [RollerCoaster Tycoon® 2: Triple Thrill Pack](https://store.steampowered.com/app/285330/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285330/capsule_231x87.jpg?t=1733160988); similitud 0.92.
+- **S.P.L.I.T**: [s.p.l.i.t](https://store.steampowered.com/app/3684610/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3684610/5482b630dafc7319936b093e333977d8e614e210/capsule_231x87.jpg?t=1759221319); similitud 1.
+- **Schoolboy Runaway**: [SchoolBoy Runaway](https://store.steampowered.com/app/3359320/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3359320/e8aa6de108c605346ee3e3c31472056116a25be1/capsule_231x87.jpg?t=1733726446); similitud 1.
+- **SCP: Containment Breach**: [SCP – Containment Breach](https://store.steampowered.com/app/2178380/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178380/6ea7e93de004891db37b7870262c0c589604b5fd/capsule_231x87.jpg?t=1793687389); similitud 1.
+- **Shadow Warrior**: [Shadow Warrior](https://store.steampowered.com/app/233130/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233130/capsule_231x87.jpg?t=1710246206); similitud 1.
+- **Shift at Midnight**: [Shift At Midnight](https://store.steampowered.com/app/3722330/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/19c9e6ec567f975b0b4462b8c84c1a38c74adf0d/capsule_231x87.jpg?t=1793103951); similitud 1.
+- **Silkroad Online (OpenSRO)**: [SilkRoad Project](https://store.steampowered.com/app/1243550/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243550/d57165f8027e08411d7bf1cfaf12db5b1ab735bc/capsule_231x87.jpg?t=1781991602); similitud 0.92.
+- **SimCity (micropolisJS)**: [SimCity™ 4 Deluxe Edition](https://store.steampowered.com/app/24780/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24780/capsule_231x87.jpg?t=1777484586); similitud 0.92.
+- **Slime Rancher**: [Slime Rancher](https://store.steampowered.com/app/433340/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/capsule_231x87.jpg?t=1758651509); similitud 1.
+- **Speed Stars**: [Speed Stars](https://store.steampowered.com/app/1482700/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1482700/library_600x900.jpg); similitud 1.
+- **Star Wars Jedi Knight Dark Forces 2**: [STAR WARS™ Jedi Knight: Dark Forces II](https://store.steampowered.com/app/32380/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32380/capsule_231x87.jpg?t=1741814501); similitud 0.86.
+- **Star Wars Jedi Knight: Jedi Academy**: [STAR WARS™ Jedi Knight - Jedi Academy™](https://store.steampowered.com/app/6020/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6020/capsule_231x87.jpg?t=1741814908); similitud 1.
+- **Star Wars: Empire at War (Browser Edition)**: [STAR WARS™ Empire at War - Gold Pack](https://store.steampowered.com/app/32470/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32470/capsule_231x87.jpg?t=1741729002); similitud 0.92.
+- **Stick with It**: [Stick With It](https://store.steampowered.com/app/3984960/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3984960/ac201777e6a955fdf6da788a5295b71ba5762c9e/capsule_231x87.jpg?t=1759839415); similitud 1.
+- **Stunts (PlayStunts)**: [Stunts Contest Police Car](https://store.steampowered.com/app/2027290/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027290/capsule_231x87.jpg?t=1782217099); similitud 0.92.
+- **Super Monkey Ball**: [Super Monkey Ball Banana Mania](https://store.steampowered.com/app/1316910/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1316910/capsule_231x87.jpg?t=1781263885); similitud 0.92.
+- **Syndicate**: [Sovereign Syndicate](https://store.steampowered.com/app/1674920/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674920/capsule_231x87.jpg?t=1786819654); similitud 0.67.
+- **t³ (T cubed)**: [Attack on Titan 3 / A.O.T. 3](https://store.steampowered.com/app/2916700/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916700/b54319595447ecdf726ab86d88c24acab9c5790e/capsule_231x87.jpg?t=1792542505); similitud 0.29.
+- **Tattletail**: [Tattletail](https://store.steampowered.com/app/568090/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568090/capsule_231x87.jpg?t=1572988418); similitud 1.
+- **Team Fortress 2**: [Team Fortress 2](https://store.steampowered.com/app/440/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/library_600x900.jpg); similitud 1.
+- **That's Not My Neighbor**: [That's not my Neighbor](https://store.steampowered.com/app/3431040/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431040/library_600x900.jpg); similitud 1.
+- **The Deadseat**: [The Deadseat](https://store.steampowered.com/app/3667230/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3667230/3195b83ae0f25071fa848fc731accd51fd3b6b62/capsule_231x87.jpg?t=1752886112); similitud 1.
+- **The Elder Scrolls III: Morrowind (OpenMW)**: [The Elder Scrolls III: Morrowind® Game of the Year Edition](https://store.steampowered.com/app/22320/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22320/library_600x900.jpg); similitud 0.92.
+- **The Specialists (Half-Life mod, specialists-browser)**: [From Space - The Scouts Specialists](https://store.steampowered.com/app/2260122/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2260122/capsule_231x87.jpg?t=1678978783); similitud 0.4.
+- **The Ur-Quan Masters (Star Control II)**: [Free Stars: The Ur-Quan Masters](https://store.steampowered.com/app/2645580/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2645580/capsule_231x87.jpg?t=1747690166); similitud 0.75.
+- **The Warriors**: [Warriors of the Nile](https://store.steampowered.com/app/1267470/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267470/capsule_231x87.jpg?t=1745569628); similitud 0.67.
+- **Toonstruck**: [Toonstruck](https://store.steampowered.com/app/369830/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/369830/capsule_231x87.jpg?t=1762294895); similitud 1.
+- **Totally Accurate Battle Simulator (TABS)**: [Totally Accurate Battle Simulator](https://store.steampowered.com/app/508440/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/capsule_231x87.jpg?t=1730715415); similitud 1.
+- **Trombone Champ**: [Trombone Champ](https://store.steampowered.com/app/1059990/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1059990/capsule_231x87.jpg?t=1789361594); similitud 1.
+- **ULTRAKILL**: [ULTRAKILL](https://store.steampowered.com/app/1229490/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/capsule_231x87.jpg?t=1792046802); similitud 1.
+- **Ultrapool**: [Ultrapool](https://store.steampowered.com/app/4195110/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195110/134bf8acbbdc7b63f644e363de353ddc948ebfbb/capsule_231x87.jpg?t=1788797628); similitud 1.
+- **Untitled Goose Game**: [Untitled Goose Game](https://store.steampowered.com/app/837470/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/capsule_231x87.jpg?t=1699052664); similitud 1.
+- **Urban Chaos (OpenChaos)**: [Urban Chaos](https://store.steampowered.com/app/243060/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/243060/capsule_231x87.jpg?t=1596846329); similitud 1.
+- **WASM Arcade**: [Arcade Paradise](https://store.steampowered.com/app/1388870/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388870/99562ab7abb8d28ec85a4131b746a823818c52b5/capsule_231x87.jpg?t=1782220777); similitud 0.92.
+- **wasm.rip**: [Rip It! Card Collector](https://store.steampowered.com/app/5088440/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088440/b48f25a9e6e2bf036836e3b4e9249acf2dc0214d/capsule_231x87_alt_assets_1.jpg?t=1793726040); similitud 0.92.
+- **Webfishing**: [WEBFISHING](https://store.steampowered.com/app/3146520/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/library_600x900.jpg); similitud 1.
+- **Who's Your Daddy?**: [Who's Your Daddy?!](https://store.steampowered.com/app/427730/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427730/library_600x900.jpg); similitud 1.
+- **WipEout**: [Nuclear Wipeout](https://store.steampowered.com/app/677260/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/677260/capsule_231x87.jpg?t=1590399731); similitud 0.67.
+- **Witch's Heart**: [Tale of Witch's Heart](https://store.steampowered.com/app/1973890/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973890/capsule_231x87.jpg?t=1675433931); similitud 0.86.
+- **xrick**: [RetroArch - XRick](https://store.steampowered.com/app/1227465/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227465/capsule_231x87.jpg?t=1678467158); similitud 0.67.
+- **Your Only Move is Hustle**: [Your Only Move Is HUSTLE](https://store.steampowered.com/app/2212330/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2212330/capsule_231x87.jpg?t=1702425086); similitud 1.
+- **Yume Nikki**: [Yume Nikki](https://store.steampowered.com/app/650700/) — [imagen](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650700/capsule_231x87.jpg?t=1779843132); similitud 1.

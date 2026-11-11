@@ -1,0 +1,6 @@
+const fs = require('fs');
+const lines = fs.readFileSync('index.html', 'utf8').split('\n');
+
+for (let i = 1910; i < 1960; i++) {
+  console.log(`${i + 1}: ${lines[i]}`);
+}

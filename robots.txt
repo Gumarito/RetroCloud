@@ -1,0 +1,7 @@
+# RetroCloud Robots.txt
+# https://gumarito.github.io/RetroCloud/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://gumarito.github.io/RetroCloud/sitemap.xml

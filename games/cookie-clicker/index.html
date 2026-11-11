@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <title>Cookie Clicker</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <base href="https://ozh.github.io/cookieclicker/">
+    <link href="style.css?v=2.058" rel="stylesheet" type="text/css">
+    <style>
+        /* Ocultar cualquier cartel de comprobación de dominio */
+        #offGameMessage {
+            display: none !important;
+            visibility: hidden !important;
+            opacity: 0 !important;
+            pointer-events: none !important;
+        }
+        /* Ajustar al 100% de la ventana */
+        html, body {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            background-color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="topBar">
+            <div><b>Cookie Clicker</b>™ &copy; <a href="//orteil.dashnet.org" target="_blank" id="topbarOrteil">Orteil</a>, 2023 - <a href="//dashnet.org" target="_blank" id="topbarDashnet">DashNet</a></div>
+            <div><a href="https://twitter.com/orteil42" target="_blank" id="topbarTwitter">twitter</a></div>
+            <div><a href="https://orteil42.tumblr.com" target="_blank" id="topbarTumblr">tumblr</a></div>
+            <div style="position:relative;"><div style="width:22px;height:32px;background:url(img/discord.png);position:absolute;left:0px;top:0px;pointer-events:none;"></div><a href="https://discordapp.com/invite/cookie" target="_blank" style="padding-left:16px;" id="topbarDiscord">Discord</a></div>
+            <div style="position:relative;"><div style="width:25px;height:32px;background:url(img/weeHoodie.png);position:absolute;left:-2px;top:0px;pointer-events:none;"></div><a class="orange" href="https://www.redbubble.com/people/dashnet" target="_blank" style="padding-left:16px;" id="topbarMerch">Merch!</a></div>
+            <div style="position:relative;"><div style="width:22px;height:32px;background:url(img/patreon.png);position:absolute;left:-1px;top:0px;pointer-events:none;"></div><a class="orange" href="https://www.patreon.com/dashnet" target="_blank" style="padding-left:16px;" id="topbarPatreon">Patreon</a></div>
+            <div style="position:relative;display:none;font-weight:bold;" id="heralds"><div style="width:21px;height:32px;background:url(img/heraldFlag.png);position:absolute;left:0px;top:0px;pointer-events:none;"></div><div style="padding-left:16px;"><span id="heraldsAmount">0</span> heralds</div></div>
+            <div><a class="lightblue" style="font-weight:bold;" href="https://play.google.com/store/apps/details?id=org.dashnet.cookieclicker" target="_blank" id="topbarMobileCC">Cookie Clicker for Android</a></div>
+            <div><a class="lightblue" style="font-weight:bold;" href="https://store.steampowered.com/app/1454400/Cookie_Clicker/" target="_blank" id="topbarSteamCC">Cookie Clicker on Steam</a></div>
+            <div><a href="//orteil.dashnet.org/randomgen/" target="_blank" id="topbarRandomgen">RandomGen</a></div>
+            <div><a href="//orteil.dashnet.org/igm/" target="_blank" id="topbarIGM">Idle Game Maker</a></div>
+            <div id="links" class="hoverer">
+                Other versions
+                <div class="hoverable">
+                    <a href="../" target="_blank" id="linkVersionOld">Current</a>
+                    <a href="./" target="_blank" id="linkVersionLive">v. 2.052</a>
+                    <a href="//orteil.dashnet.org/cookieclicker/beta" target="_blank" id="linkVersionBeta">Try the beta!</a>
+                    <a href="//orteil.dashnet.org/cookieclicker/v10466" target="_blank" id="linkVersion10466">v. 1.0466</a>
+                    <a href="//orteil.dashnet.org/cookieclicker/classic" target="_blank" id="linkVersionClassic">Classic</a>
+                </div>
+            </div>
+        </div>
+
+        <div id="game">
+            <div id="javascriptError">
+                <div id="loader">
+                    <div class="spin"></div>
+                    <div class="filling"></div>
+                    <div class="glow"></div>
+                </div>
+                <div id="loading" class="title">Loading...</div>
+            </div>
+        </div>
+        <div id="offGameMessage"></div>
+    </div>
+
+    <script>
+        // Variables globales requeridas por el motor de Cookie Clicker
+        var App = 0;
+        var LOCAL = 1;
+        var PRESETMODS = [];
+        
+        // Supresión proactiva de comprobación de dominio en tiempo de ejecución
+        window.addEventListener('DOMContentLoaded', function() {
+            var off = document.getElementById('offGameMessage');
+            if (off) {
+                off.style.display = 'none';
+                new MutationObserver(function() {
+                    off.style.display = 'none';
+                    off.innerHTML = '';
+                }).observe(off, { childList: true, attributes: true, subtree: true });
+            }
+        });
+    </script>
+    <script src="base64.js"></script>
+    <script src="main.js?v=13g"></script>
+</body>
+</html>

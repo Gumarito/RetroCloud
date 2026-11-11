@@ -1,0 +1,912 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RetroCloud - Panel de Métricas & Analítica</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📊</text></svg>">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .font-mono { font-family: 'JetBrains Mono', monospace; }
+
+        /* MODO CLARO RETRO VINTAGE */
+        html.theme-light, html.theme-light body {
+            background-color: #F7F5EE !important;
+            color: #1C1917 !important;
+        }
+        html.theme-light header {
+            background-color: rgba(247, 245, 238, 0.96) !important;
+            border-color: #E7E2DA !important;
+        }
+        html.theme-light .text-white { color: #1C1917 !important; }
+        html.theme-light .text-gray-100,
+        html.theme-light .text-gray-200,
+        html.theme-light .text-gray-300 { color: #292524 !important; }
+        html.theme-light .text-gray-400,
+        html.theme-light .text-gray-500 { color: #78716C !important; }
+        html.theme-light .bg-gray-950 { background-color: #F7F5EE !important; }
+        html.theme-light .bg-gray-900 { background-color: #FFFFFF !important; border-color: #E7E2DA !important; }
+        html.theme-light .bg-gray-800 { background-color: #EFECE4 !important; border-color: #DCD6CA !important; color: #1C1917 !important; }
+        html.theme-light .card-stat { background-color: #FFFFFF !important; border-color: #E7E2DA !important; box-shadow: 0 1px 4px rgba(0,0,0,0.04) !important; }
+        html.theme-light table { background-color: #FFFFFF !important; border-color: #E7E2DA !important; }
+        html.theme-light th { background-color: #F4F0E6 !important; color: #44403C !important; border-color: #E7E2DA !important; }
+        html.theme-light td { border-color: #EFECE4 !important; }
+        html.theme-light tr:hover td { background-color: #FAFAF7 !important; }
+        html.theme-light input, html.theme-light select { background-color: #FFFFFF !important; border-color: #E7E2DA !important; color: #1C1917 !important; }
+
+        /* Supresión de scrollbars */
+        ::-webkit-scrollbar { display: none; }
+        * { -ms-overflow-style: none; scrollbar-width: none; }
+    </style>
+    <script>
+        // Auto-detección de tema según preferencia previa o sistema
+        (function() {
+            try {
+                const saved = localStorage.getItem('retrocloud_theme');
+                let isLight = false;
+                if (saved) isLight = saved === 'light';
+                else if (window.matchMedia) isLight = window.matchMedia('(prefers-color-scheme: light)').matches;
+                if (isLight) document.documentElement.classList.add('theme-light');
+            } catch(e) {}
+        })();
+    </script>
+</head>
+<body class="bg-gray-950 text-gray-100 min-h-screen flex flex-col justify-between">
+    <!-- Barra Superior -->
+    <header class="border-b border-gray-800 bg-gray-900/70 backdrop-blur sticky top-0 z-40">
+        <div class="max-w-7xl mx-auto px-4 py-3.5 flex justify-between items-center">
+            <div class="flex items-center gap-3">
+                <a href="./index.html" class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-gray-700 bg-gray-800 hover:bg-gray-700 text-xs font-semibold text-gray-200 transition">
+                    <span>←</span> <span>Volver a RetroCloud</span>
+                </a>
+                <div class="h-4 w-px bg-gray-700 hidden sm:block"></div>
+                <div class="flex items-center gap-2">
+                    <span class="text-xl">📊</span>
+                    <h1 class="text-sm sm:text-base font-bold text-white tracking-wide">Panel de Métricas & Analítica</h1>
+                    <span class="text-[10px] px-2 py-0.5 rounded-full font-bold bg-indigo-900/60 text-indigo-300 border border-indigo-700/50">PRO</span>
+                </div>
+            </div>
+            <div class="flex items-center gap-2">
+                <button id="themeToggleBtn" type="button" onclick="toggleTheme()" class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-gray-700 bg-gray-800 text-xs font-semibold text-gray-200 hover:border-gray-500 hover:text-white transition cursor-pointer">
+                    <span id="themeToggleIcon">☀️</span>
+                    <span id="themeToggleText" class="hidden sm:inline">Claro</span>
+                </button>
+                <button type="button" onclick="refreshDashboard()" class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-indigo-600 hover:bg-indigo-500 text-xs font-semibold text-white transition shadow-sm cursor-pointer">
+                    <span>🔄</span> <span>Actualizar</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-4 py-6 flex-grow w-full">
+        <!-- Banner Informativo Host vs Base de Datos -->
+        <div class="mb-6 p-4 rounded-xl border border-indigo-500/30 bg-indigo-950/20 flex flex-col md:flex-row md:items-center justify-between gap-3 text-xs">
+            <div class="flex items-start gap-3">
+                <span class="text-2xl shrink-0">💡</span>
+                <div>
+                    <strong class="text-indigo-200 font-bold block text-sm mb-0.5">¿Por qué el hosting no proporciona estas estadísticas?</strong>
+                    <p class="text-gray-300 leading-relaxed">
+                        Los servicios de hosting web (como Vercel, Netlify o GitHub Pages) solo miden peticiones de red brutas. <strong>No pueden saber qué juego abrió el usuario, cuántos minutos jugó, ni cuándo dio dislike</strong>. Este panel calcula los datos en tiempo real y puede sincronizarse automáticamente con una base de datos gratuita en Supabase.
+                    </p>
+                </div>
+            </div>
+            <button type="button" onclick="switchTab('db')" class="shrink-0 px-3 py-2 rounded-lg bg-indigo-600/30 hover:bg-indigo-600/50 border border-indigo-400/40 text-indigo-200 font-semibold transition cursor-pointer">
+                ⚙️ Configurar Base de Datos
+            </button>
+        </div>
+
+        <!-- KPI Cards -->
+        <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 mb-6">
+            <!-- Partidas Totales -->
+            <div class="card-stat p-4 rounded-xl bg-gray-900 border border-gray-800 shadow-sm flex flex-col justify-between">
+                <div class="flex items-center justify-between mb-2">
+                    <span class="text-xs font-semibold text-gray-400 uppercase tracking-wider">Partidas Totales</span>
+                    <span class="w-8 h-8 rounded-lg bg-indigo-600/20 text-indigo-400 flex items-center justify-center text-sm font-bold">🎮</span>
+                </div>
+                <div>
+                    <div id="statTotalPlays" class="text-2xl sm:text-3xl font-extrabold text-white font-mono">0</div>
+                    <span class="text-[11px] text-gray-500">Sesiones iniciadas</span>
+                </div>
+            </div>
+
+            <!-- Horas Jugadas -->
+            <div class="card-stat p-4 rounded-xl bg-gray-900 border border-gray-800 shadow-sm flex flex-col justify-between">
+                <div class="flex items-center justify-between mb-2">
+                    <span class="text-xs font-semibold text-gray-400 uppercase tracking-wider">Tiempo de Juego</span>
+                    <span class="w-8 h-8 rounded-lg bg-emerald-600/20 text-emerald-400 flex items-center justify-center text-sm font-bold">⏱️</span>
+                </div>
+                <div>
+                    <div id="statTotalPlaytime" class="text-2xl sm:text-3xl font-extrabold text-emerald-400 font-mono">0m</div>
+                    <span class="text-[11px] text-gray-500">Tiempo total acumulado</span>
+                </div>
+            </div>
+
+            <!-- Duración Media por Partida -->
+            <div class="card-stat p-4 rounded-xl bg-gray-900 border border-gray-800 shadow-sm flex flex-col justify-between">
+                <div class="flex items-center justify-between mb-2">
+                    <span class="text-xs font-semibold text-gray-400 uppercase tracking-wider">Duración Media</span>
+                    <span class="w-8 h-8 rounded-lg bg-amber-600/20 text-amber-400 flex items-center justify-center text-sm font-bold">⏳</span>
+                </div>
+                <div>
+                    <div id="statAvgDuration" class="text-2xl sm:text-3xl font-extrabold text-amber-300 font-mono">0.0 min</div>
+                    <span class="text-[11px] text-gray-500">Retención por partida</span>
+                </div>
+            </div>
+
+            <!-- Ratio de Votos -->
+            <div class="card-stat p-4 rounded-xl bg-gray-900 border border-gray-800 shadow-sm flex flex-col justify-between">
+                <div class="flex items-center justify-between mb-2">
+                    <span class="text-xs font-semibold text-gray-400 uppercase tracking-wider">Aprobación</span>
+                    <span class="w-8 h-8 rounded-lg bg-purple-600/20 text-purple-400 flex items-center justify-center text-sm font-bold">👍</span>
+                </div>
+                <div>
+                    <div id="statApprovalRatio" class="text-2xl sm:text-3xl font-extrabold text-purple-300 font-mono">100%</div>
+                    <span id="statVoteBreakdown" class="text-[11px] text-gray-400">0 Likes · 0 Dislikes</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Pestañas de Navegación del Panel -->
+        <div class="flex items-center justify-between border-b border-gray-800 mb-6 flex-wrap gap-2">
+            <div class="flex items-center gap-1 sm:gap-2">
+                <button type="button" id="tabBtnGames" onclick="switchTab('games')" class="px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-indigo-500 text-indigo-400 transition cursor-pointer">
+                    🏆 Juegos Más Jugados & Engagement
+                </button>
+                <button type="button" id="tabBtnHistory" onclick="switchTab('history')" class="px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-transparent text-gray-400 hover:text-gray-200 transition cursor-pointer">
+                    📈 Histórico en el Tiempo (Votos & Sesiones)
+                </button>
+                <button type="button" id="tabBtnDb" onclick="switchTab('db')" class="px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-transparent text-gray-400 hover:text-gray-200 transition cursor-pointer">
+                    ⚡ Supabase (Postgres)
+                </button>
+                <button type="button" id="tabBtnReports" onclick="switchTab('reports')" class="px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-transparent text-gray-400 hover:text-gray-200 transition cursor-pointer flex items-center gap-1.5">
+                    <span>🚨 Servidores Reportados</span>
+                    <span id="reportsCountBadge" class="text-[10px] bg-rose-500/20 text-rose-300 border border-rose-500/40 px-1.5 py-0.2 rounded-full font-bold">0</span>
+                </button>
+                <button type="button" id="tabBtnQuarantine" onclick="switchTab('quarantine')" class="px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-transparent text-gray-400 hover:text-gray-200 transition cursor-pointer flex items-center gap-1.5">
+                    <span>🛡️ En Cuarentena</span>
+                    <span id="quarantineCountBadge" class="text-[10px] bg-amber-500/20 text-amber-300 border border-amber-500/40 px-1.5 py-0.2 rounded-full font-bold">0</span>
+                </button>
+            </div>
+            <div class="flex items-center gap-2 pb-2">
+                <button type="button" onclick="exportDataToCSV()" class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-gray-700 bg-gray-800 hover:bg-gray-700 text-xs font-semibold text-gray-200 transition cursor-pointer" title="Exportar métricas a archivo CSV para Excel o Google Sheets">
+                    <span>📥</span> <span>Exportar a CSV</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- ==================== VISTA 1: TABLA DE JUEGOS ==================== -->
+        <section id="viewGames" class="space-y-4">
+            <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+                <div class="relative flex-1 max-w-md">
+                    <input type="search" id="gameSearchInput" placeholder="Buscar juego por título o categoría..." oninput="filterGamesTable()" class="w-full bg-gray-900 border border-gray-800 rounded-lg pl-9 pr-4 py-2 text-xs text-gray-200 focus:outline-none focus:border-indigo-500">
+                    <span class="absolute left-3 top-1/2 -translate-y-1/2 text-gray-500 text-xs">🔍</span>
+                </div>
+                <div class="flex items-center gap-2">
+                    <label for="sortBySelect" class="text-xs text-gray-400 font-medium">Ordenar por:</label>
+                    <select id="sortBySelect" onchange="renderGamesTable()" class="bg-gray-900 border border-gray-800 rounded-lg px-2.5 py-1.5 text-xs text-gray-200 focus:outline-none">
+                        <option value="plays">🔥 Más Jugados</option>
+                        <option value="playtime">⏱️ Mayor Tiempo de Juego</option>
+                        <option value="avg">⏳ Mayor Duración Media</option>
+                        <option value="likes">▲ Más Likes</option>
+                        <option value="dislikes">▼ Más Dislikes (Privados)</option>
+                        <option value="ratio">⭐ Mejor Aprobación %</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="rounded-xl border border-gray-800 overflow-hidden bg-gray-900/60 shadow-sm">
+                <div class="overflow-x-auto">
+                    <table class="w-full text-left text-xs">
+                        <thead class="bg-gray-900/90 border-b border-gray-800 text-gray-400 font-semibold uppercase tracking-wider text-[10px]">
+                            <tr>
+                                <th class="py-3 px-3 w-12 text-center">#</th>
+                                <th class="py-3 px-4">Juego</th>
+                                <th class="py-3 px-3">Categoría</th>
+                                <th class="py-3 px-3 text-right">Partidas</th>
+                                <th class="py-3 px-3 text-right">Tiempo Total</th>
+                                <th class="py-3 px-3 text-right">Duración Media</th>
+                                <th class="py-3 px-3 text-right text-emerald-400">Likes Reales ▲</th>
+                                <th class="py-3 px-3 text-right text-rose-400">Dislikes Reales ▼ <span class="text-[9px] bg-rose-950/60 px-1 py-0.5 rounded border border-rose-800/40">🔒 Privado</span></th>
+                                <th class="py-3 px-3 text-right">Ratio %</th>
+                            </tr>
+                        </thead>
+                        <tbody id="gamesTableBody" class="divide-y divide-gray-800/60 font-medium text-gray-300">
+                            <!-- Inyectado dinámicamente -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ==================== VISTA 2: HISTORIAL EN EL TIEMPO ==================== -->
+        <section id="viewHistory" class="hidden space-y-4">
+            <div class="flex items-center justify-between">
+                <div>
+                    <h2 class="text-sm font-bold text-white">Registro Cronológico de Actividad</h2>
+                    <p class="text-xs text-gray-400">Evolución de votos (likes y dislikes) y partidas en el lapso del tiempo.</p>
+                </div>
+                <button type="button" onclick="clearLocalHistory()" class="text-xs text-rose-400 hover:text-rose-300 underline">
+                    Limpiar registros locales
+                </button>
+            </div>
+
+            <div class="rounded-xl border border-gray-800 overflow-hidden bg-gray-900/60 shadow-sm">
+                <div class="overflow-x-auto">
+                    <table class="w-full text-left text-xs">
+                        <thead class="bg-gray-900/90 border-b border-gray-800 text-gray-400 font-semibold uppercase tracking-wider text-[10px]">
+                            <tr>
+                                <th class="py-3 px-4">Fecha y Hora</th>
+                                <th class="py-3 px-4">Juego</th>
+                                <th class="py-3 px-3">Tipo de Evento</th>
+                                <th class="py-3 px-4">Detalle / Duración</th>
+                            </tr>
+                        </thead>
+                        <tbody id="historyTableBody" class="divide-y divide-gray-800/60 font-medium text-gray-300">
+                            <!-- Inyectado dinámicamente -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ==================== VISTA 4: REPORTES DE SERVIDORES CAÍDOS ==================== -->
+        <section id="viewReports" class="hidden space-y-4">
+            <div class="flex items-center justify-between">
+                <div>
+                    <h2 class="text-sm font-bold text-white flex items-center gap-2">
+                        <span>🚨 Servidores y Juegos Reportados por Usuarios</span>
+                    </h2>
+                    <p class="text-xs text-gray-400">Revisa de inmediato qué juegos o servidores han fallado según los reportes de los jugadores.</p>
+                </div>
+                <button type="button" onclick="clearAllReports()" class="text-xs text-rose-400 hover:text-rose-300 underline">
+                    Limpiar todos los reportes
+                </button>
+            </div>
+
+            <div class="rounded-xl border border-gray-800 overflow-hidden bg-gray-900/60 shadow-sm">
+                <div class="overflow-x-auto">
+                    <table class="w-full text-left text-xs">
+                        <thead class="bg-gray-900/90 border-b border-gray-800 text-gray-400 font-semibold uppercase tracking-wider text-[10px]">
+                            <tr>
+                                <th class="py-3 px-4">Fecha y Hora</th>
+                                <th class="py-3 px-4">Juego Afectado</th>
+                                <th class="py-3 px-4">Enlace / Servidor Caído</th>
+                                <th class="py-3 px-3">Estado</th>
+                                <th class="py-3 px-4 text-right">Acción</th>
+                            </tr>
+                        </thead>
+                        <tbody id="reportsTableBody" class="divide-y divide-gray-800/60 font-medium text-gray-300">
+                            <!-- Inyectado dinámicamente -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ==================== VISTA 5: JUEGOS EN CUARENTENA / PENDIENTES ==================== -->
+        <section id="viewQuarantine" class="hidden space-y-4">
+            <div class="flex items-center justify-between">
+                <div>
+                    <h2 class="text-sm font-bold text-white flex items-center gap-2">
+                        <span>🛡️ Juegos en Cuarentena / Pendientes de Reparación</span>
+                        <span id="quarantineCountBadgeHeader" class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-amber-500/20 text-amber-400 border border-amber-500/30">0</span>
+                    </h2>
+                    <p class="text-xs text-gray-400">Juegos retirados del catálogo público por contener portales ajenos con anuncios (gn-math.dev), archivos caídos o requerir descargas pesadas.</p>
+                </div>
+            </div>
+
+            <div class="rounded-xl border border-gray-800 overflow-hidden bg-gray-900/60 shadow-sm">
+                <div class="overflow-x-auto">
+                    <table class="w-full text-left text-xs">
+                        <thead class="bg-gray-900/90 border-b border-gray-800 text-gray-400 font-semibold uppercase tracking-wider text-[10px]">
+                            <tr>
+                                <th class="py-3 px-4">Juego</th>
+                                <th class="py-3 px-4">Categoría</th>
+                                <th class="py-3 px-4">Motivo de Cuarentena</th>
+                                <th class="py-3 px-4">URL / Servidor Afectado</th>
+                            </tr>
+                        </thead>
+                        <tbody id="quarantineTableBody" class="divide-y divide-gray-800/60 font-medium text-gray-300">
+                            <!-- Inyectado dinámicamente -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- ==================== VISTA 3: BASE DE DATOS SUPABASE ==================== -->
+        <section id="viewDb" class="hidden space-y-6 max-w-4xl">
+            <div class="rounded-xl border border-gray-800 bg-gray-900 p-5 space-y-4">
+                <div class="flex items-center gap-2">
+                    <span class="text-2xl">⚡</span>
+                    <div>
+                        <h2 class="text-base font-bold text-white">Conexión con Supabase (Postgres Serverless)</h2>
+                        <p class="text-xs text-gray-400">Guarda todas las analíticas, votos y partidas en la nube de forma persistente y gratuita.</p>
+                    </div>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
+                    <div>
+                        <label for="inputSupabaseUrl" class="block text-xs font-semibold text-gray-300 mb-1">Project URL de Supabase:</label>
+                        <input type="url" id="inputSupabaseUrl" placeholder="https://xxxxxxxx.supabase.co" class="w-full bg-gray-950 border border-gray-800 rounded-lg px-3 py-2 text-xs text-gray-200 focus:outline-none focus:border-indigo-500 font-mono">
+                    </div>
+                    <div>
+                        <label for="inputSupabaseKey" class="block text-xs font-semibold text-gray-300 mb-1">Anon Public API Key:</label>
+                        <input type="text" id="inputSupabaseKey" placeholder="eyJhbGciOiJIUzI1NiIsInR5cCI6Ik..." class="w-full bg-gray-950 border border-gray-800 rounded-lg px-3 py-2 text-xs text-gray-200 focus:outline-none focus:border-indigo-500 font-mono">
+                    </div>
+                </div>
+
+                <div class="flex items-center justify-between pt-2">
+                    <span id="dbConnectionStatus" class="text-xs font-medium text-gray-400">Estado: Modo Local (Sin credenciales remotas)</span>
+                    <button type="button" onclick="saveSupabaseConfig()" class="px-4 py-2 rounded-lg bg-emerald-600 hover:bg-emerald-500 font-semibold text-white text-xs transition cursor-pointer">
+                        💾 Guardar Conexión
+                    </button>
+                </div>
+            </div>
+
+            <!-- SQL Script para Crear Tablas en Supabase -->
+            <div class="rounded-xl border border-gray-800 bg-gray-900 p-5 space-y-3">
+                <div class="flex items-center justify-between">
+                    <div>
+                        <h3 class="text-sm font-bold text-white">Script SQL para Inicializar Supabase</h3>
+                        <p class="text-xs text-gray-400">Copia este código y pégalo en el <em>SQL Editor</em> de tu proyecto en Supabase:</p>
+                    </div>
+                    <button type="button" onclick="copySqlScript()" id="copySqlBtn" class="px-3 py-1.5 rounded-lg border border-gray-700 bg-gray-800 hover:bg-gray-700 text-xs font-semibold text-indigo-300 transition cursor-pointer">
+                        📋 Copiar Script SQL
+                    </button>
+                </div>
+                <pre class="bg-gray-950 p-4 rounded-lg border border-gray-800 text-[11px] font-mono text-indigo-200 overflow-x-auto leading-relaxed max-h-60" id="sqlCodeBlock">
+-- ========================================================================
+-- RETROCLOUD: MASTER PRODUCTION DATABASE SCHEMA (SUPABASE / POSTGRESQL)
+-- Versión: 2.0 (Analítica, Métricas de Tiempo, Votos y Cloud Save Pro)
+-- ========================================================================
+
+-- 1. EXTENSIONES REQUERIDAS
+CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+CREATE EXTENSION IF NOT EXISTS "pgcrypto";
+
+-- ========================================================================
+-- 2. TABLA DE EVENTOS DE JUEGO (TELEMETRÍA, SESIONES Y VOTOS EN EL TIEMPO)
+-- ========================================================================
+CREATE TABLE IF NOT EXISTS public.game_events (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    event_type TEXT NOT NULL CHECK (event_type IN ('game_start', 'game_session', 'vote', 'cloud_save')),
+    payload JSONB NOT NULL DEFAULT '{}'::jsonb,
+    user_fingerprint TEXT,
+    created_at TIMESTAMPTZ DEFAULT TIMEZONE('utc', NOW())
+);
+
+-- Índices para consultas ultra-rápidas en el Dashboard de Analítica
+CREATE INDEX IF NOT EXISTS idx_game_events_type ON public.game_events(event_type);
+CREATE INDEX IF NOT EXISTS idx_game_events_created_at ON public.game_events(created_at DESC);
+CREATE INDEX IF NOT EXISTS idx_game_events_game_id ON public.game_events((payload->>'gameId'));
+
+-- ========================================================================
+-- 3. TABLA DE GUARDADOS EN LA NUBE (RETROCLOUD CLOUD SAVE PRO)
+-- ========================================================================
+CREATE TABLE IF NOT EXISTS public.user_cloud_saves (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    user_id UUID REFERENCES auth.users(id) ON DELETE CASCADE,
+    game_id TEXT NOT NULL,
+    game_title TEXT NOT NULL,
+    file_name TEXT NOT NULL,
+    file_size_bytes INTEGER NOT NULL,
+    save_data TEXT NOT NULL, -- Datos de partida codificados en Base64 / JSON
+    is_pro_member BOOLEAN DEFAULT true,
+    slot_number INTEGER DEFAULT 1,
+    created_at TIMESTAMPTZ DEFAULT TIMEZONE('utc', NOW()),
+    updated_at TIMESTAMPTZ DEFAULT TIMEZONE('utc', NOW()),
+    CONSTRAINT uq_user_game_slot UNIQUE(user_id, game_id, slot_number)
+);
+
+CREATE INDEX IF NOT EXISTS idx_cloud_saves_user ON public.user_cloud_saves(user_id);
+CREATE INDEX IF NOT EXISTS idx_cloud_saves_game ON public.user_cloud_saves(game_id);
+
+-- ========================================================================
+-- 4. TABLA DE AGREGADOS DE JUEGOS (TOTALES DE VOTOS Y PARTIDAS EN VIVO)
+-- ========================================================================
+CREATE TABLE IF NOT EXISTS public.game_stats (
+    game_id TEXT PRIMARY KEY,
+    title TEXT NOT NULL,
+    total_plays BIGINT DEFAULT 0,
+    total_playtime_seconds BIGINT DEFAULT 0,
+    likes BIGINT DEFAULT 0,
+    dislikes BIGINT DEFAULT 0,
+    last_played_at TIMESTAMPTZ,
+    updated_at TIMESTAMPTZ DEFAULT TIMEZONE('utc', NOW())
+);
+
+-- ========================================================================
+-- 5. VISTAS SQL PARA EL PANEL DE MÉTRICAS (/admin)
+-- ========================================================================
+
+-- Vista A: Resumen de Juegos (Más jugados, Duración media, Ratio de Aprobación)
+CREATE OR REPLACE VIEW public.v_game_performance AS
+SELECT 
+    payload->>'gameId' AS game_id,
+    COUNT(*) FILTER (WHERE event_type = 'game_start') AS total_starts,
+    COUNT(*) FILTER (WHERE event_type = 'game_session') AS total_sessions,
+    COALESCE(SUM((payload->>'durationSeconds')::numeric) FILTER (WHERE event_type = 'game_session'), 0) AS total_seconds_played,
+    COALESCE(AVG((payload->>'durationSeconds')::numeric) FILTER (WHERE event_type = 'game_session'), 0) AS avg_session_seconds,
+    COUNT(*) FILTER (WHERE event_type = 'vote' AND payload->>'type' = 'like' AND payload->>'action' = 'voted') AS likes_count,
+    COUNT(*) FILTER (WHERE event_type = 'vote' AND payload->>'type' = 'dislike' AND payload->>'action' = 'voted') AS dislikes_count,
+    MAX(created_at) AS last_activity_at
+FROM public.game_events
+GROUP BY payload->>'gameId';
+
+-- Vista B: Evolución Cronológica de Likes y Dislikes en el Tiempo (Agrupados por Día)
+CREATE OR REPLACE VIEW public.v_votes_timeline AS
+SELECT 
+    DATE_TRUNC('day', created_at) AS vote_date,
+    payload->>'gameId' AS game_id,
+    COUNT(*) FILTER (WHERE payload->>'type' = 'like' AND payload->>'action' = 'voted') AS daily_likes,
+    COUNT(*) FILTER (WHERE payload->>'type' = 'dislike' AND payload->>'action' = 'voted') AS daily_dislikes
+FROM public.game_events
+WHERE event_type = 'vote'
+GROUP BY DATE_TRUNC('day', created_at), payload->>'gameId'
+ORDER BY vote_date DESC;
+
+-- ========================================================================
+-- 6. POLÍTICAS DE SEGURIDAD (ROW LEVEL SECURITY - RLS)
+-- ========================================================================
+ALTER TABLE public.game_events ENABLE ROW LEVEL SECURITY;
+ALTER TABLE public.user_cloud_saves ENABLE ROW LEVEL SECURITY;
+ALTER TABLE public.game_stats ENABLE ROW LEVEL SECURITY;
+
+-- Telemetría: Los usuarios anónimos pueden registrar eventos (insert-only)
+CREATE POLICY "Anon insert events" ON public.game_events
+    FOR INSERT TO anon, authenticated
+    WITH CHECK (true);
+
+-- Solo el administrador o consultas autenticadas pueden leer telemetría completa
+CREATE POLICY "Admin read events" ON public.game_events
+    FOR SELECT TO authenticated
+    USING (auth.jwt()->>'role' = 'service_role' OR auth.jwt()->>'email' IS NOT NULL);
+
+-- Cloud Saves: Cada usuario solo accede y modifica sus propias partidas
+CREATE POLICY "Users manage own cloud saves" ON public.user_cloud_saves
+    FOR ALL TO authenticated
+    USING (auth.uid() = user_id)
+    WITH CHECK (auth.uid() = user_id);
+
+-- Game Stats: Lectura pública para mostrar contadores en la web
+CREATE POLICY "Public read stats" ON public.game_stats
+    FOR SELECT TO anon, authenticated
+    USING (true);
+
+</pre>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="border-t border-gray-800 bg-gray-900/60 py-4 text-center text-xs text-gray-500">
+        <p>RetroCloud Analytics Engine v1.0 · Datos actualizados en tiempo real desde el cliente y la base de datos.</p>
+    </footer>
+
+    <script>
+        let catalog = [];
+        let analytics = { games: {}, sessions: [], voteHistory: [] };
+
+        async function initDashboard() {
+            try {
+                const res = await fetch('games.json');
+                catalog = await res.json();
+            } catch(e) {
+                console.error('Error cargando games.json', e);
+            }
+            loadLocalAnalytics();
+            loadSupabaseConfig();
+            refreshDashboard();
+        }
+
+        function loadLocalAnalytics() {
+            try {
+                const raw = localStorage.getItem('retrocloud_analytics_v1');
+                if (raw) analytics = JSON.parse(raw);
+            } catch(e) {
+                analytics = { games: {}, sessions: [], voteHistory: [] };
+            }
+        }
+
+        function refreshDashboard() {
+            loadLocalAnalytics();
+            renderKPIs();
+            renderGamesTable();
+            renderHistoryTable();
+            renderReportsTable();
+        }
+
+        function renderKPIs() {
+            const deltas = JSON.parse(localStorage.getItem('retrocloud_vote_deltas') || '{}');
+            let totalPlays = 0;
+            let totalPlaytimeSec = 0;
+            let totalLikes = 0;
+            let totalDislikes = 0;
+
+            catalog.forEach(g => {
+                const id = String(g.id);
+                const gData = analytics.games[id] || { plays: 0, playtimeSeconds: 0 };
+                const d = deltas[id] || { likes: 0, dislikes: 0 };
+
+                const plays = (gData.plays || 0);
+                const playtime = (gData.playtimeSeconds || 0);
+                const likes = Math.max(0, (d.likes || 0));
+                const dislikes = Math.max(0, (d.dislikes || 0));
+
+                totalPlays += plays;
+                totalPlaytimeSec += playtime;
+                totalLikes += likes;
+                totalDislikes += dislikes;
+            });
+
+            document.getElementById('statTotalPlays').textContent = totalPlays.toLocaleString();
+            
+            // Formato tiempo total
+            const hours = Math.floor(totalPlaytimeSec / 3600);
+            const mins = Math.floor((totalPlaytimeSec % 3600) / 60);
+            document.getElementById('statTotalPlaytime').textContent = hours > 0 ? `${hours}h ${mins}m` : `${mins}m`;
+
+            // Duración media por partida
+            const avgMins = totalPlays > 0 ? (totalPlaytimeSec / totalPlays / 60).toFixed(1) : '0.0';
+            document.getElementById('statAvgDuration').textContent = `${avgMins} min`;
+
+            // Ratio de aprobación
+            const totalVotes = totalLikes + totalDislikes;
+            const ratio = totalVotes > 0 ? ((totalLikes / totalVotes) * 100).toFixed(1) : '100.0';
+            document.getElementById('statApprovalRatio').textContent = `${ratio}%`;
+            document.getElementById('statVoteBreakdown').textContent = `${totalLikes.toLocaleString()} Likes · ${totalDislikes.toLocaleString()} Dislikes (Privados)`;
+        }
+
+        function renderGamesTable() {
+            const tbody = document.getElementById('gamesTableBody');
+            const search = (document.getElementById('gameSearchInput').value || '').toLowerCase().trim();
+            const sortBy = document.getElementById('sortBySelect').value;
+            const deltas = JSON.parse(localStorage.getItem('retrocloud_vote_deltas') || '{}');
+
+            const rows = catalog.map(g => {
+                const id = String(g.id);
+                const gData = analytics.games[id] || { plays: 0, playtimeSeconds: 0 };
+                const d = deltas[id] || { likes: 0, dislikes: 0 };
+
+                const plays = (gData.plays || 0);
+                const playtime = (gData.playtimeSeconds || 0);
+                const likes = Math.max(0, (d.likes || 0));
+                const dislikes = Math.max(0, (d.dislikes || 0));
+                const avgSec = plays > 0 ? (playtime / plays) : 0;
+                const totalVotes = likes + dislikes;
+                const ratio = totalVotes > 0 ? (likes / totalVotes) * 100 : 100;
+
+                return {
+                    id: g.id,
+                    title: g.title,
+                    category: g.category || 'Acción',
+                    image: g.image,
+                    plays,
+                    playtime,
+                    avgSec,
+                    likes,
+                    dislikes,
+                    ratio
+                };
+            }).filter(g => {
+                if (!search) return true;
+                return g.title.toLowerCase().includes(search) || g.category.toLowerCase().includes(search);
+            });
+
+            // Ordenamiento
+            rows.sort((a, b) => {
+                if (sortBy === 'plays') return b.plays - a.plays;
+                if (sortBy === 'playtime') return b.playtime - a.playtime;
+                if (sortBy === 'avg') return b.avgSec - a.avgSec;
+                if (sortBy === 'likes') return b.likes - a.likes;
+                if (sortBy === 'dislikes') return b.dislikes - a.dislikes;
+                if (sortBy === 'ratio') return b.ratio - a.ratio;
+                return 0;
+            });
+
+            tbody.innerHTML = rows.map((r, i) => {
+                const hours = Math.floor(r.playtime / 3600);
+                const mins = Math.floor((r.playtime % 3600) / 60);
+                const timeStr = hours > 0 ? `${hours}h ${mins}m` : `${mins}m`;
+                const avgMinStr = (r.avgSec / 60).toFixed(1) + ' min';
+
+                return `
+                    <tr class="hover:bg-gray-800/40 transition">
+                        <td class="py-2.5 px-3 text-center text-gray-500 font-mono text-[11px]">${i + 1}</td>
+                        <td class="py-2.5 px-4 font-semibold text-white flex items-center gap-2.5">
+                            <span class="w-7 h-7 rounded bg-gray-800 shrink-0 overflow-hidden flex items-center justify-center text-xs">
+                                ${r.image ? `<img src="${r.image}" class="w-full h-full object-cover">` : '🎮'}
+                            </span>
+                            <span class="truncate max-w-[200px] sm:max-w-xs">${escapeHtml(r.title)}</span>
+                        </td>
+                        <td class="py-2.5 px-3">
+                            <span class="text-[10px] px-2 py-0.5 rounded-full bg-indigo-950 text-indigo-300 border border-indigo-800/50 uppercase font-semibold">${escapeHtml(r.category)}</span>
+                        </td>
+                        <td class="py-2.5 px-3 text-right font-mono font-bold text-white">${r.plays.toLocaleString()}</td>
+                        <td class="py-2.5 px-3 text-right font-mono text-emerald-400">${timeStr}</td>
+                        <td class="py-2.5 px-3 text-right font-mono text-amber-300">${avgMinStr}</td>
+                        <td class="py-2.5 px-3 text-right font-mono font-bold text-emerald-400">▲ ${r.likes.toLocaleString()}</td>
+                        <td class="py-2.5 px-3 text-right font-mono font-bold text-rose-400">▼ ${r.dislikes.toLocaleString()}</td>
+                        <td class="py-2.5 px-3 text-right font-mono font-bold ${r.ratio >= 90 ? 'text-emerald-400' : 'text-gray-300'}">${r.ratio.toFixed(1)}%</td>
+                    </tr>
+                `;
+            }).join('');
+        }
+
+        function renderHistoryTable() {
+            const tbody = document.getElementById('historyTableBody');
+            const events = [];
+
+            (analytics.voteHistory || []).forEach(v => {
+                events.push({
+                    timestamp: v.timestamp,
+                    gameId: v.gameId,
+                    type: 'voto',
+                    detail: v.type === 'like' ? '👍 Like (+1)' : '👎 Dislike (-1)',
+                    badgeClass: v.type === 'like' ? 'bg-emerald-950 text-emerald-300 border-emerald-800' : 'bg-rose-950 text-rose-300 border-rose-800'
+                });
+            });
+
+            (analytics.sessions || []).forEach(s => {
+                const mins = (s.durationSeconds / 60).toFixed(1);
+                events.push({
+                    timestamp: s.timestamp,
+                    gameId: s.gameId,
+                    type: 'partida',
+                    detail: `⏱️ Partida jugada (${mins} min / ${s.durationSeconds}s)`,
+                    badgeClass: 'bg-indigo-950 text-indigo-300 border-indigo-800'
+                });
+            });
+
+            // Ordenar por fecha descendente
+            events.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+
+            if (events.length === 0) {
+                tbody.innerHTML = `<tr><td colspan="4" class="py-8 text-center text-gray-500">Aún no hay registros de partidas o votos. Los eventos aparecerán aquí automáticamente en tiempo real.</td></tr>`;
+                return;
+            }
+
+            tbody.innerHTML = events.slice(0, 100).map(e => {
+                const game = catalog.find(g => String(g.id) === String(e.gameId));
+                const title = game ? game.title : e.gameId;
+                const dateStr = new Date(e.timestamp).toLocaleString();
+
+                return `
+                    <tr class="hover:bg-gray-800/40 transition">
+                        <td class="py-2.5 px-4 font-mono text-[11px] text-gray-400">${dateStr}</td>
+                        <td class="py-2.5 px-4 font-semibold text-white">${escapeHtml(title)}</td>
+                        <td class="py-2.5 px-3">
+                            <span class="text-[10px] px-2 py-0.5 rounded-full border uppercase font-bold ${e.badgeClass}">${e.type}</span>
+                        </td>
+                        <td class="py-2.5 px-4 text-gray-300">${e.detail}</td>
+                    </tr>
+                `;
+            }).join('');
+        }
+
+        function filterGamesTable() {
+            renderGamesTable();
+        }
+
+        function switchTab(tab) {
+            document.getElementById('viewGames').classList.toggle('hidden', tab !== 'games');
+            document.getElementById('viewHistory').classList.toggle('hidden', tab !== 'history');
+            document.getElementById('viewDb').classList.toggle('hidden', tab !== 'db');
+            const vReports = document.getElementById('viewReports');
+            if (vReports) vReports.classList.toggle('hidden', tab !== 'reports');
+            const vQuarantine = document.getElementById('viewQuarantine');
+            if (vQuarantine) vQuarantine.classList.toggle('hidden', tab !== 'quarantine');
+
+            const btnG = document.getElementById('tabBtnGames');
+            const btnH = document.getElementById('tabBtnHistory');
+            const btnD = document.getElementById('tabBtnDb');
+            const btnR = document.getElementById('tabBtnReports');
+            const btnQ = document.getElementById('tabBtnQuarantine');
+
+            btnG.className = tab === 'games' ? 'px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-indigo-500 text-indigo-400 transition cursor-pointer' : 'px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-transparent text-gray-400 hover:text-gray-200 transition cursor-pointer';
+            btnH.className = tab === 'history' ? 'px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-indigo-500 text-indigo-400 transition cursor-pointer' : 'px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-transparent text-gray-400 hover:text-gray-200 transition cursor-pointer';
+            btnD.className = tab === 'db' ? 'px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-indigo-500 text-indigo-400 transition cursor-pointer' : 'px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-transparent text-gray-400 hover:text-gray-200 transition cursor-pointer';
+            if (btnR) {
+                btnR.className = tab === 'reports' ? 'px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-rose-500 text-rose-400 transition cursor-pointer flex items-center gap-1.5' : 'px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-transparent text-gray-400 hover:text-gray-200 transition cursor-pointer flex items-center gap-1.5';
+            }
+            if (btnQ) {
+                btnQ.className = tab === 'quarantine' ? 'px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-amber-500 text-amber-400 transition cursor-pointer flex items-center gap-1.5' : 'px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-transparent text-gray-400 hover:text-gray-200 transition cursor-pointer flex items-center gap-1.5';
+            }
+            if (tab === 'reports') renderReportsTable();
+            if (tab === 'quarantine') renderQuarantineTable();
+        }
+
+        async function renderQuarantineTable() {
+            try {
+                const res = await fetch('games_pending_repair.json');
+                const list = await res.json();
+                const badge = document.getElementById('quarantineCountBadge');
+                const badgeH = document.getElementById('quarantineCountBadgeHeader');
+                if (badge) badge.innerText = list.length;
+                if (badgeH) badgeH.innerText = list.length;
+
+                const tbody = document.getElementById('quarantineTableBody');
+                if (!tbody) return;
+                tbody.innerHTML = list.map(q => `
+                    <tr class="hover:bg-gray-800/40 transition">
+                        <td class="py-2.5 px-4 font-semibold text-white">
+                            <div class="flex items-center gap-2">
+                                <span class="w-2 h-2 rounded-full bg-amber-400 shrink-0"></span>
+                                <span>${escapeHtml(q.title || q.id)}</span>
+                            </div>
+                        </td>
+                        <td class="py-2.5 px-4 text-gray-400 text-[11px]">${escapeHtml(q.category || 'Varios')}</td>
+                        <td class="py-2.5 px-4 text-amber-300 font-medium text-[11px] max-w-sm">${escapeHtml(q.quarantineReason || 'En revisión técnica')}</td>
+                        <td class="py-2.5 px-4 font-mono text-[10px] text-gray-500 max-w-xs truncate" title="${escapeHtml(q.url || q.file || '')}">${escapeHtml(q.url || q.file || 'N/A')}</td>
+                    </tr>
+                `).join('');
+            } catch(e) {
+                console.error('[RetroCloud Admin] Error al cargar juegos en cuarentena:', e);
+            }
+        }
+
+        function getStoredReports() {
+            try {
+                return JSON.parse(localStorage.getItem('retrocloud_reports') || '[]');
+            } catch(e) {
+                return [];
+            }
+        }
+
+        function renderReportsTable() {
+            const reports = getStoredReports();
+            const badge = document.getElementById('reportsCountBadge');
+            if (badge) badge.innerText = reports.filter(r => r.status === 'pending').length;
+
+            const tbody = document.getElementById('reportsTableBody');
+            if (!tbody) return;
+
+            if (reports.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="5" class="py-8 text-center text-gray-500">🎉 No hay reportes de servidores caídos. Todos los juegos están funcionando al 100%.</td></tr>';
+                return;
+            }
+
+            tbody.innerHTML = reports.map((r, i) => `
+                <tr class="hover:bg-gray-800/40 transition">
+                    <td class="py-2.5 px-4 font-mono text-[11px] text-gray-400">${new Date(r.timestamp).toLocaleString()}</td>
+                    <td class="py-2.5 px-4 font-semibold text-white">${escapeHtml(r.gameTitle)}</td>
+                    <td class="py-2.5 px-4 font-mono text-[11px] text-gray-400 max-w-xs truncate" title="${escapeHtml(r.url)}">${escapeHtml(r.url)}</td>
+                    <td class="py-2.5 px-3">
+                        <span class="text-[10px] px-2 py-0.5 rounded-full font-bold uppercase ${r.status === 'resolved' ? 'bg-emerald-950 text-emerald-300 border border-emerald-800' : 'bg-rose-950 text-rose-300 border border-rose-800'}">
+                            ${r.status === 'resolved' ? '✓ Solucionado' : '🔴 Pendiente'}
+                        </span>
+                    </td>
+                    <td class="py-2.5 px-4 text-right">
+                        ${r.status === 'pending' ? `
+                            <button onclick="resolveReport('${r.id}')" class="px-2.5 py-1 rounded bg-emerald-600 hover:bg-emerald-500 text-white text-[11px] font-semibold transition cursor-pointer mr-1">
+                                Resolver
+                            </button>
+                        ` : ''}
+                        <button onclick="deleteReport('${r.id}')" class="px-2 py-1 rounded bg-gray-800 hover:bg-rose-950 text-gray-400 hover:text-rose-300 text-[11px] transition cursor-pointer">
+                            Eliminar
+                        </button>
+                    </td>
+                </tr>
+            `).join('');
+        }
+
+        function resolveReport(reportId) {
+            const reports = getStoredReports();
+            const found = reports.find(r => r.id === reportId);
+            if (found) found.status = 'resolved';
+            localStorage.setItem('retrocloud_reports', JSON.stringify(reports));
+            renderReportsTable();
+        }
+
+        function deleteReport(reportId) {
+            let reports = getStoredReports();
+            reports = reports.filter(r => r.id !== reportId);
+            localStorage.setItem('retrocloud_reports', JSON.stringify(reports));
+            renderReportsTable();
+        }
+
+        function clearAllReports() {
+            if (confirm('¿Deseas limpiar todos los reportes de servidores?')) {
+                localStorage.removeItem('retrocloud_reports');
+                renderReportsTable();
+            }
+        }
+
+        function exportDataToCSV() {
+            const deltas = JSON.parse(localStorage.getItem('retrocloud_vote_deltas') || '{}');
+            let csv = "ID,Titulo,Categoria,Partidas,Tiempo_Total_Segundos,Duracion_Media_Segundos,Likes,Dislikes_Privados,Ratio_Aprobacion_Porcentaje\n";
+
+            catalog.forEach(g => {
+                const id = String(g.id);
+                const gData = analytics.games[id] || { plays: 0, playtimeSeconds: 0 };
+                const d = deltas[id] || { likes: 0, dislikes: 0 };
+
+                const plays = (gData.plays || 0);
+                const playtime = (gData.playtimeSeconds || 0);
+                const likes = Math.max(0, (d.likes || 0));
+                const dislikes = Math.max(0, (d.dislikes || 0));
+                const avgSec = plays > 0 ? (playtime / plays).toFixed(1) : 0;
+                const totalVotes = likes + dislikes;
+                const ratio = totalVotes > 0 ? ((likes / totalVotes) * 100).toFixed(1) : 100;
+
+                const escapedTitle = `"${(g.title || '').replace(/"/g, '""')}"`;
+                csv += `${g.id},${escapedTitle},${g.category || 'Acción'},${plays},${playtime},${avgSec},${likes},${dislikes},${ratio}\n`;
+            });
+
+            const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `retrocloud_metricas_${new Date().toISOString().split('T')[0]}.csv`;
+            a.click();
+            URL.revokeObjectURL(url);
+        }
+
+        function clearLocalHistory() {
+            if (confirm('¿Deseas reiniciar los registros locales de partidas y votos de prueba?')) {
+                localStorage.removeItem('retrocloud_analytics_v1');
+                analytics = { games: {}, sessions: [], voteHistory: [] };
+                refreshDashboard();
+            }
+        }
+
+        function loadSupabaseConfig() {
+            const url = localStorage.getItem('retrocloud_supabase_url') || '';
+            const key = localStorage.getItem('retrocloud_supabase_key') || '';
+            document.getElementById('inputSupabaseUrl').value = url;
+            document.getElementById('inputSupabaseKey').value = key;
+            if (url && key) {
+                document.getElementById('dbConnectionStatus').textContent = 'Estado: Conexión Remota Configurada';
+                document.getElementById('dbConnectionStatus').classList.add('text-emerald-400');
+            }
+        }
+
+        function saveSupabaseConfig() {
+            const url = document.getElementById('inputSupabaseUrl').value.trim();
+            const key = document.getElementById('inputSupabaseKey').value.trim();
+            localStorage.setItem('retrocloud_supabase_url', url);
+            localStorage.setItem('retrocloud_supabase_key', key);
+            document.getElementById('dbConnectionStatus').textContent = url && key ? 'Estado: Conexión Guardada con Éxito' : 'Estado: Modo Local (Sin credenciales remotas)';
+            document.getElementById('dbConnectionStatus').className = url && key ? 'text-xs font-medium text-emerald-400' : 'text-xs font-medium text-gray-400';
+            alert('¡Configuración de Base de Datos guardada! Los eventos se sincronizarán con Supabase.');
+        }
+
+        function copySqlScript() {
+            const code = document.getElementById('sqlCodeBlock').innerText;
+            navigator.clipboard.writeText(code).then(() => {
+                const btn = document.getElementById('copySqlBtn');
+                btn.textContent = '✅ ¡Copiado!';
+                setTimeout(() => btn.textContent = '📋 Copiar Script SQL', 2000);
+            });
+        }
+
+        function toggleTheme() {
+            const isLight = document.documentElement.classList.toggle('theme-light');
+            localStorage.setItem('retrocloud_theme', isLight ? 'light' : 'dark');
+            const icon = document.getElementById('themeToggleIcon');
+            const text = document.getElementById('themeToggleText');
+            if (icon) icon.textContent = isLight ? '🌙' : '☀️';
+            if (text) text.textContent = isLight ? 'Oscuro' : 'Claro';
+        }
+
+        function escapeHtml(str) {
+            return String(str || '')
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#39;');
+        }
+
+        window.addEventListener('DOMContentLoaded', initDashboard);
+    </script>
+</body>
+</html>

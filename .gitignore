@@ -1,0 +1,16 @@
+# Environment Variables (BLINDAJE TOTAL DE SECRETOS)
+.env
+.env*
+.env.local
+.env.production
+.env.staging
+
+# Backups y temporales locales
+backups/
+*.log
+*.tmp
+*.bak
+
+# Cache del sistema
+.DS_Store
+Thumbs.db

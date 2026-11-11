@@ -1,0 +1,47 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Edit",
+      "Write",
+      "Glob",
+      "Grep",
+      "Bash(git status)",
+      "Bash(git status *)",
+      "Bash(git diff)",
+      "Bash(git diff *)",
+      "Bash(node *)",
+      "Bash(powershell -NoProfile -File scripts/audit_catalog.ps1*)"
+    ],
+    "deny": [
+      "Read(.env)",
+      "Read(.env.*)",
+      "Read(**/.env)",
+      "Read(**/.env.*)",
+      "Edit(.env)",
+      "Edit(.env.*)",
+      "Edit(**/.env)",
+      "Edit(**/.env.*)",
+      "Write(.env)",
+      "Write(.env.*)",
+      "Write(**/.env)",
+      "Write(**/.env.*)",
+      "Bash(*.env*)",
+      "Bash(rm -rf *)",
+      "Bash(rm -fr *)",
+      "Bash(Remove-Item *)",
+      "Bash(del /f *)",
+      "Bash(rmdir /s *)",
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Bash(git reset --hard*)",
+      "Bash(git clean -f*)",
+      "Bash(git branch -D*)",
+      "Bash(*fetch_covers.py*)",
+      "Bash(*curate_catalog.py*)",
+      "Bash(claude *)",
+      "Bash(copilot *)",
+      "Bash(gemini *)"
+    ]
+  }
+}

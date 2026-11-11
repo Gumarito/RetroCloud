@@ -1,0 +1,11 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        ".*": true,
+        "powershell": true,
+        "Get-Content": true
+    },
+    "chat.tools.terminal.ignoreDefaultAutoApproveRules": true,
+    "github.copilot.chat.terminal.autoApprove": true,
+    "chat.editing.autoAcceptDelay": 0,
+    "terminal.integrated.confirmOnExit": "never"
+}

@@ -1,0 +1,49 @@
+name: 🎮 Sugerir Juego o Añadir Repositorio
+description: ¿Conoces un clásico retro o un port web que debería estar en RetroCloud? ¡Proponlo aquí!
+title: "[Sugerencia]: "
+labels: ["sugerencia", "nuevo-juego"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ¡Gracias por querer expandir el catálogo de **RetroCloud**!
+        Revisamos las sugerencias de la comunidad para agregarlas a `games.json`.
+  - type: input
+    id: game_title
+    attributes:
+      label: Nombre del Juego
+      description: Título exacto del juego o port.
+      placeholder: "Ej: Castlevania: Symphony of the Night / Quake 3 Web"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Categoría o Género
+      options:
+        - "Ports & Decompilaciones"
+        - "Arcade & Retro"
+        - "Clásicos DOS"
+        - "Joyas Indie"
+        - "Nintendo / GBA / SNES"
+        - "PlayStation / PSP"
+        - "Acción / Aventura"
+        - "Lucha / Peleas"
+    validations:
+      required: true
+  - type: input
+    id: game_url
+    attributes:
+      label: Enlace Web / Repositorio (URL)
+      description: URL jugable en navegador o repositorio de GitHub del proyecto.
+      placeholder: "https://ejemplo.github.io/juego o https://github.com/usuario/repo"
+    validations:
+      required: true
+  - type: textarea
+    id: controls_info
+    attributes:
+      label: Controles Básicos (Opcional)
+      description: Teclas principales para jugar si las conoces.
+      placeholder: "WASD: Moverse, Espacio: Saltar, Enter: Start"
+    validations:
+      required: false
